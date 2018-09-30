@@ -9,7 +9,7 @@ permalink: /generating-hashes-on-mac/
 categories:
   - Bash
 ---
-Every time I have to use a checksum on Mac I end up searching on line for the command to use &#8211; and every time I have this niggling feeling that I should be saving this somewhere. Since I&#8217;m not doing this _that_ often I tend to forget. Anyways, here&#8217;s how you do it.
+Every time I have to use a checksum on Mac I end up searching on line for the command to use &#8211; and every time I have this niggling feeling that I should be saving this somewhere. Since I'm not doing this _that_ often I tend to forget. Anyways, here's how you do it.
 
 Here's an example of checking the iTerm2 .zip file before downloading the file:
 

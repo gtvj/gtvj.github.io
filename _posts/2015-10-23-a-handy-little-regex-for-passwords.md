@@ -9,7 +9,7 @@ permalink: /a-handy-little-regex-for-passwords/
 categories:
   - Regular expressions
 ---
-Here&#8217;s a handy little regular expression that makes use of positive lookahead assertions to match a password that contains at least:
+Here's a handy little regular expression that makes use of positive lookahead assertions to match a password that contains at least:
 
   * one uppercase character &#8211; `(?=.*[A-Z])`
   * one lowercase character &#8211; `(?=.*[a-z])`

@@ -11,7 +11,7 @@ categories:
 ---
 <div class="attn">
   <p>
-    This post was originally written for <a href="http://blog.nationalarchives.gov.uk/blog/everyone-accessibility-digital/">The National Archives&#8217; blog</a> in my capacity as Lead Front End Developer.
+    This post was originally written for <a href="http://blog.nationalarchives.gov.uk/blog/everyone-accessibility-digital/">The National Archives' blog</a> in my capacity as Lead Front End Developer.
   </p>
 </div>
 

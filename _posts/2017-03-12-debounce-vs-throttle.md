@@ -19,13 +19,13 @@ Debounce and throttle are techniques used to prevent JavaScript code that runs 
 
 ## Debounce and when to use it
 
-I&#8217;ve always found the term &#8216;debounce&#8217; confusing so I did some research and found it comes from an electronics problem with mechanical switches, the electrical contacts of which can often make and break contact several times in a single push. This is commonly known as &#8216;switch bounce&#8217;.
+I've always found the term 'debounce' confusing so I did some research and found it comes from an electronics problem with mechanical switches, the electrical contacts of which can often make and break contact several times in a single push. This is commonly known as 'switch bounce'.
 
 > Switch bouncing can cause problems. Imagine the situation where pressing a button toggles an LED on and off. If there are an even number of bounces, then the LED will toggle on and then immediately off again, giving the impression that nothing happened.
   
 > <cite><a href="https://www.safaribooksonline.com/library/view/practical-electronics-for/9781259587559/">Practical Electronics for Inventors, 4th Edition</a></cite>
 
-The solution to the bounce effect is to ensure that only a single signal will be acted upon. Doing so is called &#8216;debouncing&#8217; and it&#8217;s very similar to the situation we face in the browser when responding to pointing device, scroll and even keyboard events. Here&#8217;s a debounce method written in JavaScript.
+The solution to the bounce effect is to ensure that only a single signal will be acted upon. Doing so is called 'debouncing' and it's very similar to the situation we face in the browser when responding to pointing device, scroll and even keyboard events. Here's a debounce method written in JavaScript.
 
 
 
@@ -33,10 +33,10 @@ In this example, the `debounce()` function acts as a proxy for the intended eve
 
 ## Throttle and when to use it
 
-Throttling is slightly different because &#8211; as its name suggests &#8211; it limits the number of times a function can be called within a specified period. Here&#8217;s an example of throttling.
+Throttling is slightly different because &#8211; as its name suggests &#8211; it limits the number of times a function can be called within a specified period. Here's an example of throttling.
 
 
 
 As with the previous example, this `throttle()` function is a proxy for a simple logging function but the behaviour is different. With `throttle()` the proxied function will be called immediately and at the specified intervals, as well as once after the event stream has concluded. The throttle function will be most useful when you need your code to **respond immediately and continually but at intervals you specify**.
 
-I&#8217;ve created a [repository with these examples](https://github.com/gtvj/debounce-throttle), as well as Grunt/Babel tasks to transpile the ES6 down for use in production. I really hope this is useful to someone 🙂
+I've created a [repository with these examples](https://github.com/gtvj/debounce-throttle), as well as Grunt/Babel tasks to transpile the ES6 down for use in production. I really hope this is useful to someone 🙂

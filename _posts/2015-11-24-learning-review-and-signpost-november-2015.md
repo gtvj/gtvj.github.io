@@ -14,14 +14,14 @@ categories:
 ---
 ## Plans for this period
 
-My plans for November were to focus on ECMAScript 2015 &#8211; aka ES6, aka ES.next, aka Harmony (which is nice). I suspect that this was my shortest sprint ever &#8211; cut short in part because I learned yesterday that I&#8217;m working on a Rails application in my new role. Since this is an entirely new platform for me I feel I need to divert my attention to that whole ecosystem for at least one Sprint. That sprint starts tomorrow (25 November).
+My plans for November were to focus on ECMAScript 2015 &#8211; aka ES6, aka ES.next, aka Harmony (which is nice). I suspect that this was my shortest sprint ever &#8211; cut short in part because I learned yesterday that I'm working on a Rails application in my new role. Since this is an entirely new platform for me I feel I need to divert my attention to that whole ecosystem for at least one Sprint. That sprint starts tomorrow (25 November).
 
 ## Activity
 
-I completed the Fundamentals of ES6 course from Pluralsight and supplemented that with material from MDN and material on Safari books online. One additional resource I&#8217;d recommend is the new version of the JavaScript Cookbook (2nd Edition), Chapter 10 of which provides some nice coverage of what it terms &#8216;The new JavaScript objects&#8217;.
+I completed the Fundamentals of ES6 course from Pluralsight and supplemented that with material from MDN and material on Safari books online. One additional resource I'd recommend is the new version of the JavaScript Cookbook (2nd Edition), Chapter 10 of which provides some nice coverage of what it terms 'The new JavaScript objects'.
 
-During my studies I created an ES6 sandbox repository which uses Babel to compile what I&#8217;ve termed &#8216;gists&#8217; demonstrating some of the language features. I&#8217;ll definitely be picking up ES2015 again &#8211; probably in the Spring &#8211; and writing about what I think are the best bits.
+During my studies I created an ES6 sandbox repository which uses Babel to compile what I've termed 'gists' demonstrating some of the language features. I'll definitely be picking up ES2015 again &#8211; probably in the Spring &#8211; and writing about what I think are the best bits.
 
 ## Plans for next period
 
-I&#8217;m going to spend the rest of 2015 (feels strange to say that) focussed on learning the Rails development stack.
+I'm going to spend the rest of 2015 (feels strange to say that) focussed on learning the Rails development stack.

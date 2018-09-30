@@ -11,7 +11,7 @@ categories:
   - Development
   - Learning
 ---
-Here&#8217;s a little bit of beauty from AngularJS. I didn&#8217;t realise until today that using `ng-click` within an `ng-repeat` allows you to retain a reference to the object within a specific iteration. That probably sounds a bit more convoluted than it is, so here&#8217;s an illustration.
+Here's a little bit of beauty from AngularJS. I didn't realise until today that using `ng-click` within an `ng-repeat` allows you to retain a reference to the object within a specific iteration. That probably sounds a bit more convoluted than it is, so here's an illustration.
 
 ## Using ng-click within ng-repeat in
 
@@ -31,6 +31,6 @@ The `ng-repeat` directive is then used to iterate over these, creating a HTML s
 
 Notice here that each HTML structure contains a `ng-click` directive that will call `ageEm()`, passing in the `person`, when the button is clicked.
 
-Now, when I first saw this, I thought it couldn&#8217;t possibly work because the person is out of scope when `ng-click` is triggered by the user. **But no!** AngularJS &#8211; somewhat magically &#8211; keeps the `ng-click` bound to the specific person so that the method works as you would hope. No more messing about with putting person IDs on data-attributes or such-like, and greatly simplifying the front-end development tasks of evil geniuses everywhere.
+Now, when I first saw this, I thought it couldn't possibly work because the person is out of scope when `ng-click` is triggered by the user. **But no!** AngularJS &#8211; somewhat magically &#8211; keeps the `ng-click` bound to the specific person so that the method works as you would hope. No more messing about with putting person IDs on data-attributes or such-like, and greatly simplifying the front-end development tasks of evil geniuses everywhere.
 
-Another lovely bit of AngularJS. I&#8217;ll be using this, and you should probably too.
+Another lovely bit of AngularJS. I'll be using this, and you should probably too.

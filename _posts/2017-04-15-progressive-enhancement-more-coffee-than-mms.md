@@ -18,7 +18,7 @@ I looked down, saw our drinks and it occurred to me: **_progressive enhancement 
 
 ### HTML is the espresso
 
-Like a good coffee this metaphor begins with a shot of espresso representing - you guessed it - semantic HTML that **allows users to meet the &#8216;core' needs without reliance upon CSS or JavaScript capabilities**.
+Like a good coffee this metaphor begins with a shot of espresso representing - you guessed it - semantic HTML that **allows users to meet the 'core' needs without reliance upon CSS or JavaScript capabilities**.
 
 Here's the first difference to the M&M metaphor: remove the peanut from a Peanut M&M and it's still an M&M (and let's face it - many of us care more about chocolate than peanuts). But a cappuccino without espresso is no longer a coffee. I could stretch things here with the importance of quality espresso but hopefully you get my drift: **the coffee itself is the payload.** It's what everyone expects.
 
@@ -34,7 +34,7 @@ This view of enhancements not being _just_ enhancements is brilliantly put by [
  
 #### I think of it as a hierarchy
 
- I like to think of enhancements as being similar to everything above &#8216;physiological needs' in Maslow's hierarchy of needs. You can survive without them but it wouldn't be much of a life by most standards; that said, **I wouldn't want my oxygen supply to be reliant upon my sense of social belonging**.
+ I like to think of enhancements as being similar to everything above 'physiological needs' in Maslow's hierarchy of needs. You can survive without them but it wouldn't be much of a life by most standards; that said, **I wouldn't want my oxygen supply to be reliant upon my sense of social belonging**.
 
 ### Everything else is an enhancement
 
@@ -49,17 +49,17 @@ This might seem like a minor detail but it can lead to very real problems rangi
 
 
 
-The end result is the same: like putting a sign up saying _&#8216;Apologies to our lactose intolerant or vegan customers but all our coffees are made with cows milk'_.
+The end result is the same: like putting a sign up saying _'Apologies to our lactose intolerant or vegan customers but all our coffees are made with cows milk'_.
 
 ### And that's before we look below the surface
 
-Things get a lot more complex when you look beneath the surface. It's not just a case of determining whether a user has &#8216;CSS' or &#8216;JavaScript' anymore - it's a question of what APIs, features and versions the browser supports. This is why feature detection, transpilation and tools like [canIuse.com](http://caniuse.com/#) are an essential part of a modern workflow. A quick check of the Modernizr source code suggests there are about 270 detects available. That's 270 capabilities that some, but not all, of your users will have. That's pretty incredible - and it's not stopping any time soon. Browsers will continue to implement features that set them apart from their competition, and occasionally - because they've been shipped so early - this can result in partial, inconsistent implementations of (sometimes dead) specifications across browsers.<figure id="attachment_1283" style="width: 1024px" class="wp-caption alignnone">
+Things get a lot more complex when you look beneath the surface. It's not just a case of determining whether a user has 'CSS' or 'JavaScript' anymore - it's a question of what APIs, features and versions the browser supports. This is why feature detection, transpilation and tools like [canIuse.com](http://caniuse.com/#) are an essential part of a modern workflow. A quick check of the Modernizr source code suggests there are about 270 detects available. That's 270 capabilities that some, but not all, of your users will have. That's pretty incredible - and it's not stopping any time soon. Browsers will continue to implement features that set them apart from their competition, and occasionally - because they've been shipped so early - this can result in partial, inconsistent implementations of (sometimes dead) specifications across browsers.<figure id="attachment_1283" style="width: 1024px" class="wp-caption alignnone">
 
 ![](/wp-content/uploads/2017/04/Screenshot-from-2017-04-13-21-17-04-1024x816.png)
 
 A ‘heads up' to those who may have implemented the FileSystem API that the specification has been dropped.
 
-In our coffee metaphor this can be represented by the huge variety of options that now exist. It's not just &#8216;milk' any more, it's cow's milk (whole, semi-skimmed, skimmed) or soya milk, or almond milk - each of which might be steamed, extra hot or warm. Then there's the flavoured syrups - hazelnut (sugar or sugar-free), peppermint, vanilla, caramel. Then there's the toppings, and so on.
+In our coffee metaphor this can be represented by the huge variety of options that now exist. It's not just 'milk' any more, it's cow's milk (whole, semi-skimmed, skimmed) or soya milk, or almond milk - each of which might be steamed, extra hot or warm. Then there's the flavoured syrups - hazelnut (sugar or sugar-free), peppermint, vanilla, caramel. Then there's the toppings, and so on.
 
 **Setting a high baseline for your users with a view to degrading gracefully is a bit like starting all coffees with a syrup then adding other flavours to counter it for those who didn't want it in the first place.** This can cause development to quickly feel like every change made to accommodate one scenario impacts adversely on another, with workarounds becoming so convoluted that change feels daunting. Development slows down, morale drops and a split - or even tensions - can emerge between those seeking changes and those making them. Not a good scenario for a team or a product.
 

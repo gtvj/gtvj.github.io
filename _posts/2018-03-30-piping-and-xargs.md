@@ -26,7 +26,7 @@ In this example, everything but `file.txt` will be removed from the working dire
   2. `grep` is passed the `-v` argument which inverts its behaviour, returning everything **but** `file.txt`
   3. The output of `grep` is then piped into `xargs` which in turn passes each result to `rm` (which removes each item passed to it). _Note: the `-t` argument simply shows the resulting command that is run by `xargs`_
 
-I thought that was a nice simple way of achieving what I needed and, since it also neatly demonstrates how piping and `xargs` works, I thought I&#8217;d post it here.
+I thought that was a nice simple way of achieving what I needed and, since it also neatly demonstrates how piping and `xargs` works, I thought I'd post it here.
 
 ## Using xargs with commands that take two arguments
 
@@ -52,7 +52,7 @@ ls | grep -e '.*py$' | xargs -I '{}' mv '{}' ../python
   </ul>
 </li>
 
-I should explain that I initially found this confusing because it looked to me that standard input was being placed both before and after the mv command. That isn&#8217;t the case because the first instance of `'{}'` is simply providing a name for the value received from standard input. I&#8217;ve experimented with this and you could achieve the exact same thing with something other than `'{}'`. Here&#8217;s an example where I&#8217;m copying files using `'{blah}'`:
+I should explain that I initially found this confusing because it looked to me that standard input was being placed both before and after the mv command. That isn't the case because the first instance of `'{}'` is simply providing a name for the value received from standard input. I've experimented with this and you could achieve the exact same thing with something other than `'{}'`. Here's an example where I'm copying files using `'{blah}'`:
 
 ```bash
 ls | grep .py | xargs -I {blah} cp {blah} new-{blah}

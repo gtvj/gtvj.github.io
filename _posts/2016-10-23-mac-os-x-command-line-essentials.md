@@ -13,25 +13,25 @@ categories:
   - Signpost
   - Unix
 ---
-As our team move to Mac OS X development environments and Git version control I wanted to prepare a post covering some Command Line essentials. As a developer working with these technologies you don&#8217;t _have to_ use the command line but you&#8217;ll probably _want to,_ at least some of the time. This post is intended to be something of a beginners reference.
+As our team move to Mac OS X development environments and Git version control I wanted to prepare a post covering some Command Line essentials. As a developer working with these technologies you don't _have to_ use the command line but you'll probably _want to,_ at least some of the time. This post is intended to be something of a beginners reference.
 
-In preparing this post I&#8217;ve used a few  sources including:
+In preparing this post I've used a few  sources including:
 
-  * Kevin Skoglund&#8217;s excellent [Unix for Mac OS X Users](http://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html) course
-  * Joe Kissel&#8217;s [Take Control of the Mac Command Line with Terminal](https://www.safaribooksonline.com/library/view/take-control-of/9781457191107/) book
-  * William Shott&#8217;s [The Linux command Line](https://www.safaribooksonline.com/library/view/the-linux-command/9781593273897/) book
-  * Andrew Mallet&#8217;s [Linux Command Line Interface (CLI) Fundamentals course](https://app.pluralsight.com/library/courses/linux-cli-fundamentals/table-of-contents)
+  * Kevin Skoglund's excellent [Unix for Mac OS X Users](http://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html) course
+  * Joe Kissel's [Take Control of the Mac Command Line with Terminal](https://www.safaribooksonline.com/library/view/take-control-of/9781457191107/) book
+  * William Shott's [The Linux command Line](https://www.safaribooksonline.com/library/view/the-linux-command/9781593273897/) book
+  * Andrew Mallet's [Linux Command Line Interface (CLI) Fundamentals course](https://app.pluralsight.com/library/courses/linux-cli-fundamentals/table-of-contents)
 
-Here&#8217;s a summary of the essentials that will probably be most useful.
+Here's a summary of the essentials that will probably be most useful.
 
 ## Basics of the Command Line
 
 The command line is simply an different way of interacting with the operating system or running programs. You type commands at a prompt instead of using a GUI. This can be off-putting initially, but a little bit of learning can save you a lot of time. For example, I can empty the contents of my Downloads directory in Mac OS X by either:
 
-  * Clicking on Finder in the dock, clicking on &#8216;Downloads&#8217; in the favourites, selecting all the documents shown and selecting &#8216;Move to trash&#8217; from the context menu, or;
+  * Clicking on Finder in the dock, clicking on 'Downloads' in the favourites, selecting all the documents shown and selecting 'Move to trash' from the context menu, or;
   * Typing `cd ~/Downloads; rm *` in **Terminal** (the command line application provided on Mac OS X)
 
-Admittedly, the second option seems a bit cryptic but it quickly becomes second nature as you start to use the command line. Let&#8217;s unpick this example. We have two independent commands separated by a semi-colon. The first command &#8216;`cd`&#8216; navigates &#8211; or &#8216;**c**hanges **d**irectory&#8217; &#8211; to Downloads in our home directory. The second command, &#8216;`rm`&#8216; **r**e**m**oves everything (denoted by &#8216;*&#8217;) in the current directory.
+Admittedly, the second option seems a bit cryptic but it quickly becomes second nature as you start to use the command line. Let's unpick this example. We have two independent commands separated by a semi-colon. The first command '`cd`' navigates &#8211; or '**c**hanges **d**irectory' &#8211; to Downloads in our home directory. The second command, '`rm`' **r**e**m**oves everything (denoted by '*') in the current directory.
 
 ## Essential commands
 
@@ -41,11 +41,11 @@ Here are a few essential commands which I suggest beginners have a play around 
 
   * `pwd` (**p**rint **w**orking **d**irectory) shows your current location in the file system.
   * Use `cd` (**c**hange **d**irectory) to move around the file system (`cd ~` takes you back to the home directory, `cd -` lets you toggle to your last directory).
-  * ls will **l**i**s**t what&#8217;s in the current directory
+  * ls will **l**i**s**t what's in the current directory
 
 ### Using history {#history}
 
-You can view all of your previous commands by typing `history`. When you do this, you&#8217;ll see a number next to each command. By typing that number preceded by &#8216;!&#8217; you&#8217;ll be able to run that command instantly. The history can get pretty long, so it is really helpful to search for a specific command. I often find myself doing this for long Git commands (such as `git log --oneline --decorate --graph`). To do this I&#8217;d type `history | grep log` which is essentially &#8216;piping&#8217; the output of history through another command (grep &#8211; an amazingly powerful search utility) which searches for a specific pattern, in this case &#8216;log&#8217;.
+You can view all of your previous commands by typing `history`. When you do this, you'll see a number next to each command. By typing that number preceded by '!' you'll be able to run that command instantly. The history can get pretty long, so it is really helpful to search for a specific command. I often find myself doing this for long Git commands (such as `git log --oneline --decorate --graph`). To do this I'd type `history | grep log` which is essentially 'piping' the output of history through another command (grep &#8211; an amazingly powerful search utility) which searches for a specific pattern, in this case 'log'.
 
 #### History shortcuts
 
@@ -53,9 +53,9 @@ You can view all of your previous commands by typing `history`. When you do this
   * `!?<em>str</em>` lets you **find the last command the _contains_ str**
   * `!$` gives you **access to your last argument**. For example, if the last command you typed was `cd ~/Downloads` and you followed that with `!$` you would be presented with `~/Downloads`
 
-#### Update &#8211; even better history with &#8216;reverse-i-search&#8217; {#update}
+#### Update &#8211; even better history with 'reverse-i-search' {#update}
 
-I&#8217;ve just today been introduced to a really handy command line feature called `reverse-i-search`. What this does is allow you to search your history and traverse the results. Simply type <kbd>Ctrl + R</kbd> within a terminal window to bring up the search, enter your keyword and then repeat <kbd>Ctrl + R</kbd> to traverse the matches.
+I've just today been introduced to a really handy command line feature called `reverse-i-search`. What this does is allow you to search your history and traverse the results. Simply type <kbd>Ctrl + R</kbd> within a terminal window to bring up the search, enter your keyword and then repeat <kbd>Ctrl + R</kbd> to traverse the matches.
 
 ### Creating, moving and deleting files
 
@@ -65,13 +65,13 @@ I&#8217;ve just today been introduced to a really handy command line feature cal
 
 ### Searching with find
 
-The find command recursively searches directories, looking at every file until it finds a match. For example, I can find all the files anywhere in my home directory with names that contain the string &#8216;index&#8217; with:
+The find command recursively searches directories, looking at every file until it finds a match. For example, I can find all the files anywhere in my home directory with names that contain the string 'index' with:
 
 `find ~ -name "*index*"`
 
 ### Fun utilities
 
-There are many useful utilities available on the command line, here are a couple of the more &#8216;fun&#8217; ones (use the `man` command to find out more about them)
+There are many useful utilities available on the command line, here are a couple of the more 'fun' ones (use the `man` command to find out more about them)
 
   * the `expr` command provides a simple calculator
   * `units` provides a simple way to convert units of temperature, length, area etc.
@@ -102,16 +102,16 @@ the `say` command lets you use Mac OS X text to speech capability. For example:
 ## General tips
 
   * Every command has a manual page accessed by typing man followed by the command name (i.e. `man pwd`)
-  * Because the Terminal can show both the commands you&#8217;ve typed and their output, the screen can get a bit cluttered. At any point you can use the `clear` command to _hide_ the scrollback (your previous commands and their output) or <kbd>cmd + k</kbd> to _clear_ the scroll back.
+  * Because the Terminal can show both the commands you've typed and their output, the screen can get a bit cluttered. At any point you can use the `clear` command to _hide_ the scrollback (your previous commands and their output) or <kbd>cmd + k</kbd> to _clear_ the scroll back.
   * All commands follow a specific structure: command _optionally_ followed by options _optionally_ followed by arguments. i.e. `ls -a Pictures`
   * You can separate commands with a semi-colon
 
 ## Bringing it all together
 
-Here&#8217;s a little something which, using the techniques shown above (and one other called xargs, which is probably a bit too much to go into at this point) can save you time every time you sit down to start working. By typing
+Here's a little something which, using the techniques shown above (and one other called xargs, which is probably a bit too much to go into at this point) can save you time every time you sit down to start working. By typing
 
 `echo 'SourceTree.app PhpStorm.app MAMP\ PRO.app' | xargs -t -n1 open -a`
 
-You&#8217;ll instantly open SourceTree, PhpStorm and Mamp Pro. Yes, that&#8217;s a lot to type but you can very easily save an alias for that command as, say, `devgo` which would allow you to open all your development software.
+You'll instantly open SourceTree, PhpStorm and Mamp Pro. Yes, that's a lot to type but you can very easily save an alias for that command as, say, `devgo` which would allow you to open all your development software.
 
 I really hope this post will be useful to others and would be very happy to clarify or help with any of the commands/techniques mentioned.
