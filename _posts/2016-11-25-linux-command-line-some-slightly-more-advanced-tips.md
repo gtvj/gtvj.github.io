@@ -1,6 +1,6 @@
 ---
 id: 884
-title: 'Linux command line &#8211; some slightly more advanced tips'
+title: 'Linux command line - some slightly more advanced tips'
 date: 2016-11-25T21:55:06+00:00
 author: Gwyn
 layout: post
