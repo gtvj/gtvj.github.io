@@ -1,6 +1,6 @@
 ---
 id: 632
-title: 'Learning review and signpost September &#8211; October 2015'
+title: 'Learning review and signpost September to October 2015'
 date: 2015-10-31T19:03:28+00:00
 author: Gwyn
 layout: post
