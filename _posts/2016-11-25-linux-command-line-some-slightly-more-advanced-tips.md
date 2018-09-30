@@ -31,7 +31,7 @@ The `man` command allows you to see a 'manual' for a given command but these are
 
 ### chmod to change permissions {#chmod}
 
-`chmod` can be used to alter a file’s permissions. It can be a little confusion because it provides several forms of command syntax to achieve the same thing. These including octal, binary and &#8211; perhaps easiest to grasp &#8211; the mnemonic form. For users the mnemonic forms are: `u` for user, `g` for group, `o` for other, `a` for all. For permissions it's: `r` for read, `w` for write and `x` for execute
+`chmod` can be used to alter a file’s permissions. It can be a little confusion because it provides several forms of command syntax to achieve the same thing. These including octal, binary and to perhaps easiest to grasp to the mnemonic form. For users the mnemonic forms are: `u` for user, `g` for group, `o` for other, `a` for all. For permissions it's: `r` for read, `w` for write and `x` for execute
 
 For example:
 
@@ -60,14 +60,14 @@ These two commands can be used to find files but they work in different ways. Si
   * `find ~ -type f -name "*.js" -size +1M | wc -l` tells you how many '.js' files are larger than one MB. You can see how something like this might be useful for testing.
   * `find ~ -cmin -4 -type f` will show all files with contents or attributes that were last modified less than 4 minutes ago (there is also a `-mmin` option which looks for content changes only).
 
-This is really just the beginning &#8211; there is lots you can achieve with `find`.
+This is really just the beginning to there is lots you can achieve with `find`.
 
 ### Shutdown {#shutdown}
 
 One of the things I initially missed when moving from Mac to Linux was the ability within Alfred to quickly shut down or restart a machine.
 
-  * `shutdown -h now` &#8211; will shut down immediately
-  * `shutdown -r now` &#8211; will restart immediately
+  * `shutdown -h now` to will shut down immediately
+  * `shutdown -r now` to will restart immediately
 
 There are other options that can be found on the `man` page.
 

@@ -11,12 +11,12 @@ categories:
   - ES6/ES2015
   - JavaScript
 ---
-These are simply **string literals **that allow for **embedded expressions. **They _can_ &#8211; but need not necessarily &#8211; include placeholders.
+These are simply **string literals **that allow for **embedded expressions. **They _can_ to but need not necessarily to include placeholders.
 
 Some uses for template literals are:
 
   * Multi-line strings
-  * Expression interpolation &#8211; anything within a placeholder will be parsed and evaluated inline _**immediately**_
+  * Expression interpolation to anything within a placeholder will be parsed and evaluated inline _**immediately**_
 
 
 
@@ -30,4 +30,4 @@ For this reason he suggests they should have been called _interpolated string l
 
 ## Related concepts
 
-In addition to template literals as described here, ES6 introduced [tagged template literals and raw strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Tagged_template_literals) &#8211; it's worth being aware of these but, to be honest, I can't immediately see a use case for them.
+In addition to template literals as described here, ES6 introduced [tagged template literals and raw strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Tagged_template_literals) to it's worth being aware of these but, to be honest, I can't immediately see a use case for them.

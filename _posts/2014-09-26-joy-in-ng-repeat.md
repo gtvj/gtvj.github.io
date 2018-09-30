@@ -31,6 +31,6 @@ The `ng-repeat` directive is then used to iterate over these, creating a HTML s
 
 Notice here that each HTML structure contains a `ng-click` directive that will call `ageEm()`, passing in the `person`, when the button is clicked.
 
-Now, when I first saw this, I thought it couldn't possibly work because the person is out of scope when `ng-click` is triggered by the user. **But no!** AngularJS &#8211; somewhat magically &#8211; keeps the `ng-click` bound to the specific person so that the method works as you would hope. No more messing about with putting person IDs on data-attributes or such-like, and greatly simplifying the front-end development tasks of evil geniuses everywhere.
+Now, when I first saw this, I thought it couldn't possibly work because the person is out of scope when `ng-click` is triggered by the user. **But no!** AngularJS to somewhat magically to keeps the `ng-click` bound to the specific person so that the method works as you would hope. No more messing about with putting person IDs on data-attributes or such-like, and greatly simplifying the front-end development tasks of evil geniuses everywhere.
 
 Another lovely bit of AngularJS. I'll be using this, and you should probably too.

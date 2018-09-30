@@ -18,7 +18,7 @@ categories:
 > 
 > <cite>Stephen R. Covey. “The 7 Habits of Highly Effective People.”</cite>
 
-There have been many things during my life that I've wanted to change. In some cases I've been successful but for many I have not. One thing I've noticed that can impact upon the 'sticking power' of a personal change &#8211; whether it's adopting Unit Testing, exercising regularly or giving up refined sugar &#8211; is the ability to make it through those first few days. Generally speaking I've found that the ability to do (or not do) something for perhaps a week will mean that I'll be able to stick with it for much longer, and that it becomes easier &#8211; or even entirely natural &#8211; to do it.
+There have been many things during my life that I've wanted to change. In some cases I've been successful but for many I have not. One thing I've noticed that can impact upon the 'sticking power' of a personal change to whether it's adopting Unit Testing, exercising regularly or giving up refined sugar to is the ability to make it through those first few days. Generally speaking I've found that the ability to do (or not do) something for perhaps a week will mean that I'll be able to stick with it for much longer, and that it becomes easier to or even entirely natural to to do it.
 
 For a long time I've referred to this as giving a habit or behaviour time to gain sufficient momentum. I think that's an OK analogy but I prefer this one from the 7 Habits of Highly Effective People because it better reflects the pull our previous behaviours can have upon us.
 

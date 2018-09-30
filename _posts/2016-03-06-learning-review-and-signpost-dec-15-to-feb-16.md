@@ -28,18 +28,18 @@ Some specific activities I've completed (in addition to day-to-day working on th
 
   * Completing Kevin Skoglund's [Ruby on Rails 4 Essential Training](http://www.lynda.com/Ruby-Rails-tutorials/Ruby-Rails-4-Essential-Training/139989-2.html) on Lynda.com
   * Completing Kevin Skoglund's [Ruby Essential Training](http://www.lynda.com/Ruby-tutorials/essential-training/47905-2.html) on Lynda.com
-  * Reading <a href="https://www.safaribooksonline.com/library/view/eloquent-ruby/9780321700308/" target="_blank">Eloquent Ruby</a> &#8211; which, incidentally, has a really good chapter on regular expressions
+  * Reading <a href="https://www.safaribooksonline.com/library/view/eloquent-ruby/9780321700308/" target="_blank">Eloquent Ruby</a> to which, incidentally, has a really good chapter on regular expressions
   * Reading Practical <a href="https://www.safaribooksonline.com/library/view/practical-object-oriented-design/9780132930895/" target="_blank">Object-Oriented Design in Ruby</a>
 
 ### Other useful things I learned / encountered
 
-Having started in a new role I've had quite a lot of new technology and processes to get familiar with. I've had some excellent help, support and guidance from the tech lead on our project who &#8211; like many of the other people I've met in the organisation &#8211; is incredibly capable, motivated and bright. Some of the best new things I've come across are:
+Having started in a new role I've had quite a lot of new technology and processes to get familiar with. I've had some excellent help, support and guidance from the tech lead on our project who to like many of the other people I've met in the organisation to is incredibly capable, motivated and bright. Some of the best new things I've come across are:
 
   * 'Reverse i search' for quickly accessing items from your command line history
   * <a href="https://www.iterm2.com/" target="_blank">iTerm2</a> and <a href="https://en.wikipedia.org/wiki/Z_shell" target="_blank">Z Shell</a> which combine to provide several benefits to command line work
   * As someone who has been using <a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank">Git Flow</a> for a while I've been getting used to <a href="https://guides.github.com/introduction/flow/" target="_blank">GitHub flow</a> and, I must say, I really like working with the 'pull request' process in a team.
   * I've significantly [improved my commit message discipline](http://chris.beams.io/posts/git-commit/)
-  * Written a few blog posts on the [Template Method Pattern](https://52.27.200.123/the-template-method-pattern/), [Regular Expressions](https://52.27.200.123/regular-expression-revision/), [extracting Base64 image data](https://52.27.200.123/extracting-base64-image-data/) and my &#8211; very early &#8211; experiences in [using Vim](https://52.27.200.123/the-road-to-vim/)
+  * Written a few blog posts on the [Template Method Pattern](https://52.27.200.123/the-template-method-pattern/), [Regular Expressions](https://52.27.200.123/regular-expression-revision/), [extracting Base64 image data](https://52.27.200.123/extracting-base64-image-data/) and my to very early to experiences in [using Vim](https://52.27.200.123/the-road-to-vim/)
 
 ## In review
 

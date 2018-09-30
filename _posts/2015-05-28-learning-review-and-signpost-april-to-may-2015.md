@@ -14,7 +14,7 @@ categories:
 ---
 ## Plans for this period
 
-This sprint was focussed on getting to grips with new developments in PHP. I've heard a lot of good things about emerging standards and &#8211; having been focussing my study on other topics &#8211; I felt now would be a good time to get a handle on what's been happening.
+This sprint was focussed on getting to grips with new developments in PHP. I've heard a lot of good things about emerging standards and to having been focussing my study on other topics to I felt now would be a good time to get a handle on what's been happening.
 
 ## Activity
 
@@ -36,7 +36,7 @@ There are a few things which really stood out as important from these sources.
 The [PHP Framework Interop Group](http://www.php-fig.org/) (or PHP-FIG) have established a range of standards to help improve intraframework consistency and performance. These standards are known as PHP standards recommendations (or PSRs) and cover an increasing range of things:
 
   * PSR-0 and PSR-4 provide a standard for autoloading classes. Why two? Because PSR-4 is an 'improved autoloading standard'
-  * PSR-1 and PSR-2 cover coding standards and style respectively &#8211; two issues which I feel are very important. Note: if you're using PhpStorm you can easily set it up to auto-format your code to comply with these PSRs
+  * PSR-1 and PSR-2 cover coding standards and style respectively to two issues which I feel are very important. Note: if you're using PhpStorm you can easily set it up to auto-format your code to comply with these PSRs
 
 These standards don't just apply to framework developers, they provide **solid guidelines which will improve the code quality and consistency in development teams that adopt them**.
 
@@ -56,7 +56,7 @@ Having encountered PDO I can't imagine using anything else to interact with a da
   * Using **PDO statements** and **bound parameters **allows you to _safely inject foreign input into queries _without worrying about SQL injection
   * It provides **a broad range of methods** to use when retrieving results (`fetch()`, `fetchAll()`, `fetchColumn()` and `fetchObject()`) which accept constants that allow you to specify how you want the results. For example, `fetch(PDO::FETCH_OBJ)` will return an _object _whose properties are database column names
 
-Most of these concepts are illustrated in the figure below &#8211; see the comments for an explanation.<figure id="attachment_304" style="width: 640px" class="wp-caption alignnone">
+Most of these concepts are illustrated in the figure below to see the comments for an explanation.<figure id="attachment_304" style="width: 640px" class="wp-caption alignnone">
 
 [<img class="wp-image-304 size-large" src="http://15v.co/wp-content/uploads/2015/05/pdo-997x1024.png" alt="PDO example" width="640" height="657" />](http://15v.co/wp-content/uploads/2015/05/pdo.png)<figcaption class="wp-caption-text">Example usage of PDO</figcaption></figure> 
 
@@ -67,9 +67,9 @@ Most of these concepts are illustrated in the figure below &#8211; see the comme
 There's a lot more really good stuff happening in modern PHP, including:
 
   * New language features include: **namespaces** (which can be imported and aliased), **interfaces**, **traits** (think interface with implementation), **generators** (simple iterators), **closures** and **anonymous functions** (which will be familiar to you if you're from a JavaScript background)
-  * [PHPUnit](https://phpunit.de/) (_the_ unit testing framework for PHP which &#8211; having looked into it further &#8211; I'm certainly using it routinely from now on)
+  * [PHPUnit](https://phpunit.de/) (_the_ unit testing framework for PHP which to having looked into it further to I'm certainly using it routinely from now on)
   * [Xdebug](http://xdebug.org/) for debugging and profiling
-  * the [Command Line Interface](http://php.net/manual/en/features.commandline.usage.php) &#8211; which provides a really nice way to run scripts without firing up a web server
+  * the [Command Line Interface](http://php.net/manual/en/features.commandline.usage.php) to which provides a really nice way to run scripts without firing up a web server
   * the [built-in web server](http://php.net/manual/en/features.commandline.webserver.php) which provides a really nice way to fire up a web server without using Apache
 
 ## Outcomes

@@ -20,20 +20,20 @@ The plan for this period was a deep-dive into using Git and GitHub (or other co
 
 To develop these skills I chose a few resources, including:
 
-  * The [Git and GitHub LiveLessons course](https://www.safaribooksonline.com/library/view/git-and-github/9780133992748/) from Addison Wesley. This is a comprehensive learning resource in which Peter Bell &#8211; a GitHub trainer &#8211; starts at the very basics of Git as a command line tool and progresses through to effective collaboration strategies using GitHub.
+  * The [Git and GitHub LiveLessons course](https://www.safaribooksonline.com/library/view/git-and-github/9780133992748/) from Addison Wesley. This is a comprehensive learning resource in which Peter Bell to a GitHub trainer to starts at the very basics of Git as a command line tool and progresses through to effective collaboration strategies using GitHub.
   * The ['Basics of Git and GitHub'](https://www.youtube.com/watch?v=U8GBXvdmHT4) webcast from GitHub which provides a really nice overview. This includes an introduction to the pretty amazing 'image diff' tool from GitHub (described from [47:23](https://youtu.be/U8GBXvdmHT4?t=47m27s)).
-  * A resource I would strongly recommend for the time constrained is the [GitHub and Git Foundations training](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-) YouTube playlist. The format for this is a series of short (around 5 minute) introductions to key features. I found this format great as both a learning tool &#8211; since I could watch one when I was, say, washing up &#8211; and as a good way to remind myself of key concepts.
-  * The documentation available via the command line (via &#8211;help) and on the [Git](http://git-scm.com) website. On this point, it's worth remembering that &#8211; in addition to the extensive documentation &#8211; the Git site also provides access to a free online edition of [Pro Git](http://git-scm.com/book/en/v2) from Apress.
+  * A resource I would strongly recommend for the time constrained is the [GitHub and Git Foundations training](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-) YouTube playlist. The format for this is a series of short (around 5 minute) introductions to key features. I found this format great as both a learning tool to since I could watch one when I was, say, washing up to and as a good way to remind myself of key concepts.
+  * The documentation available via the command line (via tohelp) and on the [Git](http://git-scm.com) website. On this point, it's worth remembering that to in addition to the extensive documentation to the Git site also provides access to a free online edition of [Pro Git](http://git-scm.com/book/en/v2) from Apress.
 
 ## Outcomes
 
-There's no doubt that my understanding of Git and GitHub has improved considerably during this period, and I've been sharing this knowledge with the Designers and Developers I work with. I feel confident in using these tools effectively, and am now routinely using both on Windows and Mac (via the Command Line, GUIs and web interfaces). I also feel much more capable of participating in Open Source projects &#8211; which is great. This is all good stuff, and the time spent has been well invested.
+There's no doubt that my understanding of Git and GitHub has improved considerably during this period, and I've been sharing this knowledge with the Designers and Developers I work with. I feel confident in using these tools effectively, and am now routinely using both on Windows and Mac (via the Command Line, GUIs and web interfaces). I also feel much more capable of participating in Open Source projects to which is great. This is all good stuff, and the time spent has been well invested.
 
 One significant but unexpected benefit is gaining an understanding of the tried and tested workflows for Git. Atlassian provide a great resource for [understanding and comparing these](https://www.atlassian.com/git/tutorials/comparing-workflows/). One I'm particularly attracted to is [Git Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) on the basis that it
 
 > &#8230;provides a strict branching model [which] &#8230;provides a robust framework for managing larger projects
 
-I will be strongly suggesting this for larger Git-based projects involving several team members. It is relatively controlled, but provides a huge amount of confidence &#8211; and that's priceless.
+I will be strongly suggesting this for larger Git-based projects involving several team members. It is relatively controlled, but provides a huge amount of confidence to and that's priceless.
 
 ## Plans for next sprint
 

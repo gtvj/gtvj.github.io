@@ -1,6 +1,6 @@
 ---
 id: 485
-title: 'Learning review and signpost June &#8211; August 2015'
+title: 'Learning review and signpost June to August 2015'
 date: 2015-08-29T15:36:54+00:00
 author: Gwyn
 layout: post
@@ -19,7 +19,7 @@ This has been a busy period both professionally and personally. On the professio
   * Working with the team to adapt to the new approaches, tools and mindset (while we were refining our practices and processes).
   * Balancing this activity with those projects where I'm coding and/or leading development.
 
-On the personal front, my sons are increasingly delightful, wilful and energetic &#8211; all good things which combine in life being remarkably busy. I also celebrated my 40th birthday which led to the kind of reflection you might expect. It's all good.
+On the personal front, my sons are increasingly delightful, wilful and energetic to all good things which combine in life being remarkably busy. I also celebrated my 40th birthday which led to the kind of reflection you might expect. It's all good.
 
 ## Plans for this period
 
@@ -40,7 +40,7 @@ I therefore left things relatively loose at the outset and decided I'd simply lo
 
 ### PHP
 
-  * Completed David Powers' [Up and running with the Standard PHP Library (SPL)](http://www.lynda.com/PHP-tutorials/Up-Running-Standard-PHP-Library/175038-2.html) course from Lynda.com in order to better understand the capabilities of this collection of classes and interfaces which have been part of PHP since 2004. It's a good course to do a run through &#8211; especially since the documentation on SPL is shockingly sparse. The only problem is that the material is so disparate that I haven't retained much more than a helicopter view of its capabilities.
+  * Completed David Powers' [Up and running with the Standard PHP Library (SPL)](http://www.lynda.com/PHP-tutorials/Up-Running-Standard-PHP-Library/175038-2.html) course from Lynda.com in order to better understand the capabilities of this collection of classes and interfaces which have been part of PHP since 2004. It's a good course to do a run through to especially since the documentation on SPL is shockingly sparse. The only problem is that the material is so disparate that I haven't retained much more than a helicopter view of its capabilities.
   * Completed John Peck's [Object Oriented Programming with PHP course](http://www.lynda.com/PHP-tutorials/Object-Oriented-Programming-PHP/107953-2.html) from Lynda.com. This was a pretty good refresher on the OO capabilities of PHP and would be very good for someone who either knows PHP but isn't yet familiar with OO or who is familiar with OO in other languages but new to OO PHP. I'd definitely recommend it. One of the things I really like about this type of course is that you get to see how another developer would tackle a problem.
 
 ### WordPress

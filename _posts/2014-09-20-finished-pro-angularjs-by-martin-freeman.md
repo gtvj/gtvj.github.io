@@ -19,15 +19,15 @@ I started the book on 6 July, and it took me **63 study hours** to complete the
 
 ## What I got out of it
 
-At this time I'd say I've got a good grasp of AngularJS fundamentals and would feel pretty comfortable creating a single-page application using it. I'll need to do more &#8211; and get some real hands-on experience &#8211; before I'd add it as a skill to my CV, though.
+At this time I'd say I've got a good grasp of AngularJS fundamentals and would feel pretty comfortable creating a single-page application using it. I'll need to do more to and get some real hands-on experience to before I'd add it as a skill to my CV, though.
 
 ## Was this time well spent?
 
 The Pro AngularJS book is good and seems to provide a pretty comprehensive overview of the framework. That said, it seemed to me to be three separate books combined into one:
 
   1. Around 40% of the book is a well structured, written and considered introduction to AngularJS features and best practices.
-  2. A further 30% introduces the more advanced features of the framework. I think he does a great job providing context for these but I can't really see any but the most advanced users feeling comfortable in their use &#8211; initially, at least.
-  3. The remainder &#8211; which is actually presented first &#8211; is an example AngularJS project.
+  2. A further 30% introduces the more advanced features of the framework. I think he does a great job providing context for these but I can't really see any but the most advanced users feeling comfortable in their use to initially, at least.
+  3. The remainder to which is actually presented first to is an example AngularJS project.
 
 For my purposes, it would have been better if these had been delivered as two separate titles, with an accompanying coding project. That said, this would be hard to achieve because so many of the concepts are interrelated.
 
@@ -39,4 +39,4 @@ I think I'm also going to divert more of my efforts to video courses, since th
 
 ## Next steps
 
-Over the next day or so I'll decide what I'll tackle next. At the moment I'm quite keen on the [AngularJS Fundamentals](http://beta.pluralsight.com/courses/angularjs-fundamentals) course from Pluralsight. I'm also considering taking a break from JavaScript and maybe looking at something else &#8211; maybe Git, maybe even SVG. Who knows.
+Over the next day or so I'll decide what I'll tackle next. At the moment I'm quite keen on the [AngularJS Fundamentals](http://beta.pluralsight.com/courses/angularjs-fundamentals) course from Pluralsight. I'm also considering taking a break from JavaScript and maybe looking at something else to maybe Git, maybe even SVG. Who knows.

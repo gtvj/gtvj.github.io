@@ -9,7 +9,7 @@ permalink: /my-favourite-features-of-webstorm/
 categories:
   - Tooling
 ---
-I recently moved from using Sublime Text as my primary code editor to WebStorm. When a colleague noticed my enthusiasm for this new editor, he asked what it was that I liked so much about it. I didn't provide the answer I would have liked to, so here's a breakdown of the features which I like so much about it &#8211; in no particular order.
+I recently moved from using Sublime Text as my primary code editor to WebStorm. When a colleague noticed my enthusiasm for this new editor, he asked what it was that I liked so much about it. I didn't provide the answer I would have liked to, so here's a breakdown of the features which I like so much about it to in no particular order.
 
 ## Live editing
 
@@ -17,7 +17,7 @@ One nice feature of WebStorm is that its 'live edit' feature allows me to monit
 
 ## Grunt console, with GUI
 
-WebStorm also comes with a tool window for GruntJS (the recently released WebStorm 9 has similar functionality for Gulp). I find this helpful because it allows you to view and run tasks &#8211; including via aliases &#8211; straight from the IDE. This allows me to see if my Grunt tasks have completed successfully _before_ I switch to view the results in a browser. I also like that you can run any task in your Gruntfile with a single click.
+WebStorm also comes with a tool window for GruntJS (the recently released WebStorm 9 has similar functionality for Gulp). I find this helpful because it allows you to view and run tasks to including via aliases to straight from the IDE. This allows me to see if my Grunt tasks have completed successfully _before_ I switch to view the results in a browser. I also like that you can run any task in your Gruntfile with a single click.
 
 ## Built in terminal
 
@@ -35,8 +35,8 @@ Emmet is one of those things that you get used to and then find it hard to live 
 
 These are really just a few of the features I find so helpful. Other great features include:
 
-  * **Local history** &#8211; a kind of version control 'lite' for managing local changes (very handy if you're just working on a local demo and don't need full VCS integration)
-  * **Multiple cursors** &#8211; Like Sublime, WebStorm provides multiple cursors. Much the same as Emmet, this is a significant efficiency boost
+  * **Local history** to a kind of version control 'lite' for managing local changes (very handy if you're just working on a local demo and don't need full VCS integration)
+  * **Multiple cursors** to Like Sublime, WebStorm provides multiple cursors. Much the same as Emmet, this is a significant efficiency boost
   * The **search everywhere shortcut** <kbd>Shift [double-tap]</kbd> allows you to quickly search within files and actions
   * **Lens mode** provides a really helpful means of navigating through a large file
 

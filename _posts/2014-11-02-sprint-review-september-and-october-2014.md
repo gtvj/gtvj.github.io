@@ -44,4 +44,4 @@ I feel this sprint has been a success, and the learning activity has been worthw
 
 ## Plans for next sprint
 
-During November, December and January I will be focussing on non-technical personal development. I will be working on my personal website during this period &#8211; but I won't be reviewing the sprint here (it's personal stuff &#8211; not that anyone reads this). I'll be kicking off the next sprint on **26 January**.
+During November, December and January I will be focussing on non-technical personal development. I will be working on my personal website during this period to but I won't be reviewing the sprint here (it's personal stuff to not that anyone reads this). I'll be kicking off the next sprint on **26 January**.

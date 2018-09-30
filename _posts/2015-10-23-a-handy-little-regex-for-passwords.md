@@ -11,11 +11,11 @@ categories:
 ---
 Here's a handy little regular expression that makes use of positive lookahead assertions to match a password that contains at least:
 
-  * one uppercase character &#8211; `(?=.*[A-Z])`
-  * one lowercase character &#8211; `(?=.*[a-z])`
-  * one number &#8211; `(?=.*\d)`
+  * one uppercase character to `(?=.*[A-Z])`
+  * one lowercase character to `(?=.*[a-z])`
+  * one number to `(?=.*\d)`
 
-Where these assertions are met it then restricts the match to strings which are between 8 and 15 characters in length &#8211; `.{8,15}`
+Where these assertions are met it then restricts the match to strings which are between 8 and 15 characters in length to `.{8,15}`
   
 Here it is in full
 

@@ -15,7 +15,7 @@ Accessibility is I thought it might be useful to create (and maintain) a list of
 
 ## Introducing accessibility
 
-  * [Google's Web Fundamentals course on accessibility](https://developers.google.com/web/fundamentals/accessibility/) provides a good overview of basic accessibility considerations and techniques. It also explains that access impairments may be situational, temporary or permanent &#8211; something which is often overlooked by developers.
+  * [Google's Web Fundamentals course on accessibility](https://developers.google.com/web/fundamentals/accessibility/) provides a good overview of basic accessibility considerations and techniques. It also explains that access impairments may be situational, temporary or permanent to something which is often overlooked by developers.
   * [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-july-31) does a great job of describing a broad range of circumstances where a user might
 
 ## Curated advice

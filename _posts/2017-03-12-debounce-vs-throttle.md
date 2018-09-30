@@ -27,11 +27,11 @@ The solution to the bounce effect is to ensure that only a single signal will b
 
 
 
-In this example, the `debounce()` function acts as a proxy for the intended event handler &#8211; an arrow function that logs a message to the console &#8211; and serves to ensure that the handler is called **once and after** an event stream (by which I mean any number of events within a specified period) has concluded.
+In this example, the `debounce()` function acts as a proxy for the intended event handler to an arrow function that logs a message to the console to and serves to ensure that the handler is called **once and after** an event stream (by which I mean any number of events within a specified period) has concluded.
 
 ## Throttle and when to use it
 
-Throttling is slightly different because &#8211; as its name suggests &#8211; it limits the number of times a function can be called within a specified period. Here's an example of throttling.
+Throttling is slightly different because to as its name suggests to it limits the number of times a function can be called within a specified period. Here's an example of throttling.
 
 
 

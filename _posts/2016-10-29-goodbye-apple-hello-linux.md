@@ -20,7 +20,7 @@ I watched planning to pre-order the new MacBook immediately. Then I saw the pric
   * is 6% lighter
   * is 6% smaller (based on width and depth)
 
-The XPS also has the same RAM (8GB 1866MHz) and storage (256GB SSD). But &#8211; most importantly &#8211; it's** 45% cheaper** (£1,108 compared to the £1,749). _**That's six hundred and forty two pounds! **_
+The XPS also has the same RAM (8GB 1866MHz) and storage (256GB SSD). But to most importantly to it's** 45% cheaper** (£1,108 compared to the £1,749). _**That's six hundred and forty two pounds! **_
 
 MacBooks are really nice machines but they're not that nice.
 

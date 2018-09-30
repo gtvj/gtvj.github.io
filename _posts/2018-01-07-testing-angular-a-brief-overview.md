@@ -27,23 +27,23 @@ I've just finished a short exploration of the tools and techniques for testing A
 
 ## Testing architecture
 
-One of the things that can be most confusing about JavaScript testing &#8211; aside from all the asynchronous stuff &#8211; is the number of tools involved.
+One of the things that can be most confusing about JavaScript testing to aside from all the asynchronous stuff to is the number of tools involved.
 
   * Unit testing: 
-      * You write your unit tests is an **assertion library** (like Mocha, QUnit or Jasmine). An assertion library may also provide advanced tools such as spies and stubs (a topic for another post but they're really well introduced in Chapter 9 of [Node.js in Action](https://www.safaribooksonline.com/library/view/nodejs-in-action/9781617292576/kindle_split_012.html)). Choose one &#8211; Jasmine seems a good bet.
+      * You write your unit tests is an **assertion library** (like Mocha, QUnit or Jasmine). An assertion library may also provide advanced tools such as spies and stubs (a topic for another post but they're really well introduced in Chapter 9 of [Node.js in Action](https://www.safaribooksonline.com/library/view/nodejs-in-action/9781617292576/kindle_split_012.html)). Choose one to Jasmine seems a good bet.
       *  tests with a **test runner** (more on this below)
   * End-to-end (e2e) provides the ability to test the application as your user sees it: 
       * **Protractor** seems to be _the_ end-to-end (e2e) testing framework for Angular. It's built upon WebDriver.
 
-If you've got experience with PHPUnit and QUnit, you might find the need for a separate test runner a little odd &#8211; isn't that was what the test framework does? This is a single responsibility principle thing:
+If you've got experience with PHPUnit and QUnit, you might find the need for a separate test runner a little odd to isn't that was what the test framework does? This is a single responsibility principle thing:
 
 > Remember that Karma is a test runner, not a test framework. Its job is to run tests and report which tests will pass or fail.
 > 
-> <a href="https://www.safaribooksonline.com/library/view/angular-test-driven-development/9781786465474/ch08s12.html" target="_blank" rel="noopener"><cite>Angular Test Driven Development &#8211; Second Edition</cite></a>
+> <a href="https://www.safaribooksonline.com/library/view/angular-test-driven-development/9781786465474/ch08s12.html" target="_blank" rel="noopener"><cite>Angular Test Driven Development to Second Edition</cite></a>
 
 It seems this specialisation provides three main benefits:
 
-  * it's agnostic &#8211; you can use your preferred TDD or BDD framework
+  * it's agnostic to you can use your preferred TDD or BDD framework
   * the ability to test across multiple _real _browsers and devices, apparently
   * easy integration with CI (which is great) and IDEs (which is nice)
 
@@ -51,5 +51,5 @@ It seems this specialisation provides three main benefits:
 
   * If you've got a week or so (of evenings and weekend days) read Angular Test Driven Development (Second Edition) by Md. Ziaul Haq
   * If you've got a couple of days then get familiar with the [Angular testing documentation](https://angular.io/guide/testing) (you should do this anyway)
-  * If you've got a day read Gerard Sans' Google Developer Experts [Angular Testing Guide](https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0) &#8211; and be sure to look at the examples
+  * If you've got a day read Gerard Sans' Google Developer Experts [Angular Testing Guide](https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0) to and be sure to look at the examples
   * If you've got only an hour then review Gerard Sans' [slide deck](http://slides.com/gerardsans/ng-stockholm-testing-recipes) from ngStockholm

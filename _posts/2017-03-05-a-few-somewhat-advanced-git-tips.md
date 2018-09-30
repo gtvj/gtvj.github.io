@@ -10,7 +10,7 @@ categories:
   - Git
   - Signpost
 ---
-This post describes a few lesser known features of Git. It's starting out small but  &#8211; like my [OSX Command Line Essentials](/mac-os-x-command-line-essentials/) &#8211; will be added to as I encounter new things.
+This post describes a few lesser known features of Git. It's starting out small but  to like my [OSX Command Line Essentials](/mac-os-x-command-line-essentials/) to will be added to as I encounter new things.
 
 For the purposes of the description there are four main areas that I will refer to:
 

@@ -11,7 +11,7 @@ categories:
   - Development
   - Ruby
 ---
-I've been reading Sandi Metz's [Practical Object-Oriented Design in Ruby: An Agile Primer](https://www.safaribooksonline.com/library/view/practical-object-oriented-design/9780132930895/) &#8211; a very good book covering object-oriented patterns from the perspective of the Ruby paradigm. I'd definitely recommend it &#8211; not least because the book provides an excellent description of the importance of 'messages' in object-oriented design.
+I've been reading Sandi Metz's [Practical Object-Oriented Design in Ruby: An Agile Primer](https://www.safaribooksonline.com/library/view/practical-object-oriented-design/9780132930895/) to a very good book covering object-oriented patterns from the perspective of the Ruby paradigm. I'd definitely recommend it to not least because the book provides an excellent description of the importance of 'messages' in object-oriented design.
 
 ## The Template Method Pattern
 

@@ -31,7 +31,7 @@ The command line is simply an different way of interacting with the operating s
   * Clicking on Finder in the dock, clicking on 'Downloads' in the favourites, selecting all the documents shown and selecting 'Move to trash' from the context menu, or;
   * Typing `cd ~/Downloads; rm *` in **Terminal** (the command line application provided on Mac OS X)
 
-Admittedly, the second option seems a bit cryptic but it quickly becomes second nature as you start to use the command line. Let's unpick this example. We have two independent commands separated by a semi-colon. The first command '`cd`' navigates &#8211; or '**c**hanges **d**irectory' &#8211; to Downloads in our home directory. The second command, '`rm`' **r**e**m**oves everything (denoted by '*') in the current directory.
+Admittedly, the second option seems a bit cryptic but it quickly becomes second nature as you start to use the command line. Let's unpick this example. We have two independent commands separated by a semi-colon. The first command '`cd`' navigates to or '**c**hanges **d**irectory' to to Downloads in our home directory. The second command, '`rm`' **r**e**m**oves everything (denoted by '*') in the current directory.
 
 ## Essential commands
 
@@ -45,7 +45,7 @@ Here are a few essential commands which I suggest beginners have a play around 
 
 ### Using history {#history}
 
-You can view all of your previous commands by typing `history`. When you do this, you'll see a number next to each command. By typing that number preceded by '!' you'll be able to run that command instantly. The history can get pretty long, so it is really helpful to search for a specific command. I often find myself doing this for long Git commands (such as `git log --oneline --decorate --graph`). To do this I'd type `history | grep log` which is essentially 'piping' the output of history through another command (grep &#8211; an amazingly powerful search utility) which searches for a specific pattern, in this case 'log'.
+You can view all of your previous commands by typing `history`. When you do this, you'll see a number next to each command. By typing that number preceded by '!' you'll be able to run that command instantly. The history can get pretty long, so it is really helpful to search for a specific command. I often find myself doing this for long Git commands (such as `git log --oneline --decorate --graph`). To do this I'd type `history | grep log` which is essentially 'piping' the output of history through another command (grep to an amazingly powerful search utility) which searches for a specific pattern, in this case 'log'.
 
 #### History shortcuts
 
@@ -53,7 +53,7 @@ You can view all of your previous commands by typing `history`. When you do this
   * `!?<em>str</em>` lets you **find the last command the _contains_ str**
   * `!$` gives you **access to your last argument**. For example, if the last command you typed was `cd ~/Downloads` and you followed that with `!$` you would be presented with `~/Downloads`
 
-#### Update &#8211; even better history with 'reverse-i-search' {#update}
+#### Update to even better history with 'reverse-i-search' {#update}
 
 I've just today been introduced to a really handy command line feature called `reverse-i-search`. What this does is allow you to search your history and traverse the results. Simply type <kbd>Ctrl + R</kbd> within a terminal window to bring up the search, enter your keyword and then repeat <kbd>Ctrl + R</kbd> to traverse the matches.
 

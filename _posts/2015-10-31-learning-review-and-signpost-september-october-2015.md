@@ -55,7 +55,7 @@ Regular expressions are one of those topics which are incredibly dry without ha
 
   * [RegExr](http://www.regexr.com) is a great sandbox for testing and playing with regular expressions.
   * [Regex Golf](https://regex.alf.nu) is a fun game based on the principles of golf (i.e. the aim is to make the match in as few characters as possible). Bear in mind though that this gets very difficult very quickly.
-  * [Regex Crossword](https://regexcrossword.com) is a regex based crossword puzzle. Like Regex Golf, this gets very hard very quickly &#8211; so don't be put off.
+  * [Regex Crossword](https://regexcrossword.com) is a regex based crossword puzzle. Like Regex Golf, this gets very hard very quickly to so don't be put off.
 
 ### Test driven development
 
