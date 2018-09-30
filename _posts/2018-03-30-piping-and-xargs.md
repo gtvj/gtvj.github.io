@@ -1,0 +1,53 @@
+---
+id: 658
+title: Piping and xargs (updated)
+date: 2018-03-30T12:40:59+00:00
+author: Gwyn
+layout: post
+guid: http://15v.co/?p=658
+permalink: /piping-and-xargs/
+categories:
+  - Explained code snippets
+  - Unix
+---
+Today I faced an odd problem. I needed to remove everything but a specific file from a directory via the command line. Having thought about it for a while, and done a bit of research, I came across someone posing the same question on [Stack exchange](http://unix.stackexchange.com/questions/153862/remove-all-files-directories-except-for-one-file). There are several answers provided, but I really liked this one.
+
+## Example
+
+`ls | grep -v file.txt | xargs -t rm`
+
+In this example, everything but `file.txt` will be removed from the working directory.
+
+### How it works
+
+  1. The output from the `ls` command is piped into `grep`
+  2. `grep` is passed the `-v` argument which inverts its behaviour, returning everything **but** `file.txt`
+  3. The output of `grep` is then piped into `xargs` which in turn passes each result to `rm` (which removes each item passed to it). _Note: the `-t` argument simply shows the resulting command that is run by `xargs`_
+
+I thought that was a nice simple way of achieving what I needed and, since it also neatly demonstrates how piping and `xargs` works, I thought I&#8217;d post it here.
+
+## Using xargs with commands that take two arguments
+
+But what about using `xargs` for commands that take multiple arguments (like `mv` that takes both _source _and _destination_ arguments)? I used this command today to move all Python files within the current directory to a new location.
+
+`ls | grep -e '.*py$' | xargs -I '{}' mv '{}' ../python`
+
+### How it works
+
+<li style="list-style-type: none;">
+  <ul>
+    <li>
+      The output of <code>ls</code> is piped to <code>grep</code>
+    </li>
+    <li>
+      the <code>-e</code> argument is passed to <code>grep</code> to use extended regular expressions
+    </li>
+    <li>
+      the output is passed to <code> xargs</code> with the <code>-I</code> argument using <code>'{}'</code> to represent the replacement.
+    </li>
+  </ul>
+</li>
+
+I should explain that I initially found this confusing because it looked to me that standard input was being placed both before and after the mv command. That isn&#8217;t the case because the first instance of `'{}'` is simply providing a name for the value received from standard input. I&#8217;ve experimented with this and you could achieve the exact same thing with something other than `'{}'`. Here&#8217;s an example where I&#8217;m copying files using `'{blah}'`:
+
+`ls | grep .py | xargs -I {blah} cp {blah} new-{blah}`

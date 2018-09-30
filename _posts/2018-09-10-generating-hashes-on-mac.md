@@ -1,0 +1,18 @@
+---
+id: 1594
+title: Generating hashes on Mac
+date: 2018-09-10T09:01:50+00:00
+author: Gwyn
+layout: post
+guid: https://15volts.com/?p=1594
+permalink: /generating-hashes-on-mac/
+categories:
+  - Bash
+---
+Every time I have to use a checksum on Mac I end up searching on line for the command to use &#8211; and every time I have this niggling feeling that I should be saving this somewhere. Since I&#8217;m not doing this _that _often I tend to forget. Anyways, here&#8217;s how you do it.
+
+## Before downloading
+
+Here&#8217;s an example of checking the iTerm2 .zip file before downloading the file:
+
+`curl -L https://iterm2.com/downloads/stable/iTerm2-3_2_0.zip | shasum -a 256`
