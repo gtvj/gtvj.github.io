@@ -4,7 +4,7 @@ title: Feed the right one
 date: 2018-04-03T16:45:53+00:00
 author: Gwyn
 layout: post
-guid: https://15volts.com/?p=1494
+guid: /?p=1494
 permalink: /feed-the-right-one/
 categories:
   - Quotes

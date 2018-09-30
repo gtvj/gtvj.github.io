@@ -4,7 +4,7 @@ title: Debounce vs throttle
 date: 2017-03-12T21:23:59+00:00
 author: Gwyn
 layout: post
-guid: https://15volts.com/?p=1130
+guid: /?p=1130
 permalink: /debounce-vs-throttle/
 categories:
   - Development

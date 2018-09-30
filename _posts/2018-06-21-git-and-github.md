@@ -4,10 +4,10 @@ title: Git and GitHub
 date: 2018-06-21T19:15:08+00:00
 author: Gwyn
 layout: post
-guid: https://15volts.com/?p=1573
+guid: /?p=1573
 permalink: /git-and-github/
 categories:
   - Git
   - GitHub
 ---
-Earlier today I gave a presentation to a group to help explain Git and GitHub (and the differences between them). Here are the slides in [PDF](https://15volts.com/wp-content/uploads/2018/06/Git-and-GitHub.pdf) and [PowerPoint](https://15volts.com/wp-content/uploads/2018/06/Git-and-GitHub.pptx) format.
+Earlier today I gave a presentation to a group to help explain Git and GitHub (and the differences between them). Here are the slides in [PDF](/wp-content/uploads/2018/06/Git-and-GitHub.pdf) and [PowerPoint](/wp-content/uploads/2018/06/Git-and-GitHub.pptx) format.

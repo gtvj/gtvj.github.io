@@ -4,7 +4,7 @@ title: 'This is for everyone: accessibility and digital'
 date: 2017-06-24T06:46:10+00:00
 author: Gwyn
 layout: post
-guid: https://15volts.com/?p=1312
+guid: /?p=1312
 permalink: /this-is-for-everyone-accessibility-and-digital/
 categories:
   - Accessibility

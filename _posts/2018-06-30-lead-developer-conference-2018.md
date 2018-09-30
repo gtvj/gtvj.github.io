@@ -4,7 +4,7 @@ title: Lead Developer Conference 2018
 date: 2018-06-30T17:01:22+00:00
 author: Gwyn
 layout: post
-guid: https://15volts.com/?p=1577
+guid: /?p=1577
 permalink: /lead-developer-conference-2018/
 categories:
   - Career

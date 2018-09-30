@@ -4,7 +4,7 @@ title: Changing your mind all the time
 date: 2017-11-12T12:31:20+00:00
 author: Gwyn
 layout: post
-guid: https://15volts.com/?p=1336
+guid: /?p=1336
 permalink: /changing-your-mind-all-the-time/
 categories:
   - Quotes

@@ -4,7 +4,7 @@ title: Four assumptions to live by
 date: 2018-04-20T06:43:26+00:00
 author: Gwyn
 layout: post
-guid: https://15volts.com/?p=1531
+guid: /?p=1531
 permalink: /four-assumptions-to-live-by/
 categories:
   - Quotes

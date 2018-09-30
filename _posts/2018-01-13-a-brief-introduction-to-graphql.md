@@ -4,16 +4,16 @@ title: A brief introduction to GraphQL
 date: 2018-01-13T16:18:26+00:00
 author: Gwyn
 layout: post
-guid: https://15volts.com/?p=1400
+guid: /?p=1400
 permalink: /a-brief-introduction-to-graphql/
 categories:
   - APIs
   - Development
   - Signpost
 ---
-I&#8217;ve been researching GraphQL this week and thought it might be useful if I posted a brief overview of what I&#8217;ve learned and my mindmap &#8216;notes&#8217; (in both [PDF](https://15volts.com/wp-content/uploads/2018/01/GraphQL.pdf) and PNG format below).
+I&#8217;ve been researching GraphQL this week and thought it might be useful if I posted a brief overview of what I&#8217;ve learned and my mindmap &#8216;notes&#8217; (in both [PDF](/wp-content/uploads/2018/01/GraphQL.pdf) and PNG format below).
 
-[<img class="size-full wp-image-1413 aligncenter" src="https://15volts.com/wp-content/uploads/2018/01/GraphQL.png" alt="A mindmap showing the topics I've encountered while learning about GraphQL" width="4326" height="3710" srcset="https://15volts.com/wp-content/uploads/2018/01/GraphQL.png 4326w, https://15volts.com/wp-content/uploads/2018/01/GraphQL-300x257.png 300w, https://15volts.com/wp-content/uploads/2018/01/GraphQL-768x659.png 768w, https://15volts.com/wp-content/uploads/2018/01/GraphQL-1024x878.png 1024w" sizes="(max-width: 4326px) 100vw, 4326px" />](https://15volts.com/wp-content/uploads/2018/01/GraphQL.png)
+[<img class="size-full wp-image-1413 aligncenter" src="/wp-content/uploads/2018/01/GraphQL.png" alt="A mindmap showing the topics I've encountered while learning about GraphQL" width="4326" height="3710" srcset="/wp-content/uploads/2018/01/GraphQL.png 4326w, /wp-content/uploads/2018/01/GraphQL-300x257.png 300w, /wp-content/uploads/2018/01/GraphQL-768x659.png 768w, /wp-content/uploads/2018/01/GraphQL-1024x878.png 1024w" sizes="(max-width: 4326px) 100vw, 4326px" />](/wp-content/uploads/2018/01/GraphQL.png)
 
 ## What is GraphQL
 

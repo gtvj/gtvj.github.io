@@ -4,7 +4,7 @@ title: Continually invest in your development
 date: 2018-04-30T21:53:25+00:00
 author: Gwyn
 layout: post
-guid: https://15volts.com/?p=1544
+guid: /?p=1544
 permalink: /continually-invest-in-your-development/
 categories:
   - Quotes

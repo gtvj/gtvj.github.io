@@ -4,7 +4,7 @@ title: Generating hashes on Mac
 date: 2018-09-10T09:01:50+00:00
 author: Gwyn
 layout: post
-guid: https://15volts.com/?p=1594
+guid: /?p=1594
 permalink: /generating-hashes-on-mac/
 categories:
   - Bash

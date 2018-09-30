@@ -4,7 +4,7 @@ title: 'Don&#8217;t reserve a plot for weeds'
 date: 2018-04-19T07:47:28+00:00
 author: Gwyn
 layout: post
-guid: https://15volts.com/?p=1520
+guid: /?p=1520
 permalink: /dont-reserve-a-plot-for-weeds/
 categories:
   - Quotes

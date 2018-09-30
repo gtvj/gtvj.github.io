@@ -4,7 +4,7 @@ title: Using promises to limit the time available for an asynchronous task
 date: 2017-10-16T09:55:33+00:00
 author: Gwyn
 layout: post
-guid: https://15volts.com/?p=1324
+guid: /?p=1324
 permalink: /using-promises-to-limit-allowed-time-for-fetching-a-resource/
 categories:
   - Development

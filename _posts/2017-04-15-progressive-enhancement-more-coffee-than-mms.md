@@ -4,7 +4,7 @@ title: 'Progressive enhancement in 2017: more coffee than M&#038;Ms'
 date: 2017-04-15T20:36:14+00:00
 author: Gwyn
 layout: post
-guid: https://15volts.com/?p=1159
+guid: /?p=1159
 permalink: /progressive-enhancement-more-coffee-than-mms/
 categories:
   - Development
@@ -91,7 +91,7 @@ The end result is the same: like putting a sign up saying _&#8216;Apologies to o
 
 Things get a lot more complex when you look beneath the surface. It&#8217;s not just a case of determining whether a user has &#8216;CSS&#8217; or &#8216;JavaScript&#8217; anymore &#8211; it&#8217;s a question of what APIs, features and versions the browser supports. This is why feature detection, transpilation and tools like [canIuse.com](http://caniuse.com/#) are an essential part of a modern workflow. A quick check of the Modernizr source code suggests there are about 270 detects available. That&#8217;s 270 capabilities that some, but not all, of your users will have. That&#8217;s pretty incredible &#8211; and it&#8217;s not stopping any time soon. Browsers will continue to implement features that set them apart from their competition, and occasionally &#8211; because they&#8217;ve been shipped so early &#8211; this can result in partial, inconsistent implementations of (sometimes dead) specifications across browsers.<figure id="attachment_1283" style="width: 1024px" class="wp-caption alignnone">
 
-<img class="size-large wp-image-1283" src="https://15volts.com/wp-content/uploads/2017/04/Screenshot-from-2017-04-13-21-17-04-1024x816.png" alt="" width="1024" height="816" srcset="https://15volts.com/wp-content/uploads/2017/04/Screenshot-from-2017-04-13-21-17-04-1024x816.png 1024w, https://15volts.com/wp-content/uploads/2017/04/Screenshot-from-2017-04-13-21-17-04-300x239.png 300w, https://15volts.com/wp-content/uploads/2017/04/Screenshot-from-2017-04-13-21-17-04-768x612.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-caption-text">A &#8216;heads up&#8217; to those who may have implemented the FileSystem API that the specification has been dropped.</figcaption></figure> 
+<img class="size-large wp-image-1283" src="/wp-content/uploads/2017/04/Screenshot-from-2017-04-13-21-17-04-1024x816.png" alt="" width="1024" height="816" srcset="/wp-content/uploads/2017/04/Screenshot-from-2017-04-13-21-17-04-1024x816.png 1024w, /wp-content/uploads/2017/04/Screenshot-from-2017-04-13-21-17-04-300x239.png 300w, /wp-content/uploads/2017/04/Screenshot-from-2017-04-13-21-17-04-768x612.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-caption-text">A &#8216;heads up&#8217; to those who may have implemented the FileSystem API that the specification has been dropped.</figcaption></figure> 
 
 In our coffee metaphor this can be represented by the huge variety of options that now exist. It&#8217;s not just &#8216;milk&#8217; any more, it&#8217;s cow&#8217;s milk (whole, semi-skimmed, skimmed) or soya milk, or almond milk &#8211; each of which might be steamed, extra hot or warm. Then there&#8217;s the flavoured syrups &#8211; hazelnut (sugar or sugar-free), peppermint, vanilla, caramel. Then there&#8217;s the toppings, and so on.
 

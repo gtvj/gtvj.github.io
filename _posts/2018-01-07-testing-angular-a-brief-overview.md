@@ -4,7 +4,7 @@ title: 'Testing Angular: a brief overview'
 date: 2018-01-07T19:25:49+00:00
 author: Gwyn
 layout: post
-guid: https://15volts.com/?p=1363
+guid: /?p=1363
 permalink: /testing-angular-a-brief-overview/
 categories:
   - Angular
@@ -23,7 +23,7 @@ I&#8217;ve just finished a short exploration of the tools and techniques for tes
 
 ## Overview diagram<figure id="attachment_1371" style="width: 4972px" class="wp-caption alignnone">
 
-[<img class="size-full wp-image-1371" src="https://15volts.com/wp-content/uploads/2018/01/angular_testing.png" alt="" width="4972" height="7758" srcset="https://15volts.com/wp-content/uploads/2018/01/angular_testing.png 4972w, https://15volts.com/wp-content/uploads/2018/01/angular_testing-192x300.png 192w, https://15volts.com/wp-content/uploads/2018/01/angular_testing-768x1198.png 768w, https://15volts.com/wp-content/uploads/2018/01/angular_testing-656x1024.png 656w" sizes="(max-width: 4972px) 100vw, 4972px" />](https://15volts.com/wp-content/uploads/2018/01/angular_testing.png)<figcaption class="wp-caption-text">Overview of key Angular testing tools and techniques</figcaption></figure> 
+[<img class="size-full wp-image-1371" src="/wp-content/uploads/2018/01/angular_testing.png" alt="" width="4972" height="7758" srcset="/wp-content/uploads/2018/01/angular_testing.png 4972w, /wp-content/uploads/2018/01/angular_testing-192x300.png 192w, /wp-content/uploads/2018/01/angular_testing-768x1198.png 768w, /wp-content/uploads/2018/01/angular_testing-656x1024.png 656w" sizes="(max-width: 4972px) 100vw, 4972px" />](/wp-content/uploads/2018/01/angular_testing.png)<figcaption class="wp-caption-text">Overview of key Angular testing tools and techniques</figcaption></figure> 
 
 ## Testing architecture
 

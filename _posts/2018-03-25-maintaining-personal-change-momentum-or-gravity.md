@@ -4,7 +4,7 @@ title: Gravity as a metaphor for making change stick
 date: 2018-03-25T15:09:45+00:00
 author: Gwyn
 layout: post
-guid: https://15volts.com/?p=1474
+guid: /?p=1474
 permalink: /maintaining-personal-change-momentum-or-gravity/
 categories:
   - Quotes
