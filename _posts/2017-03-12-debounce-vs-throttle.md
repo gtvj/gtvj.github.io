@@ -15,15 +15,13 @@ categories:
 ---
 Debounce and throttle are techniques used to prevent JavaScript code that runs in response to user actions from blocking the user interface (or otherwise running more than is desirable). They are similar but subtly different and can be confusing because they combine some of the more tricky aspects of working with JavaScript: manipulating context; passing functions around as first-class values and managing timers.
 
-> Because JavaScript is, by nature, single-threaded (only one piece of JavaScript code can execute at a time), timers provide a way to dance around this restriction, resulting in a rather oblique way of executing code.<cite><a href="https://www.safaribooksonline.com/library/view/secrets-of-the/9781933988696/">Secrets of the JavaScript Ninja</a></cite>
+> Because JavaScript is, by nature, single-threaded (only one piece of JavaScript code can execute at a time), timers provide a way to dance around this restriction, resulting in a rather oblique way of executing code. [Secrets of the JavaScript Ninja](https://www.safaribooksonline.com/library/view/secrets-of-the/9781933988696/)
 
 ## Debounce and when to use it
 
 I've always found the term 'debounce' confusing so I did some research and found it comes from an electronics problem with mechanical switches, the electrical contacts of which can often make and break contact several times in a single push. This is commonly known as 'switch bounce'.
 
-> Switch bouncing can cause problems. Imagine the situation where pressing a button toggles an LED on and off. If there are an even number of bounces, then the LED will toggle on and then immediately off again, giving the impression that nothing happened.
-  
-> <cite><a href="https://www.safaribooksonline.com/library/view/practical-electronics-for/9781259587559/">Practical Electronics for Inventors, 4th Edition</a></cite>
+> Switch bouncing can cause problems. Imagine the situation where pressing a button toggles an LED on and off. If there are an even number of bounces, then the LED will toggle on and then immediately off again, giving the impression that nothing happened. [Practical Electronics for Inventors, 4th Edition](https://www.safaribooksonline.com/library/view/practical-electronics-for/9781259587559/)
 
 The solution to the bounce effect is to ensure that only a single signal will be acted upon. Doing so is called 'debouncing' and it's very similar to the situation we face in the browser when responding to pointing device, scroll and even keyboard events. Here's a debounce method written in JavaScript.
 
