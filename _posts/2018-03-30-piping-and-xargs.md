@@ -14,7 +14,9 @@ Today I faced an odd problem. I needed to remove everything but a specific file 
 
 ## Example
 
-`ls | grep -v file.txt | xargs -t rm`
+```bash
+ls | grep -v file.txt | xargs -t rm
+```
 
 In this example, everything but `file.txt` will be removed from the working directory.
 
@@ -30,7 +32,9 @@ I thought that was a nice simple way of achieving what I needed and, since it al
 
 But what about using `xargs` for commands that take multiple arguments (like `mv` that takes both _source _and _destination_ arguments)? I used this command today to move all Python files within the current directory to a new location.
 
-`ls | grep -e '.*py$' | xargs -I '{}' mv '{}' ../python`
+```bash
+ls | grep -e '.*py$' | xargs -I '{}' mv '{}' ../python
+```
 
 ### How it works
 
@@ -50,4 +54,6 @@ But what about using `xargs` for commands that take multiple arguments (like `mv
 
 I should explain that I initially found this confusing because it looked to me that standard input was being placed both before and after the mv command. That isn&#8217;t the case because the first instance of `'{}'` is simply providing a name for the value received from standard input. I&#8217;ve experimented with this and you could achieve the exact same thing with something other than `'{}'`. Here&#8217;s an example where I&#8217;m copying files using `'{blah}'`:
 
-`ls | grep .py | xargs -I {blah} cp {blah} new-{blah}`
+```bash
+ls | grep .py | xargs -I {blah} cp {blah} new-{blah}
+```

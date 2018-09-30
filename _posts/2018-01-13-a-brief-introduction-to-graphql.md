@@ -13,13 +13,13 @@ categories:
 ---
 I&#8217;ve been researching GraphQL this week and thought it might be useful if I posted a brief overview of what I&#8217;ve learned and my mindmap &#8216;notes&#8217; (in both [PDF](/wp-content/uploads/2018/01/GraphQL.pdf) and PNG format below).
 
-[<img class="size-full wp-image-1413 aligncenter" src="/wp-content/uploads/2018/01/GraphQL.png" alt="A mindmap showing the topics I've encountered while learning about GraphQL" width="4326" height="3710" srcset="/wp-content/uploads/2018/01/GraphQL.png 4326w, /wp-content/uploads/2018/01/GraphQL-300x257.png 300w, /wp-content/uploads/2018/01/GraphQL-768x659.png 768w, /wp-content/uploads/2018/01/GraphQL-1024x878.png 1024w" sizes="(max-width: 4326px) 100vw, 4326px" />](/wp-content/uploads/2018/01/GraphQL.png)
+[<img src="/wp-content/uploads/2018/01/GraphQL.png" alt="A mindmap showing the topics I've encountered while learning about GraphQL" />](/wp-content/uploads/2018/01/GraphQL.png)
 
 ## What is GraphQL
 
 It&#8217;s an API specification developed by Facebook to address claimed shortcomings of REST &#8211; including _flexibility_ and _efficiency &#8211; _and was Open Sourced in 2015. In addition to the specification there is a [reference implementation in JavaScript](http://graphql.org/code/#javascript) and many libraries for other languages. The documentation describes all of this as:
 
-> &#8230;a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data<cite><a href="http://graphql.org/learn/">Introduction to GraphQL</a></cite>
+> &#8230;a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data<cite> <a href="http://graphql.org/learn/">Introduction to GraphQL</a></cite>
 
 GraphQL is supposedly better at:
 
