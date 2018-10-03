@@ -1,0 +1,21 @@
+---
+id: 1595
+title: An OCR spike
+date: 2018-10-03
+author: Gwyn
+layout: post
+guid: /?p=1595
+permalink: /an-ocr-spike/
+categories:
+  - Development
+  - OCR
+---
+
+As part of the product I'm currently working on I was recently tasked with conducting a spike on _'the potential for OCR technologies to enhance metadata, particularly for the purposes of search'_. While I'm by no means an expert in OCR it was an interesting exercise which involved: 
+
+* Building a little proof of concept using [**Tesseract.js**](http://tesseract.projectnaptha.com) (a pure JavaScript port of the [Tesseract OCR engine](https://github.com/tesseract-ocr/tesseract)) alongside **Node.js**, **Express**, **Mongo** and **Pug.js**. This can be found on [GitHub](https://github.com/gtvj/tesseract-results-frontend)
+* Doing a few experiments with the **Google Cloud Vision API**.
+
+I'm by no means an expert in this stuff but I am interested and it was a worthwhile experience. 
+
+Here are my 'show and tell' slides in [PDF](/post-wp-content/ocr.pdf) and [PowerPoint](/post-wp-content/ocr.pptx) format.
