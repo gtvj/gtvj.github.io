@@ -23,7 +23,7 @@ I've just finished a short exploration of the tools and techniques for testing A
 
 ## Overview diagram<figure id="attachment_1371">
 
-[<img src="/wp-content/uploads/2018/01/angular_testing.png"/>](/wp-content/uploads/2018/01/angular_testing.png)
+[<img src="/content/angular_testing.png"/>](/content/angular_testing.png)
 
 ## Testing architecture
 

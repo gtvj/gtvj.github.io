@@ -10,4 +10,4 @@ categories:
   - Git
   - GitHub
 ---
-Earlier today I gave a presentation to a group to help explain Git and GitHub (and the differences between them). Here are the slides in [PDF](/wp-content/uploads/2018/06/Git-and-GitHub.pdf) and [PowerPoint](/wp-content/uploads/2018/06/Git-and-GitHub.pptx) format.
+Earlier today I gave a presentation to a group to help explain Git and GitHub (and the differences between them). Here are the slides in [PDF](/content/git_and_github.pdf) and [PowerPoint](/content/git_and_github.pptx) format.

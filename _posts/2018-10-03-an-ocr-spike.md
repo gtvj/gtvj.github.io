@@ -18,4 +18,4 @@ As part of the product I'm currently working on I was recently tasked with condu
 
 I'm by no means an expert in this stuff but I am interested and it was a worthwhile experience. 
 
-Here are my 'show and tell' slides in [PDF](/post-wp-content/ocr.pdf) and [PowerPoint](/post-wp-content/ocr.pptx) format.
+Here are my 'show and tell' slides in [PDF](/content/ocr.pdf) and [PowerPoint](/content/ocr.pptx) format.

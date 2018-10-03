@@ -46,16 +46,13 @@ This might seem like a minor detail but it can lead to very real problems rangi
 
 > ~15 years trying to make everyone separate HTML, JS & CSS. And then suddenly everything went south and we’re writing code like this. [Thomas Fuchs (@thomasfuchs)](https://twitter.com/thomasfuchs/status/810885087214637057)
 
-
-
-
 The end result is the same: like putting a sign up saying _'Apologies to our lactose intolerant or vegan customers but all our coffees are made with cows milk'_.
 
 ### And that's before we look below the surface
 
 Things get a lot more complex when you look beneath the surface. It's not just a case of determining whether a user has 'CSS' or 'JavaScript' anymore - it's a question of what APIs, features and versions the browser supports. This is why feature detection, transpilation and tools like [canIuse.com](http://caniuse.com/#) are an essential part of a modern workflow. A quick check of the Modernizr source code suggests there are about 270 detects available. That's 270 capabilities that some, but not all, of your users will have. That's pretty incredible - and it's not stopping any time soon. Browsers will continue to implement features that set them apart from their competition, and occasionally - because they've been shipped so early - this can result in partial, inconsistent implementations of (sometimes dead) specifications across browsers.<figure id="attachment_1283" style="width: 1024px" class="wp-caption alignnone">
 
-![](/wp-content/uploads/2017/04/Screenshot-from-2017-04-13-21-17-04-1024x816.png)
+![](/content/exploring_filesystem_api.png)
 
 A ‘heads up' to those who may have implemented the FileSystem API that the specification has been dropped.
 

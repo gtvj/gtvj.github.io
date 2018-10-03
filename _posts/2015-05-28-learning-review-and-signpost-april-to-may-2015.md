@@ -56,12 +56,6 @@ Having encountered PDO I can't imagine using anything else to interact with a da
   * Using **PDO statements** and **bound parameters **allows you to _safely inject foreign input into queries _without worrying about SQL injection
   * It provides **a broad range of methods** to use when retrieving results (`fetch()`, `fetchAll()`, `fetchColumn()` and `fetchObject()`) which accept constants that allow you to specify how you want the results. For example, `fetch(PDO::FETCH_OBJ)` will return an _object _whose properties are database column names
 
-Most of these concepts are illustrated in the figure below to see the comments for an explanation.<figure id="attachment_304" style="width: 640px" class="wp-caption alignnone">
-
-[<img class="wp-image-304 size-large" src="http://15v.co/wp-content/uploads/2015/05/pdo-997x1024.png" alt="PDO example" width="640" height="657" />](http://15v.co/wp-content/uploads/2015/05/pdo.png)<figcaption class="wp-caption-text">Example usage of PDO</figcaption></figure> 
-
-&nbsp;
-
 ### That's not all
 
 There's a lot more really good stuff happening in modern PHP, including:

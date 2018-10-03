@@ -11,9 +11,9 @@ categories:
   - Development
   - Signpost
 ---
-I've been researching GraphQL this week and thought it might be useful if I posted a brief overview of what I've learned and my mindmap 'notes' (in both [PDF](/wp-content/uploads/2018/01/GraphQL.pdf) and PNG format below).
+I've been researching GraphQL this week and thought it might be useful if I posted a brief overview of what I've learned and my mindmap 'notes' (in both [PDF](/content/graph_ql.pdf) and PNG format below).
 
-[<img src="/wp-content/uploads/2018/01/GraphQL.png" alt="A mindmap showing the topics I've encountered while learning about GraphQL" />](/wp-content/uploads/2018/01/GraphQL.png)
+[<img src="/content/graph_ql.png" alt="A mindmap showing the topics I've encountered while learning about GraphQL" />](/content/graph_ql.png)
 
 ## What is GraphQL
 
