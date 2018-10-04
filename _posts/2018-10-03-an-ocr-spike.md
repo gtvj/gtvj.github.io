@@ -16,6 +16,6 @@ As part of the product I'm currently working on I was recently tasked with condu
 * Building a little proof of concept using [**Tesseract.js**](http://tesseract.projectnaptha.com) (a pure JavaScript port of the [Tesseract OCR engine](https://github.com/tesseract-ocr/tesseract)) alongside **Node.js**, **Express**, **Mongo** and **Pug.js**. This can be found on [GitHub](https://github.com/gtvj/tesseract-results-frontend)
 * Doing a few experiments with the **Google Cloud Vision API**.
 
-I'm by no means an expert in this stuff but I am interested and it was a worthwhile experience. 
+This was a really interesting experience and I'm pleasantly surprised by the results. 
 
 Here are my 'show and tell' slides in [PDF](/content/ocr.pdf) and [PowerPoint](/content/ocr.pptx) format.
