@@ -13,9 +13,7 @@ categories:
 
 The message behind this quote is perhaps the most valuable advice I ever received as a knowledge worker, and it has completely changed the direction of my career. I first encountered this advice in mid-2009 when I was reading Stephen R. Covey's earlier book to The 7 Habits of Highly Effective People to which puts it like this:
 
-> Our most important financial asset is our own capacity to earn. If we don’t continually invest in improving our own production capability, we severely limit our options. We’re locked into our present situation, running scared of our corporation or our boss’s opinion of us, economically dependent and defensive. Again, it simply isn’t effective.
-  
-> <cite>Stephen R. Covey. “The 7 Habits of Highly Effective People.”</cite>
+> Our most important financial asset is our own capacity to earn. If we don’t continually invest in improving our own production capability, we severely limit our options. We’re locked into our present situation, running scared of our corporation or our boss’s opinion of us, economically dependent and defensive. Again, it simply isn’t effective.<cite>Stephen R. Covey. “The 7 Habits of Highly Effective People.”</cite>
 
 This profoundly resonated with my experience of work as a middle-manager at that time. Since then I have spent a minimum of 30 minutes every day to usually in the evenings after my family are all asleep to doing something that improves my production capability. It might be reading a textbook about a new technology, or it might be doing an online course. Some days I don't manage it, but on others I do a lot more. I'm currently doing three things:
 

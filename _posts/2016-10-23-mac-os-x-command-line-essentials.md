@@ -110,7 +110,9 @@ the `say` command lets you use Mac OS X text to speech capability. For example:
 
 Here's a little something which, using the techniques shown above (and one other called xargs, which is probably a bit too much to go into at this point) can save you time every time you sit down to start working. By typing
 
-`echo 'SourceTree.app PhpStorm.app MAMP\ PRO.app' | xargs -t -n1 open -a`
+```bash
+echo 'PhpStorm.app MAMP\ PRO.app' | xargs -t -n1 open -a
+```
 
 You'll instantly open SourceTree, PhpStorm and Mamp Pro. Yes, that's a lot to type but you can very easily save an alias for that command as, say, `devgo` which would allow you to open all your development software.
 

@@ -19,4 +19,6 @@ Where these assertions are met it then restricts the match to strings which are 
   
 Here it is in full
 
-`/(?=.*[A-Z])(?=.*[a-z])(?=.*\d).{8,15}/`
+```php
+/(?=.*[A-Z])(?=.*[a-z])(?=.*\d).{8,15}/
+```

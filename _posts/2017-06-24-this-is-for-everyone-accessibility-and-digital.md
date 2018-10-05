@@ -41,11 +41,7 @@ This should seem strange. How is it that inherently inclusive tools are being us
 
 There are also some unhelpful myths about what accessibility means for the broader user experience. One which is worth addressing specifically is the view that making a site accessible will make the experience worse for a ‘typical’ user.
 
-<blockquote cite="https://developers.google.com/web/fundamentals/accessibility/">
-  <p>
-    ‘many developers feel that addressing accessibility will force them to choose between creating a delightful and attractive experience, and one that is clunky and ugly but accessible. That is, of course, not the case at all…’
-  </p><footer>Google</footer>
-</blockquote>
+> ‘many developers feel that addressing accessibility will force them to choose between creating a delightful and attractive experience, and one that is clunky and ugly but accessible. That is, of course, not the case at all…’<cite>[Google](https://developers.google.com/web/fundamentals/accessibility/)
 
 The truth is that a well executed, accessible implementation will result in a better user experience for everyone. This was illustrated when gov.uk was awarded Design Museum Design of The Year in 2013 while simultaneously setting a new standard for accessible thinking in design.
 

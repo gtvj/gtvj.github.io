@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+{%- if page.title -%}
+<h1>{{ page.title }}</h1>
+{%- endif -%}
+
+{{ content }}
+
+<div class="home">
+    {%- if site.posts.size > 0 -%}
+    <h2>{{ page.list_title | default: "Posts" }}</h2>
+
+    <ul>
+    {%- for post in site.posts -%}
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <li>
+            <span>{{ post.date | date: date_format }}</span>
+            <h2>
+                <a href="{{ post.url | relative_url }}">
+                    {{ post.title | escape }}
+                </a>
+            </h2>
+            {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+            {%- endif -%}
+        </li>
+        {%- endfor -%}
+    </ul>
+</div>
+
+
+{%- endif -%}
+
