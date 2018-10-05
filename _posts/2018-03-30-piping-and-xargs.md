@@ -30,7 +30,7 @@ I thought that was a nice simple way of achieving what I needed and, since it al
 
 ## Using xargs with commands that take two arguments
 
-But what about using `xargs` for commands that take multiple arguments (like `mv` that takes both _source _and _destination_ arguments)? I used this command today to move all Python files within the current directory to a new location.
+But what about using `xargs` for commands that take multiple arguments (like `mv` that takes both _source_ and _destination_ arguments)? I used this command today to move all Python files within the current directory to a new location.
 
 ```bash
 ls | grep -e '.*py$' | xargs -I '{}' mv '{}' ../python

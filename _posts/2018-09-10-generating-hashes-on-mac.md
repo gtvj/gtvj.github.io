@@ -14,5 +14,5 @@ Every time I have to use a checksum on Mac I end up searching on line for the co
 Here's an example of checking the iTerm2 .zip file before downloading the file:
 
 ```bash
-curl -L https://iterm2.com/downloads/stable/iTerm2-3_2_0.zip | shasum -a 256
+curl -L https://iterm2.com/file.zip | shasum -a 256
 ```

@@ -12,6 +12,11 @@ blockquote {
   background-color: $light-grey;
   padding: 1em;
   color: $dark-grey;
+
+  strong {
+    color: $very-dark-grey;
+  }
+
   cite {
     display: block;
     text-align: right;
