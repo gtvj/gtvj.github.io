@@ -2,4 +2,9 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@import "colours";
 @import "syntax-highlighting";
+@import "grid";
+@import "typography";
+@import "home";
+@import "images";
