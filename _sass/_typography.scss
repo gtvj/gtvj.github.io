@@ -5,6 +5,12 @@ body {
   margin: auto;
 }
 
+header {
+  p {
+    font-size: smaller;
+  }
+}
+
 blockquote {
   border: 1px solid $mid-grey;
   background-color: $light-grey;
