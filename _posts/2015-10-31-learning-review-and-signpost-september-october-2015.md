@@ -1,17 +1,8 @@
 ---
-id: 632
 title: 'Learning review and signpost September to October 2015'
-date: 2015-10-31T19:03:28+00:00
+date: 2015-10-31
 author: Gwyn
 layout: post
-guid: http://15v.co/?p=632
-permalink: /learning-review-and-signpost-september-october-2015/
-categories:
-  - D3
-  - Development
-  - Learning
-  - Regular expressions
-  - Signpost
 ---
 ## Plans for this period
 

@@ -1,15 +1,8 @@
 ---
-id: 834
 title: Resources for accessible development
-date: 2016-10-14T22:12:37+00:00
+date: 2016-10-14
 author: Gwyn
 layout: post
-guid: http://15volts.com/?p=834
-permalink: /resources-for-accessible-development/
-categories:
-  - Accessibility
-  - Development
-  - Signpost
 ---
 Accessibility is I thought it might be useful to create (and maintain) a list of resources related to accessible web development.
 

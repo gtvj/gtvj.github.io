@@ -1,14 +1,10 @@
 ---
-id: 1544
 title: Continually invest in your development
-date: 2018-04-30T21:53:25+00:00
+date: 2018-04-30
 author: Gwyn
 layout: post
-guid: /?p=1544
-permalink: /continually-invest-in-your-development/
-categories:
-  - Quotes
 ---
+
 > Keep investing in your personal and professional development and in your power to produce solutions to problems, and you will always have a source of economic security. Your security does not come from your job or from the patronage of other people; it comes from your ability to meet needs and solve problems. Keep investing in those abilities, and you will have endless opportunities.<cite>Stephen R. Covey. &#8220;The 8th Habit&#8221;</cite>
 
 The message behind this quote is perhaps the most valuable advice I ever received as a knowledge worker, and it has completely changed the direction of my career. I first encountered this advice in mid-2009 when I was reading Stephen R. Covey's earlier book to The 7 Habits of Highly Effective People to which puts it like this:

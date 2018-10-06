@@ -1,16 +1,10 @@
 ---
-id: 1363
 title: 'Testing Angular: a brief overview'
-date: 2018-01-07T19:25:49+00:00
+date: 2018-01-07
 author: Gwyn
 layout: post
-guid: /?p=1363
-permalink: /testing-angular-a-brief-overview/
-categories:
-  - Angular
-  - Testing
-  - Tooling
 ---
+
 I've just finished a short exploration of the tools and techniques for testing Angular (I'm referring to the more modern Angular framework here, not the older AngularJS). Below you'll find an overview diagram and a few key highlights.
 
 ## TL;DR

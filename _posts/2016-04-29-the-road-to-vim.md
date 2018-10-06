@@ -1,15 +1,10 @@
 ---
-id: 776
 title: Getting to grips with Vim
-date: 2016-04-29T20:10:49+00:00
+date: 2016-04-29
 author: Gwyn
 layout: post
-guid: http://15v.co/?p=776
-permalink: /the-road-to-vim/
-categories:
-  - Tooling
-  - Vim
 ---
+
 This post is a companion to my experience in trying to migrate to Vim as my main text editor. I'm doing this because I _really _like many of it's features but, as you'll see, making the switch isn't exactly easy.
 
 **21 February 2015 to to Vim: **I've decided to give Vim a proper try. As of now I'm not going to use any other text editor or IDE for a while. Until recently my skills in Vim were exactly zero so, in preparation for the switch, I've:

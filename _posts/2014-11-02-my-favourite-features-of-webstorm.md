@@ -1,11 +1,11 @@
 ---
-id: 48
+
 title: My favourite features of WebStorm
-date: 2014-11-02T08:25:55+00:00
+date: 2014-11-02
 author: Gwyn
 layout: post
-guid: http://15v.co/?p=48
-permalink: /my-favourite-features-of-webstorm/
+
+
 categories:
   - Tooling
 ---

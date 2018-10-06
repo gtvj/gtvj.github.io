@@ -1,15 +1,8 @@
 ---
-id: 112
 title: Finished AngularJS Fundamentals
-date: 2014-10-12T11:08:38+00:00
+date: 2014-10-12
 author: Gwyn
 layout: post
-guid: http://15v.co/?p=112
-permalink: /finished-angularjs-fundamentals/
-categories:
-  - AngularJS
-  - Development
-  - Learning
 ---
 I've just finished AngularJS Fundamentals from Pluralsight. This is the second source I've completed in my goal to become competent in AngularJS development (the first was Martin Freeman's book Pro AngularJS, which I described in an [earlier post](http://15v.co/finished-pro-angularjs-by-martin-freeman/ "Finished Pro AngularJS by Martin Freeman")).
 

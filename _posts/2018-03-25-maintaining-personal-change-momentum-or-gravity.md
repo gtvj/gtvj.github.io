@@ -1,16 +1,10 @@
 ---
-id: 1474
 title: Gravity as a metaphor for making change stick
-date: 2018-03-25T15:09:45+00:00
+date: 2018-03-25
 author: Gwyn
 layout: post
-guid: /?p=1474
-permalink: /maintaining-personal-change-momentum-or-gravity/
-categories:
-  - Quotes
-  - Thoughts and reflections
 ---
-&nbsp;
+
 
 > “Those of us who watched the lunar voyage of Apollo 11 were transfixed as we saw the first men walk on the moon and return to earth&#8230; to get there, those astronauts literally had to break out of the tremendous gravity pull of the earth. <mark>More energy was spent in the first few minutes of lift-off, in the first few miles of travel, than was used over the next several days to travel half a million miles</mark>.
 > 

@@ -1,15 +1,8 @@
 ---
-id: 747
 title: The Template Method pattern
-date: 2016-02-10T21:06:15+00:00
+date: 2016-02-10
 author: Gwyn
 layout: post
-guid: http://15v.co/?p=747
-permalink: /the-template-method-pattern/
-categories:
-  - Design patterns
-  - Development
-  - Ruby
 ---
 I've been reading Sandi Metz's [Practical Object-Oriented Design in Ruby: An Agile Primer](https://www.safaribooksonline.com/library/view/practical-object-oriented-design/9780132930895/) to a very good book covering object-oriented patterns from the perspective of the Ruby paradigm. I'd definitely recommend it to not least because the book provides an excellent description of the importance of 'messages' in object-oriented design.
 

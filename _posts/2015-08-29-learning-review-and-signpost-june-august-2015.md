@@ -1,17 +1,8 @@
 ---
-id: 485
 title: 'Learning review and signpost June to August 2015'
-date: 2015-08-29T15:36:54+00:00
+date: 2015-08-29
 author: Gwyn
 layout: post
-guid: http://15v.co/?p=485
-permalink: /learning-review-and-signpost-june-august-2015/
-categories:
-  - Development
-  - Learning
-  - PHP
-  - Signpost
-  - Unix
 ---
 This has been a busy period both professionally and personally. On the professional front, we've been:
 
@@ -51,7 +42,7 @@ I therefore left things relatively loose at the outset and decided I'd simply lo
 
   * Completed Kevin Skoglund's [Unix for Mac OS X users](http://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html) course from Lynda.com. This is a great course and I would strongly recommend it to anyone who's not used to, or a little intimidated by, the command line.
   * Revisited the excellent [Mac OS X Productivity Tips for Developers](https://www.safaribooksonline.com/library/view/mac-os-x/9781491945476/) course from O'Reilly while using Joe Kissel’s [Take Control of the Mac Command Line with Terminal](https://www.safaribooksonline.com/library/view/take-control-of/9781457191107/) and William Shott’s [The Linux command Line](https://www.safaribooksonline.com/library/view/the-linux-command/9781593273897/) books as more detailed references.
-  * Completed Scott Simpson's [Up and running with nano](http://www.lynda.com/nano-tutorials/Up-Running-nano/189067-2.html?srchtrk=index:1%0Alinktypeid:2%0Aq:up%2Band%2Brunning%2Bwith%2Bnano%0Apage:1%0As:relevance%0Asa:true%0Aproducttypeid:2) course. This is a fun little course and I've actually found myself using nano routinely now.
+  * Completed Scott Simpson's [Up and running with nano](http://www.lynda.com/nano-tutorials/Up-Running-nano/189067-2.html?srchtrk=index:1%0Alinktype
 
 Having completed these I summarised a tiny amount of the most useful information in a couple of blog posts: one on [command line essentials](https://52.27.200.123/mac-os-x-command-line-essentials/) and another on [handy text editing shortcuts for Mac](https://52.27.200.123/handy-text-editing-shortcuts-for-mac/).
 

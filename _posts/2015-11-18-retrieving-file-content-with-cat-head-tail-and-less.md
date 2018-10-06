@@ -1,14 +1,10 @@
 ---
-id: 717
 title: Retrieving file content with cat, head, tail and less
-date: 2015-11-18T20:47:35+00:00
+date: 2015-11-18
 author: Gwyn
 layout: post
-guid: http://15v.co/?p=717
-permalink: /retrieving-file-content-with-cat-head-tail-and-less/
-categories:
-  - Unix
 ---
+
 This short post provides a brief description of a few simple commands that deal with retrieving file contents.
 
 ## cat (meaning concatenate)

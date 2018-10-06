@@ -1,16 +1,8 @@
 ---
-id: 171
 title: Learning review and signpost (September and October 2014)
-date: 2014-11-02T09:34:53+00:00
+date: 2014-11-02
 author: Gwyn
 layout: post
-guid: http://15v.co/?p=171
-permalink: /sprint-review-september-and-october-2014/
-categories:
-  - AngularJS
-  - Development
-  - Learning
-  - Signpost
 ---
 As part of my personal development activities I separate the year into six 'sprints' during which I focus my development activity on a small number of identified goals. This post reviews my development activity during September and October 2014.
 

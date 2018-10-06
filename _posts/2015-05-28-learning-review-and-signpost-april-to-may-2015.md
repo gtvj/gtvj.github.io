@@ -1,16 +1,8 @@
 ---
-id: 265
 title: Learning review and signpost (April to May 2015)
-date: 2015-05-28T17:28:11+00:00
+date: 2015-05-28
 author: Gwyn
 layout: post
-guid: http://15v.co/?p=265
-permalink: /learning-review-and-signpost-april-to-may-2015/
-categories:
-  - Development
-  - Learning
-  - PHP
-  - Signpost
 ---
 ## Plans for this period
 

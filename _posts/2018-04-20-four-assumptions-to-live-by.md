@@ -1,15 +1,10 @@
 ---
-id: 1531
 title: Four assumptions to live by
-date: 2018-04-20T06:43:26+00:00
+date: 2018-04-20
 author: Gwyn
 layout: post
-guid: /?p=1531
-permalink: /four-assumptions-to-live-by/
-categories:
-  - Quotes
-  - Thoughts and reflections
 ---
+
 I read this yesterday and thought it was an excellent and easy to remember way of guiding our actions. Everything I've learned during my life suggests these are excellent assumptions to live by. Of course, everyone falls short of these to no matter how well intentioned. As of today I'll be doing my very best to live by them.
 
 > I have also found that by making four simple assumptions in our lives we can immediately begin leading a more balanced, integrated, powerful life. They are simple to one for each part of our nature to but I promise you that if you do them consistently, you will find a new wellspring of strength and integrity to draw on when you need it most.

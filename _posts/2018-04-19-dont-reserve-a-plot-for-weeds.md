@@ -1,15 +1,10 @@
 ---
-id: 1520
 title: 'Do not reserve a plot for weeds'
-date: 2018-04-19T07:47:28+00:00
+date: 2018-04-19
 author: Gwyn
 layout: post
-guid: /?p=1520
-permalink: /dont-reserve-a-plot-for-weeds/
-categories:
-  - Quotes
-  - Thoughts and reflections
 ---
+
 I read this recently and felt there was an important life lesson here:
 
 > “You cannot play with the animal in you without becoming wholly animal, play with falsehood without forfeiting your right to truth, play with cruelty without losing your sensitivity of mind. **He who wants to keep his garden tidy doesn’t reserve a plot for weeds.**”<cite>Stephen R. Covey. “The 7 Habits of Highly Effective People.”, attributed to Dag Hammarskjöld</cite>

@@ -1,18 +1,10 @@
 ---
-id: 744
 title: Learning review and signpost Dec 15 to Feb 16
-date: 2016-03-06T21:08:55+00:00
+date: 2016-03-06
 author: Gwyn
 layout: post
-guid: http://15v.co/?p=744
-permalink: /learning-review-and-signpost-dec-15-to-feb-16/
-categories:
-  - Development
-  - Git
-  - GitHub
-  - Learning
-  - Signpost
 ---
+
 ## Plans for this period
 
 At the end of [my last sprint](https://52.27.200.123/learning-review-and-signpost-november-2015/) I described my plans for this period as:

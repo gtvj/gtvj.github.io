@@ -1,15 +1,10 @@
 ---
-id: 1494
 title: Feed the right one
-date: 2018-04-03T16:45:53+00:00
+date: 2018-04-03
 author: Gwyn
 layout: post
-guid: /?p=1494
-permalink: /feed-the-right-one/
-categories:
-  - Quotes
-  - Thoughts and reflections
 ---
+
 I came across this story while listening to the new Vassos Alexander book on a morning run today.
 
 > I was told the following tale by my grandfather as I sat on his knee one sweltering summer afternoon in the house he built by the sea&#8230; It's actually a famous Cherokee parable from Tennessee.

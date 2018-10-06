@@ -1,15 +1,10 @@
 ---
-id: 1159
 title: 'Progressive enhancement in 2017'
-date: 2017-04-15T20:36:14+00:00
+date: 2017-04-15
 author: Gwyn
 layout: post
-guid: /?p=1159
-permalink: /progressive-enhancement-more-coffee-than-mms/
-categories:
-  - Development
-  - Progressive enhancement
 ---
+
 The Peanut M&M has become the accepted metaphor for progressive enhancement. I've seen it used many times - perhaps first on  [A List Apart](https://alistapart.com/article/understandingprogressiveenhancement) way back in 2008. The thing is, we've seen a great deal of change in recent years and the M&M doesn't really feel like the best metaphor anymore - I just couldn't ever think of something that seemed more suitable.
 
 While having a coffee with friends recently we got round to talking about the value of progressive enhancement. We agreed that it leads to better products delivered at lower cost that are more maintainable (no surprises there). We'd also pretty much agreed that sometimes people can't see the value until they've had the experience of trying to dig themselves out of holes where it's been ignored.

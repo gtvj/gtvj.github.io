@@ -1,14 +1,8 @@
 ---
-id: 702
 title: Regular expression revision
-date: 2016-02-01T20:09:08+00:00
+date: 2016-02-01
 author: Gwyn
 layout: post
-guid: http://15v.co/?p=702
-permalink: /regular-expression-revision/
-categories:
-  - Development
-  - Regular expressions
 ---
 This post has a few regular expression challenges which are intended to help me revise. They start very easy and tend to get a bit harder as you go on.
 

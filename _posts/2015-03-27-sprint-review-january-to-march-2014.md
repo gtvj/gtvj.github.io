@@ -1,16 +1,8 @@
 ---
-id: 207
 title: Learning review and signpost (January to March 2015)
-date: 2015-03-27T13:20:53+00:00
+date: 2015-03-27
 author: Gwyn
 layout: post
-guid: http://15v.co/?p=207
-permalink: /sprint-review-january-to-march-2014/
-categories:
-  - Git
-  - GitHub
-  - Learning
-  - Signpost
 ---
 This post reviews my personal development activity from 26 January to 27 March (60 calendar days)
 

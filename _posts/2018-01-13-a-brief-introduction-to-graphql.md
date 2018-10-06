@@ -1,16 +1,10 @@
 ---
-id: 1400
 title: A brief introduction to GraphQL
-date: 2018-01-13T16:18:26+00:00
+date: 2018-01-13
 author: Gwyn
 layout: post
-guid: /?p=1400
-permalink: /a-brief-introduction-to-graphql/
-categories:
-  - APIs
-  - Development
-  - Signpost
 ---
+
 I've been researching GraphQL this week and thought it might be useful if I posted a brief overview of what I've learned and my mindmap 'notes' (in both [PDF](/content/graph_ql.pdf) and PNG format below).
 
 [<img src="/content/graph_ql.png" alt="A mindmap showing the topics I've encountered while learning about GraphQL" />](/content/graph_ql.png)

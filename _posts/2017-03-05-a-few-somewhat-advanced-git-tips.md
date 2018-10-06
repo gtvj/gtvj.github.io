@@ -1,15 +1,10 @@
 ---
-id: 841
 title: A few (somewhat) lesser known Git tips
-date: 2017-03-05T08:47:29+00:00
+date: 2017-03-05
 author: Gwyn
 layout: post
-guid: http://15volts.com/?p=841
-permalink: /a-few-somewhat-advanced-git-tips/
-categories:
-  - Git
-  - Signpost
 ---
+
 This post describes a few lesser known features of Git. It's starting out small but  to like my [OSX Command Line Essentials](/mac-os-x-command-line-essentials/) to will be added to as I encounter new things.
 
 For the purposes of the description there are four main areas that I will refer to:

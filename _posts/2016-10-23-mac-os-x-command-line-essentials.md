@@ -1,18 +1,10 @@
 ---
-id: 352
 title: Mac OS X Command Line essentials
-date: 2016-10-23T14:43:29+00:00
+date: 2016-10-23
 author: Gwyn
 layout: post
-guid: http://15v.co/?p=352
-permalink: /mac-os-x-command-line-essentials/
-categories:
-  - Bash
-  - Development
-  - Learning
-  - Signpost
-  - Unix
 ---
+
 As our team move to Mac OS X development environments and Git version control I wanted to prepare a post covering some Command Line essentials. As a developer working with these technologies you don't _have to_ use the command line but you'll probably _want to,_ at least some of the time. This post is intended to be something of a beginners reference.
 
 In preparing this post I've used a few  sources including:

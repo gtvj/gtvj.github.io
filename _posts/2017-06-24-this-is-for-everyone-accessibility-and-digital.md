@@ -1,19 +1,12 @@
 ---
-id: 1312
 title: 'This is for everyone: accessibility and digital'
-date: 2017-06-24T06:46:10+00:00
+date: 2017-06-24
 author: Gwyn
 layout: post
-guid: /?p=1312
-permalink: /this-is-for-everyone-accessibility-and-digital/
-categories:
-  - Accessibility
 ---
-<div class="attn">
-  <p>
-    This post was originally written for <a href="http://blog.nationalarchives.gov.uk/blog/everyone-accessibility-digital/">The National Archives' blog</a> in my capacity as Lead Front End Developer.
-  </p>
-</div>
+
+This post was originally written for <a href="http://blog.nationalarchives.gov.uk/blog/everyone-accessibility-digital/">The National Archives' blog</a> in my capacity as Lead Front End Developer.
+
 
 For many people the Web has become a primary resource for recreation, socialising, shopping, research, education and other aspects of life. Being ‘online’ can offer so much that we can feel a little lost without it and it can be hard to remember or imagine life before it.
 

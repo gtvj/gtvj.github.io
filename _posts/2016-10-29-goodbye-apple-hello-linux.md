@@ -1,15 +1,10 @@
 ---
-id: 863
 title: Goodbye Apple. Hello Linux
-date: 2016-10-29T16:37:46+00:00
+date: 2016-10-29
 author: Gwyn
 layout: post
-guid: http://15volts.com/?p=863
-permalink: /goodbye-apple-hello-linux/
-categories:
-  - Development
-  - Linux
 ---
+
 Having watched the MacBook Pro announcement earlier this week I've decided it's the end of the road for me and Apple.
 
 I watched planning to pre-order the new MacBook immediately. Then I saw the prices. Now I'm going back to Linux for all my development and have bought a new Dell XPS 13 with Ubuntu 16.04 pre-installed. Why? Because the XPS (as compared to the basic 13&#8243; MacBook Pro with Touch bar):

@@ -1,17 +1,10 @@
 ---
-id: 709
 title: Learning review and signpost November 2015
-date: 2015-11-24T21:02:04+00:00
+date: 2015-11-24
 author: Gwyn
 layout: post
-guid: http://15v.co/?p=709
-permalink: /learning-review-and-signpost-november-2015/
-categories:
-  - Development
-  - JavaScript
-  - Learning
-  - Signpost
 ---
+
 ## Plans for this period
 
 My plans for November were to focus on ECMAScript 2015 to aka ES6, aka ES.next, aka Harmony (which is nice). I suspect that this was my shortest sprint ever to cut short in part because I learned yesterday that I'm working on a Rails application in my new role. Since this is an entirely new platform for me I feel I need to divert my attention to that whole ecosystem for at least one Sprint. That sprint starts tomorrow (25 November).

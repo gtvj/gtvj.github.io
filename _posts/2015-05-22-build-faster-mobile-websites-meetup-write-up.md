@@ -1,16 +1,8 @@
 ---
-id: 272
 title: Build faster mobile websites (meetup write-up)
-date: 2015-05-22T23:45:32+00:00
+date: 2015-05-22
 author: Gwyn
 layout: post
-guid: http://15v.co/?p=272
-permalink: /build-faster-mobile-websites-meetup-write-up/
-categories:
-  - Development
-  - Learning
-  - Performance
-  - Tooling
 ---
 Last night I went along to the London Web meetup where Dean Hume (<span class="screen-name"><a class="pretty-link js-nav" dir="ltr" href="https://twitter.com/DeanoHume" data-send-impression-cookie="true">@DeanoHume</a>) gave</span> a really good presentation covering a broad range of techniques to build faster mobile websites. His [slides](https://speakerdeck.com/deanohume/faster-mobile-websites "Dean's slides") are available but I wanted to summarise **a few of the concepts which are probably most broadly applicable**. Many of these will be known to front-end developers who've looked into page performance.
 

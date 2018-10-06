@@ -1,13 +1,8 @@
 ---
-id: 666
 title: Handy little regex for password validation
-date: 2015-10-23T20:32:31+00:00
+date: 2015-10-23
 author: Gwyn
 layout: post
-guid: http://15v.co/?p=666
-permalink: /a-handy-little-regex-for-passwords/
-categories:
-  - Regular expressions
 ---
 Here's a handy little regular expression that makes use of positive lookahead assertions to match a password that contains at least:
 
