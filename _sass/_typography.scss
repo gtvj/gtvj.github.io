@@ -2,8 +2,6 @@ body {
   font-size: 1.5em;
   line-height: 1.5em;
   font-family: 'Source Sans Pro', sans-serif;
-  max-width: 30em;
-  padding: 2em;
   margin: auto;
 }
 
@@ -22,4 +20,9 @@ blockquote {
     text-align: right;
     font-size: smaller
   }
+
+  @media screen and (max-width: $break-small) {
+    margin: 0;
+  }
 }
+
