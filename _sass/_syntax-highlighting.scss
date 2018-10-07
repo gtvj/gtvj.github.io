@@ -3,6 +3,8 @@
  */
 .highlight {
   background: #fff;
+  padding-left: 0.5em;
+  overflow: scroll;
 
   .highlighter-rouge & {
     background: #eef;
