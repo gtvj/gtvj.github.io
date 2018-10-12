@@ -1,0 +1,30 @@
+
+.page {
+  color: $very-dark-grey;
+
+  strong {
+    color: black;
+  }
+
+  h2 {
+    color: $dark-grey;
+    em {
+      color: black;
+    }
+  }
+
+  #what-does-bad-look-like {
+    color: #b90000;
+
+    + p + ul {
+      padding: $padding-unit;
+      background-color: rgba(245, 0, 0, 0.11);
+      border-radius: $padding-unit / 10;
+
+      li {
+        margin-left: $padding-unit;
+        list-style-image: url('/images/thumbs-o-down.png');
+      }
+    }
+  }
+}

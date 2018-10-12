@@ -1,12 +1,12 @@
 .home {
 
   h2 {
-    font-size: 100%;
     margin-top: 0;
   }
   
   span {
     font-size: smaller;
+    color: $dark-grey;
   }
 
   ul {
@@ -15,6 +15,6 @@
 
   li {
     list-style-type: none;
-    margin-bottom: 1em;
+    margin-bottom: $padding-unit;
   }
 }
