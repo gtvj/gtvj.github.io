@@ -6,6 +6,10 @@
     color: black;
   }
 
+  h1 {
+    @extend %visually-hidden;
+  }
+
   h2 {
     color: $dark-grey;
     em {
