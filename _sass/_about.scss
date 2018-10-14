@@ -12,16 +12,9 @@
 
   h2 {
     clear: both;
-    color: $dark-grey;
     em {
       color: black;
     }
-  }
-
-  img {
-    float: left;
-    margin-bottom: $padding-unit * 2;
-    shape-outside: circle(50%);
   }
 
   #what-does-bad-look-like {
