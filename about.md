@@ -8,11 +8,11 @@ layout: page
 
 ![A picture of me](images/profile_picture.jpg)
 
-This page describes my professional interests and goals. I'm also on [Twitter](https://twitter.com/gtvjones) and [LinkedIn](https://www.linkedin.com/in/gtvjones/).
+This page describes my professional purpose, interests and goals. I'm also on [Twitter](https://twitter.com/gtvjones) and [LinkedIn](https://www.linkedin.com/in/gtvjones/).
 
 ## _Why_ am I a Lead Developer?
 
-As developers we build things countless millions of people across the world rely on. This is an amazing privilege and a huge responsibility: good work produces far-reaching positive impact and advances our organisation's goals, but; poor work can make things difficult or impossible to use and jeopardise these goals.
+As developers we build things countless millions of people across the world rely on. This is an amazing privilege and a huge responsibility: good work has far-reaching positive impact and advances our organisation's goals; poor work can and jeopardise these goals and make things difficult or impossible to use.
 
 Fortunately, web technologies can accommodate huge differences in users' hardware, software, network, context and ability. Yet this is often overlooked in favour of development fashion and individual interest. I believe developers have a duty to use technology in ways that reflect the inherent variability of the web and serve our organisation goals.
 

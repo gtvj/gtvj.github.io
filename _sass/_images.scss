@@ -1,8 +1,7 @@
 .page {
   img {
     border-radius: 50%;
-    max-width: 50%;
-    margin-right: $padding-unit;
+    margin-right: $padding-unit / 2;
   }
 
 }
@@ -10,7 +9,7 @@
 @media screen and (min-width: $break-small) {
   .page {
     img {
-      max-width: 20%;
+      max-width: 10%;
     }
   }
 }

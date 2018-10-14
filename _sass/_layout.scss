@@ -12,7 +12,7 @@ header {
   > * {
     flex: 1;
   }
-  
+
   nav {
     text-align: right;
   }
@@ -20,7 +20,7 @@ header {
 
 @media screen and (min-width: 50em) {
   body {
-    max-width: 40em;
+    max-width: 30em;
     padding: 2em;
   }
 }
