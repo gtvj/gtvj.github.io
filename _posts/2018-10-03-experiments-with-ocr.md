@@ -1,5 +1,5 @@
 ---
-title: An OCR spike
+title: Expermients with OCR
 date: 2018-10-03
 author: Gwyn
 layout: post
