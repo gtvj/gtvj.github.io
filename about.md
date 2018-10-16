@@ -8,7 +8,7 @@ layout: page
 
 ![A picture of me](images/profile_picture.jpg)
 
-This page describes my sense of professional purpose, interests and goals. I'm also on [Twitter](https://twitter.com/gtvjones) and [LinkedIn](https://www.linkedin.com/in/gtvjones/).
+I'm a full stack developer from London, England. This page describes my sense of professional purpose, interests and goals. I'm also on [Twitter](https://twitter.com/gtvjones) and [LinkedIn](https://www.linkedin.com/in/gtvjones/).
 
 ## _Why_ am I a Lead Developer?
 
