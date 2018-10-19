@@ -59,7 +59,9 @@ I've just today been introduced to a really handy command line feature called `r
 
 The find command recursively searches directories, looking at every file until it finds a match. For example, I can find all the files anywhere in my home directory with names that contain the string 'index' with:
 
-`find ~ -name "*index*"`
+```bash
+find ~ -name "*index*"
+```
 
 ### Fun utilities
 
@@ -78,6 +80,7 @@ The open command is a pretty flexible way of opening _things_. Here are a few ex
 
   * `open -a PhpStorm` will open PhpStorm. You can do this for any application within your Applications directory
   * `open http://www.nationalarchives.gov.uk` will open the web page in your default web browser
+  * `open -a "Google Chrome" http://localhost:8000` passing the `-a` argument lets you specify the application (browser) to use
   * You can also pipe the output from Unix commands to open. For example, `ls -a | open -f` will show the contents of the current directory in your default text editor
 
 ### Screen capture
