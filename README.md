@@ -5,3 +5,7 @@ This is my blog.
 ## Running Jekyll locally
 
 This is a Jekyll site that is hosted on GitHub at [https:gtvj.github.io](https:gtvj.github.io) Use `bundle exec jekyll build && bundle exec jekyll serve` to run locally (**Note:** This will also compile SASS so there is no need for a separate build task to achieve this). See the docs for more information.
+
+## Node.js functionality
+
+I'm using Node.js to provide some additional features to this blog. See the `gtvj_node_functionality` directory for more information about this.
