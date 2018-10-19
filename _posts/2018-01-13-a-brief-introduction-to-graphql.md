@@ -44,7 +44,7 @@ The GraphQL 'subscriptions' feature allows for a continuous connection to be ini
 > Subscriptions are a GraphQL feature allowing the server to send data to its clients when a specific event happens. Subscriptions are usually implemented with <a href="https://en.wikipedia.org/wiki/WebSocket" target="_blank" rel="noopener">WebSockets</a>, where the server holds a steady connection to the client. This means you’re breaking the Request-Response-Cycle<cite><a href="https://www.howtographql.com/react-apollo/8-subscriptions/">Realtime updates with GraphQL Subscriptions</a></cite>
 
 <p style="padding-left: 30px;">
-  <strong>A little side note</strong>: the current GraphQL spec makes no mention of 'subscription' or '/(real )?time/', and there's only one reference to 'event' to and it's nothing to do with <em>events.</em>
+  <strong>A little side note</strong>: the current GraphQL spec makes no mention of 'subscription' or `/(real )?time/`, and there's only one reference to 'event' and it's nothing to do with <em>events.</em>
 </p>
 
 I think this is really interesting because it could simplify event-driven full-stack architectures where the consequences of events to whether user actions, system events, information from other services, etc. to are cascaded through the system in realtime and information is immediately pushed to any client that is interested.
