@@ -12,7 +12,7 @@ I'm a full stack developer from London, England. This page describes my sense of
 
 ## _Why_ am I a Lead Developer?
 
-As developers we build things countless millions of people across the world rely on. This is an amazing privilege and a huge responsibility: good work has far-reaching positive impact and advances our organisation's goals; poor work can and jeopardise these goals and make things difficult or impossible to use.
+As developers we build things countless millions of people across the world rely on. This is an amazing privilege and a huge responsibility: good work has far-reaching positive impact and advances our organisation's goals; poor work can jeopardise these goals and make things difficult or impossible to use.
 
 Fortunately, web technologies can accommodate huge differences in users' hardware, software, network, context and ability. Yet this is often overlooked in favour of development fashion and individual interest. I believe developers have a duty to use technology in ways that reflect the inherent variability of the web and serve our organisation goals.
 
