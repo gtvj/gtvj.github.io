@@ -10,11 +10,11 @@ layout: page
 
 I'm a full stack developer from London, England. This page describes my sense of professional purpose, interests and goals. I'm also on [Twitter](https://twitter.com/gtvjones) and [LinkedIn](https://www.linkedin.com/in/gtvjones/).
 
-## _Why_ am I a Lead Developer?
+## _Why_ am I a developer?
 
-As developers we build things countless millions of people across the world rely on. This is an amazing privilege and a huge responsibility: good work has far-reaching positive impact and advances our organisation's goals; poor work can jeopardise these goals and make things difficult or impossible to use.
+As developers we build things countless people use and rely on. We'll never meet most of these people and therefore have very little knowledge of their circumstances or context. It's a privilege to have such reach and we should treat this responsibly. Good work has positive impact and advances our organisation's goals; poor work can and jeopardise these goals and make things difficult or impossible to use.
 
-Fortunately, web technologies can accommodate huge differences in users' hardware, software, network, context and ability. Yet this is often overlooked in favour of development fashion and individual interest. I believe developers have a duty to use technology in ways that reflect the inherent variability of the web and serve our organisation goals.
+Fortunately, web technologies can accommodate huge differences in users' hardware, software, network, context and ability. Yet this is sometimes overlooked in favour of development fashion and individual interest. I believe we should apply technology in ways that reflect the inherent variability of the web and serve our organisation goals.
 
 **As a Lead Developer I have significant impact on the day-to-day decisions of many  developers and  can influence their approach as they move forward in their careers. <mark>That is a wonderful opportunity and there's nothing I'd rather do</mark>**. 
 
@@ -53,6 +53,5 @@ I would like to:
 
 So, that's all good. But I should probably mention the things I have no interest in and/or which I've identified as potentially jeopardising my professional goals.
 
-* **Being at the mercy of negative, unhelpful and obstructive people**. I especially want to avoid being managed by someone who has little interest in improving things. I currently have an excellent line manager and it makes all the difference.
 * **Being a line manager**. I did this for a few years and it was not a good match for my character strengths.
 * **Slipping into a ‘generalist’ or ‘managerial’ role**. I’m always happy to help with a broad range of things (like admin and other generalist tasks), but I always intend to be a technical specialist first and foremost.
