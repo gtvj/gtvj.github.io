@@ -12,9 +12,9 @@ I'm a full stack developer from London, England. This page describes my sense of
 
 ## _Why_ am I a developer?
 
-As developers we build things countless people use and rely on. We'll never meet most of these people and therefore have very little knowledge of their circumstances or context. It's a privilege to have such reach and we should treat this responsibly. Good work has positive impact and advances our organisation's goals; poor work can and jeopardise these goals and make things difficult or impossible to use.
+As developers we build things countless people use and, in some cases, rely on. Having such reach is a great thing but it does mean we have very little knowledge of our users' circumstances or context. Fortunately, web technologies can accommodate huge differences in users' hardware, software, network, context and ability - but this is often overlooked in favour of development fashion and individual interest or convenience. This isn't OK. 
 
-Fortunately, web technologies can accommodate huge differences in users' hardware, software, network, context and ability. Yet this is sometimes overlooked in favour of development fashion and individual interest. I believe we should apply technology in ways that reflect the inherent variability of the web and serve our organisation goals.
+I feel developers have a duty to act responsibly and place our organisations' goals and user needs before our personal interests or convenience. That might sound obvious (and I've only ever worked with one developer who disagreed) but - in practice - this is a balance that many developers find hard to achieve. 
 
 **As a Lead Developer I have significant impact on the day-to-day decisions of many  developers and  can influence their approach as they move forward in their careers. <mark>That is a wonderful opportunity and there's nothing I'd rather do</mark>**. 
 
@@ -46,7 +46,7 @@ I would like to:
 * be working as part of an upbeat, **engaged, user-focussed, multi-disciplinary team**.
 * be **building my technical leadership** skills through setting development standards and shaping the organisation's approach to development.
 * have **renewed my 'full stack' development skills**. I've been focussed on front end for a few years and - while I do want to continue with this - I'm also very interested in building my 'back end' and cloud infrastructure skills.
-* **be doing more things in the ‘What do I care about?' section** [(above)](#what-am-i-interested-in-doing), and none of the things described in the 'What does bad look like?' section [(below)](#what-does-bad-look-like)
+* **be doing more of the things I'm interested in** [(above)](#what-am-i-interested-in-doing), and none of the things described in the 'What does bad look like?' section [(below)](#what-does-bad-look-like)
 * have **begun post-graduate study** in an area relevant to my work
 
 ## What does ‘bad’ look like?
