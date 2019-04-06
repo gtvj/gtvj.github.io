@@ -17,7 +17,7 @@ I've always found the term 'debounce' confusing so I did some research and found
 
 The solution to the bounce effect is to ensure that only a single signal will be acted upon. Doing so is called 'debouncing' and it's very similar to the situation we face in the browser when responding to pointing device, scroll and even keyboard events. Here's a debounce method written in JavaScript.
 
-
+<script src="https://gist.github.com/gtvj/5402026b8896bf7aa75eed084b80a065.js"></script>
 
 In this example, the `debounce()` function acts as a proxy for the intended event handler to an arrow function that logs a message to the console to and serves to ensure that the handler is called **once and after** an event stream (by which I mean any number of events within a specified period) has concluded.
 
@@ -25,7 +25,7 @@ In this example, the `debounce()` function acts as a proxy for the intended eve
 
 Throttling is slightly different because to as its name suggests to it limits the number of times a function can be called within a specified period. Here's an example of throttling.
 
-
+<script src="https://gist.github.com/gtvj/837fd4e765c4d01f3e950d2991b82069.js"></script>
 
 As with the previous example, this `throttle()` function is a proxy for a simple logging function but the behaviour is different. With `throttle()` the proxied function will be called immediately and at the specified intervals, as well as once after the event stream has concluded. The throttle function will be most useful when you need your code to **respond immediately and continually but at intervals you specify**.
 
