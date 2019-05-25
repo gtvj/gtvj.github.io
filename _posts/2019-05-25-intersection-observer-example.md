@@ -5,13 +5,13 @@ author: Gwyn
 layout: post
 ---
 
-I've been experimenting with the Intersection Observer API. This handy little API which, as [MDN concisely explains](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API):
+I've been experimenting with the Intersection Observer API. This is a handy little API which, as [MDN concisely explains](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API):
 
 > ...provides a way to asynchronously observe changes in the intersection of a target element with an ancestor element or with a top-level document's viewport.
 
 ## A simple example
 
-Hopefully, this is quite self-explanatory. We're creating an 'observer' and attaching a 'handler'. The then tell the observer to observe a specific element.
+Hopefully, the snippet below is self-explanatory. We're creating an 'observer' and attaching a 'handler'. We then tell the observer to 'observe' a specific element.
 
 ```javascript
 const handler = (entries) => {
