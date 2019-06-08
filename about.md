@@ -12,9 +12,9 @@ I'm a full stack developer from London, England. This page describes my sense of
 
 ## _Why_ am I a developer?
 
-As developers we build things countless people use and, in some cases, rely on. Having such reach is a great thing but it does mean we have very little knowledge of our users' circumstances or context. Fortunately, web technologies can accommodate huge differences in users' hardware, software, network, context and ability - but this is often overlooked in favour of development fashion and individual interest or convenience. This isn't OK. 
+As developers we build things countless people use and, in some cases, rely on. Having this reach is a great thing but it does mean we have very little knowledge of our users' circumstances or context. Fortunately, web technologies can accommodate huge differences in users' hardware, software, network, context and ability - but this is often overlooked in favour of development fashion and individual interest or convenience. This has resulted in much of the web being broken and this _really_ isn't OK. 
 
-I feel developers have a duty to act responsibly and place our organisations' goals and user needs before our personal interests or convenience. That might sound obvious (and I've only ever worked with one developer who disagreed) but - in practice - this is a balance that many developers find hard to achieve. 
+I believe developers have a duty to act responsibly and place our organisations' goals and user needs before our personal interests or convenience. That might sound obvious (and I've only ever worked with two developers who disagreed) but - in practice - this is a balance even the best intentioned of developers find hard to achieve. 
 
 **As a Lead Developer I have significant impact on the day-to-day decisions of many  developers and  can influence their approach as they move forward in their careers. <mark>That is a wonderful opportunity and there's nothing I'd rather do</mark>**. 
 
@@ -34,14 +34,13 @@ The things that I'm keen to do in my professional life are:
 ### ...in a decade?
 * To be a **trusted technical leader** (at Technical Architect level or higher) with a significant track record of delivering high-quality, robust, maintainable and extensible services across a range of platforms.
 * To be **highly skilled in relevant and emerging technologies of the day** with a wealth of diverse experience to ensure they are applied judiciously.
-* To have been awarded a **PhD or MSc in a subject relevant to my work**. There are a number of areas that interest me, including: [advanced software engineering](https://le.ac.uk/courses/advanced-software-engineering-msc/2019), [human-computer interaction design](https://www.city.ac.uk/courses/postgraduate/human-computer-interaction-design), [big data analytics](https://edu.university-liverpool-online.com/global/programmes/computer-science/msc-in-big-data-analytics) and [machine learning](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/machine-learning-msc).
 * In addition to my day job, to be **teaching at a university or college** (part time, in the evenings).
 
 ### ...in the next two years?
 
 I would like to:
 
-* be a **Lead Developer**. There's a lot of potential in this role to positively influence: the productivity and morale of a development team, and; foster a culture for developers working well with other disciplines. 
+* (still) be a **Lead Developer**. There's a lot of potential in this role to positively influence: the productivity and morale of a development team, and; foster a culture for developers working well with other disciplines. 
 * **be creatively applying my technical skills on a daily basis** by: designing, writing and reviewing code, and; **coaching and mentoring developers**.
 * be working as part of an upbeat, **engaged, user-focussed, multi-disciplinary team**.
 * be **building my technical leadership** skills through setting development standards and shaping the organisation's approach to development.
