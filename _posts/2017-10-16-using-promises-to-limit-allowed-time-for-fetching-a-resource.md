@@ -7,7 +7,7 @@ layout: post
 
 I've been reading Nicholas Bevacqua's brilliant [Practical Modern JavaScript](https://www.safaribooksonline.com/library/view/practical-modern-javascript/9781491943526/) recently and came across this technique for using `Promise.race()` to intervene when an asynchronous task is taking longer than is acceptable.
 
-
+<script src="https://gist.github.com/gtvj/f1a86728ab9f363bf72331186109cc24.js"></script>
 
 ## How it works
 
