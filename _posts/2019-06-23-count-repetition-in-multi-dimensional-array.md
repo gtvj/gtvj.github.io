@@ -5,11 +5,17 @@ author: Gwyn
 layout: post
 ---
 
-A couple of days ago at lunch a few of us were talking about a recent coding challenge a colleague had been posed. The task was to: 
+A couple of days ago a few of us were talking over lunch about a recent coding challenge a colleague had been posed. The task was to: 
 
-> Write a function that takes two arguments, a multi-dimensional array and a needle. The function should return the number of times the needle appears in the array
+> Write a function that takes two arguments, an array - that could be multi-dimensional - and a needle. The function should return the number of times the needle appears at any level in the array
 
-The tricky part of this is iterating over an array of unknown depth to obtain a 'flattened' version. My initial thought was _"surely `Array.prototype.flat()` does this?"_, but it turns out `flat()` expects a 'depth' parameter which defaults to `1` if omitted. My next thought was to use recursion and, while I was able to solve it quite quickly using that approach, the result relied upon the function storing state in a global (which I wasn't happy with). It looked a bit like this
+It's immediately clear that the _tricky_ part of this is iterating over an array of unknown depth to obtain a 'flattened' version (you could, I suppose, check for the needle on-the-fly but my thought was that there's value in having access to the interim flattened array). My initial thought was 
+
+> "surely `Array.prototype.flat()` does this?"
+
+but it turns out `flat()` expects a 'depth' parameter which defaults to `1` if omitted. 
+
+My next thought was to use recursion and, while I was able to solve it quite quickly using that approach, the result relied upon the function updating an external 'state' (which I wasn't happy with). It looked a bit like this
 
 ```javascript
 
@@ -32,7 +38,7 @@ console.log(result);
 
 ``` 
 
-I did a bit of research and found several solutions to this part of the problem on Stack Overflow. Some of the most terse used `Array.prototype.reduce()` (which had occured to me, and which I like) and arrow functions but - if I'm honest - some of these are a bit too short, which makes difficult for a person to parse. 
+I did a bit of research and found several solutions to this part of the problem on Stack Overflow. Some of the most terse used `Array.prototype.reduce()` (which had occured to me, and which I like) and arrow functions but - if I'm honest - some of these are a bit too short, which makes difficult for a person to understand and reason about. 
 
 ```javascript
 
