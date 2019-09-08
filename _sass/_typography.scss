@@ -1,8 +1,14 @@
 body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 1.3em;
+  font-family: $body-font;
+  font-size: 1.2em;
   line-height: 1.5em;
   margin: auto;
+
+  strong {
+    font-weight: 400;
+    background-color: $bright-yellow;
+  }
+
 }
 
 h1, h2, h3, h4 {

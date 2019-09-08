@@ -1,14 +1,14 @@
 ---
 title: About me
 date: 2018-10-10
-h1: Hi, I'm Gwyn
+h1: Hello
 author: Gwyn
 layout: page
 ---
 
 I'm a full stack developer from London, England. This page describes my sense of professional purpose, interests and goals. I'm also on [Twitter](https://twitter.com/gtvjones) and [LinkedIn](https://www.linkedin.com/in/gtvjones/).
 
-## _Why_ am I a developer?
+## Why I'm a developer?
 
 As developers we build things countless people use and, in some cases, rely on. Having this reach is a great thing but it does mean we have very little knowledge of our users' circumstances or context. Fortunately, web technologies can accommodate huge differences in users' hardware, software, network, context and ability - but this is often overlooked in favour of development fashion and individual interest or convenience. This has resulted in much of the web being broken and this _really_ isn't OK. 
 
@@ -16,7 +16,7 @@ I believe developers have a duty to act responsibly and place our organisations'
 
 **As a Lead Developer I have significant impact on the day-to-day decisions of many  developers and  can influence their approach as they move forward in their careers. <mark>That is a wonderful opportunity and there's nothing I'd rather do</mark>**. 
 
-## _What_ am I interested in doing?
+## What I'm interested in doing
 
 The things that I'm keen to do in my professional life are:
 
@@ -27,12 +27,11 @@ The things that I'm keen to do in my professional life are:
 5. **Helping less experienced developers** to improve their skills, shape their approach and enjoy their work.
 
 
-## _How_ would I like my professional life to look
+## How would I'd like my professional life to look
 
 ### ...in a decade?
-* To be a **trusted technical leader** (at Technical Architect level or higher) with a significant track record of delivering high-quality, robust, maintainable and extensible services across a range of platforms.
+* To be a **trusted technical leader** with a significant track record of delivering high-quality, robust, maintainable and extensible services across a range of platforms.
 * To be **highly skilled in relevant and emerging technologies of the day** with a wealth of diverse experience to ensure they are applied judiciously.
-* In addition to my day job, to be **teaching at a university or college** (part time, in the evenings).
 
 ### ...in the next two years?
 
@@ -43,7 +42,7 @@ I would like to:
 * be working as part of an upbeat, **engaged, user-focussed, multi-disciplinary team**.
 * be **building my technical leadership** skills through setting development standards and shaping the organisation's approach to development.
 * have **renewed my 'full stack' development skills**. I've been focussed on front end for a few years and - while I do want to continue with this - I'm also very interested in building my 'back end' and cloud infrastructure skills.
-* **be doing more of the things I'm interested in** [(above)](#what-am-i-interested-in-doing), and none of the things described in the 'What does bad look like?' section [(below)](#what-does-bad-look-like)
+* **be doing more of the things I'm interested in** [(above)](#what-im-interested-in-doing), and none of the things described in the 'What does bad look like?' section [(below)](#what-does-bad-look-like)
 * have **begun post-graduate study** in an area relevant to my work
 
 ## What does ‘bad’ look like?

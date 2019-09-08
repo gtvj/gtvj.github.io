@@ -1,28 +1,19 @@
 
 .page {
-  color: $very-dark-grey;
-
-  strong {
-    color: black;
-  }
-
-  h1 {
-    @extend %visually-hidden;
-  }
 
   h2 {
     clear: both;
+
     em {
       color: black;
     }
   }
 
   #what-does-bad-look-like {
-    color: #b90000;
 
     + p + ul {
       padding: $padding-unit;
-      background-color: rgba(245, 0, 0, 0.11);
+      border: 5px solid rgba(245, 0, 0, 0.11);
       border-radius: $padding-unit / 10;
 
       li {
