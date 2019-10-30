@@ -49,5 +49,5 @@ I would like to:
 
 So, that's all good. But I should probably mention the things I have no interest in and/or which I've identified as potentially jeopardising my professional goals.
 
-* **Being a line manager**. I did this for a few years and it was not a good match for my character strengths.
+* **Being a line manager** - which I've written about in [What being a manager taught me about myself](/2019/10/30/what-being-a-manager-taught-me-about-myself.html).
 * **Slipping into a ‘generalist’ or ‘managerial’ role**. I’m always happy to help with a broad range of things (like admin and other generalist tasks), but I always intend to be a technical specialist first and foremost.

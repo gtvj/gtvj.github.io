@@ -1,11 +1,9 @@
 body {
   font-family: $body-font;
-  font-size: 1.2em;
-  line-height: 1.5em;
+  line-height: 1.75em;
   margin: auto;
 
   strong {
-    font-weight: 400;
     background-color: $bright-yellow;
   }
 
@@ -16,18 +14,9 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-size: 3em;
-  line-height: 1em;
-  margin-bottom: 0;
-}
-
-h2 {
   font-size: 2em;
-  line-height: 1em;
-}
-
-h3 {
-  font-size: 1.5em;
+  margin-bottom: 0;
+  line-height: initial;
 }
 
 .post-data {
@@ -61,7 +50,7 @@ blockquote {
   border: 1px solid $mid-grey;
   background-color: $light-grey;
   padding: 1em;
-  color: $dark-grey;
+  color: $very-dark-grey;
 
   strong {
     color: $very-dark-grey;
