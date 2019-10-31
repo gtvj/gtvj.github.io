@@ -54,4 +54,4 @@ But that's OK.
 
 There are many, many things that are a good fit for me - and I've identified a career path that is very well suited to these: **being a technical specialist/lead**. 
 
-As I reflect on this, I realise I was very fortunate to have learned this about myself quite early in my career. It forced me to proactively identify and pursue a career path that would work for me and allow me to make a significant contribution to an organisation's success.
+As I reflect on this, I realise I was very fortunate to have learned this about myself quite early in my career. It forced me to proactively identify and pursue a career path that would allow me to make a significant contribution to an organisation's success while also being well-tailored to my personal attributes.
