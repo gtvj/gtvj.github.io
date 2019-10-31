@@ -10,27 +10,29 @@ I'm a full stack developer from London, England. This page describes my sense of
 
 ## Why I'm a developer?
 
-As developers we build things countless people use and, in some cases, rely on. Having this reach is a great thing but it does mean we have very little knowledge of our users' circumstances or context. Fortunately, web technologies can accommodate huge differences in users' hardware, software, network, context and ability - but this is often overlooked in favour of development fashion and individual interest or convenience. This has resulted in much of the web being broken and this _really_ isn't OK. 
+As developers we build things countless people use and, in some cases, rely on. 
+
+Having this reach is a great thing but it means we have very little knowledge of our users' circumstances or context. Fortunately, web technologies can accommodate huge differences in users' hardware, software, network, context and ability - but this is often overlooked in favour of development fashion and individual interest or convenience. This has resulted in much of the web being broken and this _really_ isn't OK. 
 
 I believe developers have a duty to act responsibly and place our organisations' goals and user needs before our personal interests or convenience. That might sound obvious (and I've only ever worked with two developers who disagreed) but - in practice - this is a balance even the best intentioned of developers find hard to achieve. 
 
-**As a Lead Developer I have significant impact on the day-to-day decisions of many  developers and  can influence their approach as they move forward in their careers. <mark>That is a wonderful opportunity and there's nothing I'd rather do</mark>**. 
+As a Lead Developer I have significant impact on the day-to-day decisions of many  developers and  can influence their approach as they move forward in their careers. That is a wonderful opportunity and there's nothing I'd rather do.
 
 ## What I'm interested in doing
 
 The things that I'm keen to do in my professional life are:
 
-1. **Building services that produce value and which people want to use**.
+1. **Building services that meet needs and which people want to use**.
 2. **Making things accessible and inclusive**.
 3. **Setting high standards for development** that work for users, the organisation and individual developers.
 4. **Learning new skills** and seeking to **continuously improve working practices** (to be more effective at 1, 2, and 3).
 5. **Helping less experienced developers** to improve their skills, shape their approach and enjoy their work.
 
 
-## How would I'd like my professional life to look
+## How I'd like my professional life to look
 
 ### ...in a decade?
-* To be a **trusted technical leader** with a significant track record of delivering high-quality, robust, maintainable and extensible services across a range of platforms.
+* To be a **trusted technical lead** with a significant track record of delivering high-quality, robust, maintainable and extensible services across a range of platforms.
 * To be **highly skilled in relevant and emerging technologies of the day** with a wealth of diverse experience to ensure they are applied judiciously.
 
 ### ...in the next two years?
