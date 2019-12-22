@@ -14,12 +14,12 @@ This is excellent advice.
 
 We thrive and make our greatest contribution when we know our interests and strengths, and design a life that is a good fit for these. We are diminished when we adopt roles that are a bad fit for who we are. 
 
-Yet so many people do this that it's  one of the greatest fears I have for my children.
+Yet many of us do this.
 
 > ...and the reality of the society that we're in is that there are thousands and thousands of people out there leading lives of quiet screaming desperation... **at jobs they hate** to enable them to buy things they don't need to impress people they don't like.
 > <cite><a href="https://www.youtube.com/watch?v=SXM7MpoVAD0&feature=youtu.be&t=161">Nigel Marsh. Work Life Balance is an Ongoing Battle</a></cite>
 
-I find this terrifying because I've been there.
+The _'quiet screaming desperation'_ part of that quote reminds me of my own experience of management. 
 
 ## Climbing the wrong ladder
 
@@ -38,7 +38,7 @@ I can understand that now. There is nothing inherently bad about being a manager
 
 I left that job for a policy specialist role. This was a demanding role and I quickly established myself as an effective person that could be counted upon. I was almost always the last person in the building at night - but that was OK because I was doing something that resonated with me. I thrived in this role, as I did with my next two policy roles.
 
-Yet, about four years later I was convinced by the head of my team to take on line management responsibility for a couple of great people - both of whom are still friends of mine. Within weeks I was just as unhappy and decided to move on as soon as I could, promising myself that I would not take a management job again.
+Yet, about four years later I was convinced by the head of my team to take on line management responsibility again. Within weeks I was just as unhappy and decided to move on as soon as I could, promising myself that I would never take a management job again.
 
 What followed was a long process of identifying exactly what makes me tick and roles that are well aligned to those strengths. For me, that is software development and I've spent more than a decade of work and study to become the best developer I can be. My aim is to be among the best developers in the industry.
 
@@ -52,6 +52,6 @@ I'm sufficiently self-aware and experienced to know management is not compatible
 
 But that's OK. 
 
-There are many, many things that are a good fit for me - and I've identified a career path that is very well suited to these: **being a technical specialist/lead**. 
+There are many, many things that are a good fit for me - and I've identified a career path that is very well suited to these: **being a great software developer**. And the world needs great software developers a lot more than it needs a mediocre manager. 
 
 As I reflect on this, I realise I was very fortunate to have learned this about myself quite early in my career. It forced me to proactively identify and pursue a career path that would allow me to make a significant contribution to an organisation's success while also being well-tailored to my personal attributes.
