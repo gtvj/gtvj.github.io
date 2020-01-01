@@ -16,6 +16,9 @@ header {
   nav {
     display: flex;
     flex-direction: row-reverse;
+    a {
+      margin-left: 1em;
+    }
   }
 }
 
