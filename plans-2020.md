@@ -33,10 +33,11 @@ A healthy diet and regular exercise have a huge impact on my mental health and w
 
 - run at least three times each week with the goal of exceeding my record of 503.9 miles in one year
 - am sensible and do all that I can to avoid injury (including always warming up and stretching)
+
 ### 🌍 Environment
 
 - live in a way that seeks to minimise my impact on the planet
-- follow a plant-based lifestyle and do not purchase any products derived from animals
+- follow an entirely plant-based lifestyle and do not buy any products derived from animals
 
 ### 🏝 Family holiday
 
