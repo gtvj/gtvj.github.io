@@ -1,12 +1,12 @@
 ---
 title: About me
-date: 2019-12-22
+date: 2020-03-07
 h1: Hello
 author: Gwyn
 layout: page
 ---
 
-I'm a full stack developer from London, England. This page describes my professional purpose, interests and goals. I'm also on [Twitter](https://twitter.com/gtvjones) and [LinkedIn](https://www.linkedin.com/in/gtvjones/), although I'm not very active on these platforms.
+I'm a full stack developer from London, England. This page describes my professional purpose, interests and goals. I'm also on [LinkedIn](https://www.linkedin.com/in/gtvjones/), although I'm not at all active on this platform.
 
 ## Why I'm a developer?
 
