@@ -21,14 +21,14 @@ The most important role in my life is to be the best dad and husband I can be. W
 
 #### ... other people are important too
 
-I care about the people I encounter and try my best to be good humoured, supportive, encouraging and - where appropriate - protective.
+I care about the people I encounter and try my best to be good humoured, supportive, and encouraging.
 
 ### 👨🏽‍💻 Work and study
 
-I want to be an absolutely outstanding Software Developer. To this end, in addition to my full time work, I:
+I want to be an absolutely outstanding Software Developer. To this end, in addition to my full time work, I'm:
 
-* 🧭 Renew my focus on software development 
-* 📚 Spend time (every week) studying and proactively share my knowledge
+* 🧭 **Renewing my focus on software development**. This includes asserting that, while I'm more than happy to make a positive and active contribution to the broad range of activities that result in high-quality digital products, my **role** is software development. Other [disciplines](https://www.gov.uk/service-manual/the-team/what-each-role-does-in-service-team) are responsible for branding, design, managing delivery, product management, resource allocation and business analysis.
+* 📚 **Studying to improve my technical skills every week and proactively sharing my knowledge**
 
 ### 🏃🏽 ‍️Health and fitness
 
