@@ -11,7 +11,7 @@ For the past few months I've been using my free time each week to learn about [D
 
 **My goal is for _every member of the team_ to feel confident in delivering standards compliant, accessible, dynamic data-driven visualisations by the end of the year.**
 
-## This walkthrough
+## About this walkthrough
 
 This post is a bit of an aside to all that, and I'm doing it because I now think I have sufficient knowledge to produce - from scratch - the type of visualisation which really impressed me when I first the late Hans Rosling show it perhaps ten years ago. Here's a clip: 
 
@@ -48,6 +48,8 @@ As I write this the world is in the grip of a pandemic. For entirely selfish rea
     }];
     </code>
 </pre>
+
+## The walkthrough
 
 ### Step 1 - draw the SVG
 
