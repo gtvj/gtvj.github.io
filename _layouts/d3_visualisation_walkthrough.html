@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article>
+
+    <h1>{{ page.title | escape }}</h1>
+    <p class="post-data">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            {{ page.date | date: date_format }}
+        </time>
+        {%- if page.author -%}
+        • <span><span>{{ page.author }}</span></span>
+        {%- endif -%}
+    </p>
+
+    <div>
+        {{ content }}
+    </div>
+
+</article>
+<script src="/assets/scripts/d3.js"></script>
+<script src="/assets/scripts/d3-walkthrough.js"></script>
