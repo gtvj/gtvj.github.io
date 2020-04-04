@@ -29,7 +29,7 @@ I also want to say that D3, like all JavaScript, should be applied in a way that
 
 ### Light relief
 
-As I write this the world is in the grip of a pandemic. For entirely selfish reasons, therefore, I'm going to use some 'positive' data - some fake data showing if there is correlation between total exercise time, body weight and running speed. To keep things really simple we'll start with just two data points:
+As I write this the world is in the grip of a pandemic. For entirely selfish reasons, therefore, I'm going to use some 'positive' data - some fake data that might be used to determine if there is any correlation between total exercise time, body weight and running speed changes over time. To keep things really simple we'll start with just two data points:
 
 <pre>
     <code>
