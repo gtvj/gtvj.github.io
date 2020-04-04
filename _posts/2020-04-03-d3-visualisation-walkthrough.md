@@ -21,7 +21,11 @@ The purpose of this post is to step through the process. It's be 'warts 'n all',
 
 ### This is not production code
 
-The examples shown here use modern JavaScript. To ensure compatibility across browsers and devices, a transpilation step will be necessary. But they should work in a capable modern browser (Chrome, Firefox etc.). The first thing to say here is that D3, like all JavaScript, should be applied in a way that leverages progressive enhancement. I'm not going to illustrate it here, but in the real world the initial draw of the SVG would do this. For a visualisation like this, it might be a server-provided table or image (perhaps a static SVG) with a JavaScript generated call to action to see the JavaScript-powered version. 
+The examples shown here use modern JavaScript. To ensure compatibility across browsers and devices, a transpilation step will be necessary. But they should work in a capable modern browser (Chrome, Firefox etc.). 
+
+### Progressive enhancement would be used in production
+
+I also want to say that D3, like all JavaScript, should be applied in a way that leverages progressive enhancement. I'm not going to illustrate it here, but in the real world the initial draw of the SVG would do this. For a visualisation like this, it might be a server-provided table or image (perhaps a static SVG) with a JavaScript generated call to action to see the JavaScript-powered version. 
 
 ### Light relief
 
