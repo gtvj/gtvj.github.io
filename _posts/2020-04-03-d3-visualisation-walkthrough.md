@@ -117,7 +117,7 @@ A few things to notice are:
 
 ### Setting up the X Axis
 
-Here's our code as updated to render an X axis
+Changes in <code>miles_per_hour</code> property will be shown along the X axis. Here's our code as updated to render an X axis:
 
 <pre>
     <code>
@@ -170,5 +170,82 @@ Here's our code as updated to render an X axis
     </code>
 </pre>
 
+## Setting up the Y axis
+
+Our Y axis will show our <code>total_exercise_hours</code>. Here's what the code looks once when we've added this axis.
+
+<pre>
+    <code>
+    let data = [
+      {
+        month: "January",
+        mean_weight: 88.5,
+        miles_per_hour: 5,
+        total_exercise_hours: 25
+      },
+      {
+        month: "February",
+        mean_weight: 88,
+        miles_per_hour: 5.11,
+        total_exercise_hours: 22
+      },
+      {
+        month: "March",
+        mean_weight: 87,
+        miles_per_hour: 5.35,
+        total_exercise_hours: 29
+      }
+    ];
+    
+    let el = document.getElementById("visualisation"),
+      width = el.offsetWidth,
+      height = (width / 16) * 9,
+      padding = width / 20;
+    
+    let config = { el, width, height, padding };
+    
+    let svg = d3
+      .select("#visualisation")
+      .append("svg")
+      .attr("width", config.width)
+      .attr("height", config.height);
+    
+    // Store highest and lowest speeds
+    let speed_extent = d3.extent(data, (d) => d.miles_per_hour);
+    
+    // Create a scale that represents our data
+    let xScale = d3.scaleLinear();
+    xScale.domain(speed_extent);
+    xScale.range([config.padding, config.width - config.padding]);
+    
+    // Create an axis based on the scale
+    let xAxis = d3.axisBottom();
+    xAxis.scale(xScale);
+    
+    // Render and place the axis
+    svg
+      .append("g")
+      .attr("transform", `translate(0, ${config.height - config.padding})`)
+      .call(xAxis);
+    
+    // Store highest and lowest speeds
+    let exercise_hours_extent = d3.extent(data, (d) => d.total_exercise_hours);
+    
+    // Create a scale for your Y axis
+    // Note that we flip the min and max
+    let yScale = d3.scaleLinear();
+    yScale.domain([d3.max(exercise_hours_extent), d3.min(exercise_hours_extent)]);
+    yScale.range([config.padding, config.height - config.padding]);
+    
+    let yAxis = d3.axisLeft();
+    yAxis.scale(yScale);
+    
+    svg
+      .append("g")
+      .attr("transform", `translate(${config.padding}, 0)`)
+      .call(yAxis);
+
+    </code>
+</pre>
 
 ## To be continued... 
