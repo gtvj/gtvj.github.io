@@ -115,4 +115,60 @@ A few things to notice are:
     </code>
 </pre>
 
+### Setting up the X Axis
+
+Here's our code as updated to render an X axis
+
+<pre>
+    <code>
+    let data = [
+      {
+        month: "January",
+        mean_weight: 88.5,
+        miles_per_hour: 5,
+        total_exercise_hours: 25
+      },
+      {
+        month: "February",
+        mean_weight: 88,
+        miles_per_hour: 5.11,
+        total_exercise_hours: 22
+      }
+    ];
+    
+    let el = document.getElementById("visualisation"),
+      width = el.offsetWidth,
+      height = (width / 16) * 9,
+      padding = width / 20;
+    
+    let config = { el, width, height, padding };
+    
+    let svg = d3
+      .select("#visualisation")
+      .append("svg")
+      .attr("width", config.width)
+      .attr("height", config.height);
+    
+    // Store highest and lowest speeds
+    let data_extent = d3.extent(data, (d) => d.miles_per_hour);
+    
+    // Create a scale that represents our data
+    let xScale = d3.scaleLinear();
+    xScale.domain(data_extent);
+    xScale.range([config.padding, config.width - config.padding]);
+    
+    // Create an axis based on the scale
+    let xAxis = d3.axisBottom();
+    xAxis.scale(xScale);
+    
+    // Render and place the axis
+    svg
+      .append("g")
+      .attr("transform", "translate(0," + (config.height - config.padding) + ")")
+      .call(xAxis);
+
+    </code>
+</pre>
+
+
 ## To be continued... 
