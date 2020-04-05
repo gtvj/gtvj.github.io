@@ -73,8 +73,30 @@ I want the SVG to occupy the full width of its parent and be displayed in 16:9 a
 
 ### Step 2 - prepare the data
 
-We're gong to fake this bit. The point here is that our JSON data is not currently in a good shape for a visualisations and need to be 'prepared'. Let's imaging I'm fetching this data from an API, and then have run it through a function that cleans it and turns it into a JavaScript object. Voila.
+We're gong to fake this bit. The point here is that our JSON data is not currently in a good shape for a visualisations and needs to be 'prepared'. Let's imaging I'm fetching this data from an API, and then have run it through a function that cleans it and turns it into a JavaScript object. D3 provides a number of utilities that could help with this. 
 
+Here's an example showing how you might take some data loaded from a CSV and use unary plus to convert string representations of numbers to their numeric equivalents.
+
+<pre>
+    <code>
+    // This is just for illustration purposes. We won't be using it.
+    d3.csv("/data/cities.csv").then(function(data) {
+      data.forEach(function(d) {
+        d.population = +d.population;
+        d["land area"] = +d["land area"];
+      });
+      console.log(data[0]);
+    });
+    </code>
+</pre>
+
+OK. Accepting that we've cleaned up our data, here's what we've got to work with. 
+
+A few things to notice are: 
+
+* I'm leaving the months as they are because I don't - currently - see a need to convert them to <code>Date()</code> objects.
+* Strings have been converted to numbers, where appropriate
+* I've changed <code>race_pace</code> from a pace to a speed called <code>miles_per_hour</code>. The reason for this is that I want the X and Y axes of the graph to begin at the bottom left, and for the top right to be where the fastest pace and greatest exercise volume are shown. The thing that might be a little difficult for users is that, as we run faster, the number that represents the pace decreases (a 4 minute mile, is faster than a 5 minute mile). Things are a little easier if we thing in terms of speed (5 miles per hour is faster than 4 miles per hour).
 <pre>
     <code>
     let data = [
