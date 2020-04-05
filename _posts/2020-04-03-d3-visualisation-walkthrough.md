@@ -71,4 +71,26 @@ I want the SVG to occupy the full width of its parent and be displayed in 16:9 a
     </code>
 </pre>
 
+### Step 2 - prepare the data
+
+We're gong to fake this bit. The point here is that our JSON data is not currently in a good shape for a visualisations and need to be 'prepared'. Let's imaging I'm fetching this data from an API, and then have run it through a function that cleans it and turns it into a JavaScript object. Voila.
+
+<pre>
+    <code>
+    let data = [
+    {
+        month: "January",
+        mean_weight: 88.5,
+        miles_per_hour: 5,
+        total_exercise_hours: 25
+    },
+    {
+        month: "February",
+        mean_weight: 88,
+        miles_per_hour: 5.11,
+        total_exercise_hours: 22
+    }];
+    </code>
+</pre>
+
 ## To be continued... 
