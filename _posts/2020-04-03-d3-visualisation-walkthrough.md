@@ -248,4 +248,138 @@ Our Y axis will show our <code>total_exercise_hours</code>. Here's what the code
     </code>
 </pre>
 
+## Adding bubbles and event management
+
+Next we're going to a bubbles that represents our data. We'll put the bubble drawing code in a function called <code>set_visualisation_data()</code> and then use 
+some simple event management to update the data.
+
+At this point we have a working visualisation with the ability to change the data and animate shown and animate it. This could be significantly improved, but it does illustrate the concept.
+
+<pre>
+    <code>
+    &lt;!-- Our HTML --&gt;
+    &lt;div id="visualisation"&gt;
+    &lt;/div&gt;
+    &lt;button class="month" data-index=0&gt;January&gt;/button&gt;
+    &lt;button class="month" data-index=1&gt;February&gt;/button&gt;
+    &lt;button class="month" data-index=2&gt;March&gt;/button&gt;
+    </code>
+</pre>
+<pre>
+    <code>
+    let data = [
+      {
+        month: "January",
+        mean_weight: 88.5,
+        miles_per_hour: 5,
+        total_exercise_hours: 25
+      },
+      {
+        month: "February",
+        mean_weight: 88,
+        miles_per_hour: 5.11,
+        total_exercise_hours: 22
+      },
+      {
+        month: "March",
+        mean_weight: 87,
+        miles_per_hour: 5.35,
+        total_exercise_hours: 29
+      }
+    ];
+    
+    let el = document.getElementById("visualisation"),
+      width = el.offsetWidth,
+      height = (width / 16) * 9,
+      padding = width / 10;
+    
+    let config = { el, width, height, padding };
+    
+    let svg = d3
+      .select("#visualisation")
+      .append("svg")
+      .attr("width", config.width)
+      .attr("height", config.height);
+    
+    // Store highest and lowest speeds
+    let speed_extent = d3.extent(data, (d) => d.miles_per_hour);
+    
+    // Create a scale that represents our data
+    let xScale = d3.scaleLinear();
+    xScale.domain(speed_extent);
+    xScale.range([config.padding, config.width - config.padding]);
+    
+    // Create an axis based on the scale
+    let xAxis = d3.axisBottom();
+    xAxis.scale(xScale);
+    
+    // Render and place the axis
+    svg
+      .append("g")
+      .attr("transform", `translate(0, ${config.height - config.padding})`)
+      .call(xAxis);
+    
+    // Store highest and lowest speeds
+    let exercise_hours_extent = d3.extent(data, (d) => d.total_exercise_hours);
+    
+    // Create a scale for your Y axis
+    // Note that we flip the min and max
+    let yScale = d3.scaleLinear();
+    yScale.domain([d3.max(exercise_hours_extent), d3.min(exercise_hours_extent)]);
+    yScale.range([config.padding, config.height - config.padding]);
+    
+    // Set the X axis
+    let yAxis = d3.axisLeft();
+    yAxis.scale(yScale);
+    yAxis.ticks(5);
+    
+    svg
+      .append("g")
+      .attr("transform", `translate(${config.padding}, 0)`)
+      .call(yAxis);
+    
+    // Create a scale for our bubbles
+    let bubbleScale = d3.scaleLinear();
+    bubbleScale.domain(d3.extent(data, (d) => d.mean_weight));
+    bubbleScale.range([3, 21]);
+    
+    // Create a function which takes data and renders bubbles, creating
+    // them if they didn't exist, animating them if they did.
+    function set_visualisation_data(...data) {
+      const selection = svg
+        .selectAll("circle")
+        .data(data, (d) => d)
+        .join(
+          (enter) =>
+            enter
+              .append("circle")
+              .attr("cy", (d) => yScale(d.total_exercise_hours))
+              .attr("fill", "transparent")
+              .attr("stroke", "orange")
+              .attr("stroke-width", "2px")
+              .attr("cx", (d) => xScale(d.miles_per_hour))
+              .attr("r", (d) => bubbleScale(d.mean_weight)),
+          (update) =>
+            update
+              .transition()
+              .duration(1000)
+              .attr("cy", (d) => yScale(d.total_exercise_hours))
+              .attr("cx", (d) => xScale(d.miles_per_hour))
+              .attr("r", (d) => bubbleScale(d.mean_weight)),
+          (exit) => exit.remove()
+        );
+    }
+    
+    // Setting up our click handlers
+    // Note: each HTML button has a data-index
+    // which corresponds to an array index
+    function click() {
+      set_visualisation_data(data[this.dataset.index]);
+    }
+    
+    d3.selectAll("button").on("click", click);
+
+    </code>
+</pre> 
+
 ## To be continued... 
