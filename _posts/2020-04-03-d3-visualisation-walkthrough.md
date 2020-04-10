@@ -266,7 +266,7 @@ At this point we have a working visualisation with the ability to change the dat
     </code>
 </pre>
 <pre>
-    <code>
+        <code>
     let data = [
       {
         month: "January",
@@ -285,6 +285,27 @@ At this point we have a working visualisation with the ability to change the dat
         mean_weight: 87,
         miles_per_hour: 5.35,
         total_exercise_hours: 29
+      }
+    ];
+    
+    let new_data = [
+      {
+        month: "January",
+        mean_weight: 88.6,
+        miles_per_hour: 5.1,
+        total_exercise_hours: 24
+      },
+      {
+        month: "February",
+        mean_weight: 87.8,
+        miles_per_hour: 5.12,
+        total_exercise_hours: 22
+      },
+      {
+        month: "March",
+        mean_weight: 87.7,
+        miles_per_hour: 5.25,
+        total_exercise_hours: 27
       }
     ];
     
@@ -345,10 +366,10 @@ At this point we have a working visualisation with the ability to change the dat
     
     // Create a function which takes data and renders bubbles, creating
     // them if they didn't exist, animating them if they did.
-    function set_visualisation_data(...data) {
+    function set_visualisation_data(data) {
       const selection = svg
         .selectAll("circle")
-        .data(data, (d) => d)
+        .data(data, (d) => d.month)
         .join(
           (enter) =>
             enter
@@ -374,12 +395,27 @@ At this point we have a working visualisation with the ability to change the dat
     // Note: each HTML button has a data-index
     // which corresponds to an array index
     function click() {
-      set_visualisation_data(data[this.dataset.index]);
+      if (this.dataset.source == "initial") {
+        set_visualisation_data(data);
+      } else {
+        set_visualisation_data(new_data);
+      }
     }
     
     d3.selectAll("button").on("click", click);
-
+    
+    set_visualisation_data(data);
     </code>
 </pre> 
+
+<details>
+    <summary>See this in action</summary>
+    <p class="codepen" data-height="965" data-theme-id="dark" data-default-tab="js,result" data-user="gtvj" data-slug-hash="vYOqEgL" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="D3 visualisation walkthrough (Part 1)">
+      <span>See the Pen <a href="https://codepen.io/gtvj/pen/vYOqEgL">
+      D3 visualisation walkthrough (Part 1)</a> by Gwyn Jones (<a href="https://codepen.io/gtvj">@gtvj</a>)
+      on <a href="https://codepen.io">CodePen</a>.</span>
+    </p>
+    <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+</details>
 
 ## To be continued... 
