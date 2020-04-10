@@ -1,10 +1,10 @@
 ---
-title: D3 visualisation walkthrough
+title: Building a dynamic D3 bubble visualisation - a walkthrough
 date: 2020-04-03
 author: Gwyn
 layout: d3_visualisation_walkthrough
 ---
-For the past few months I've been using my free time each week to learn about [D3 Data Driven Documents](https://d3js.org) and preparing weekly sessions for the developers I work with. The materials I've produced are all on the web, including:
+I explained in a recent post that I've been using my free time each week to learn about [D3 Data Driven Documents](https://d3js.org) and preparing weekly sessions for the developers I work with. The materials I've produced are all on the web, including:
 
 * A high-level [slide deck](https://docs.google.com/presentation/d/1H8UbPesAFGUxk4IuWzBh3QmIHK1oG55WdYIeGjZ7ezU/edit?usp=sharing) that starts with the basics before progressing through to more advanced topics
 * A companion [web site](https://pure-hamlet-59256.herokuapp.com) which goes into greater detail and contains a lot of examples (both in the page and via interactive examples on CodePen). I built this site in Python Flask and all the source code is on [GitHub](https://github.com/gtvj/data-visualisation-javascript-with-web-standards). The site is hosted on a free Heroku plan, so might take a few seconds for the first page to load. 
@@ -408,14 +408,11 @@ At this point we have a working visualisation with the ability to change the dat
     </code>
 </pre> 
 
-<details>
-    <summary>See this in action</summary>
-    <p class="codepen" data-height="965" data-theme-id="dark" data-default-tab="js,result" data-user="gtvj" data-slug-hash="vYOqEgL" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="D3 visualisation walkthrough (Part 1)">
-      <span>See the Pen <a href="https://codepen.io/gtvj/pen/vYOqEgL">
-      D3 visualisation walkthrough (Part 1)</a> by Gwyn Jones (<a href="https://codepen.io/gtvj">@gtvj</a>)
-      on <a href="https://codepen.io">CodePen</a>.</span>
-    </p>
-    <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-</details>
+You can see this code in [action on CodePen](https://codepen.io/gtvj/pen/eYNqgmZ?editors=1011)
 
-## To be continued... 
+## I'm stopping here, but there would be a lot more to do on this
+
+A this stage there is a working visualisation but, in its current form, there is much that would need to be done if this was a 'real' thing, including: 
+
+* Improving the click handling to make it more dynamic (the current implementation is hard-coded and crude)
+* Ensuring the axes reflect the full extent of both ranges (they're currently set on the initial dataset only)
