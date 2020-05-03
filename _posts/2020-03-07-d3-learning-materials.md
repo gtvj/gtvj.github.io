@@ -1,5 +1,5 @@
 ---
-title: D3 training materials
+title: I've produced some D3 training materials
 date: 2020-03-07
 author: Gwyn
 layout: post

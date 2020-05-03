@@ -1,5 +1,5 @@
 ---
-title: Building a dynamic D3 bubble visualisation - a walkthrough
+title: Data visualisation walkthrough - building a dynamic bubble visualisation in D3
 date: 2020-04-03
 author: Gwyn
 layout: d3_visualisation_walkthrough
