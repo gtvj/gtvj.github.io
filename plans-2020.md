@@ -42,10 +42,6 @@ A healthy diet and regular exercise have a huge impact on my mental health and w
 - live in a way that seeks to minimise my impact on the planet
 - follow an entirely plant-based lifestyle and do not buy any products derived from animals
 
-### 🏝 Family holiday
-
-We're on a big summer holiday this year. The biggest holiday we've ever had.
-
 ### 🎸 Guitar 
 
 I practice guitar every day using the resources on ArtistWorks. This year I'll:
@@ -53,6 +49,13 @@ I practice guitar every day using the resources on ArtistWorks. This year I'll:
 * learn twelve songs and submit each of them as a VideoExchange for feedback and refinement.
 * exceed the 115 hours of practice I did in 2019
 * record all my practice time using the Forest app
+
+
+### ~~🏝 Family holiday~~ <strong>Cancelled due to Covid 19</strong> 🦠
+
+
+
+~~We're on a big summer holiday this year. The biggest holiday we've ever had.~~
 
 -------------------
 
