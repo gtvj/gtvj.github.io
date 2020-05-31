@@ -22,10 +22,12 @@ This hasn't necessarily been easy because I'm balancing full-time work with chil
 
 One thing I'm grateful for is how much time I've been able to spend with my wife and children. As I write this we've been together 24/7 (a family of four in a small flat) for 75 days - and it's been a priceless opportunity to have this time together. 
 
+This time together has been harmonious and calm. It has been a bit tough on the children, but they've been very resilient - and strange as it may sound - I feel they have benefited in some ways from the time together. 
+
 <figure>
     <img src="/content/me-and-the-kids-bike.JPG"
-         alt="Me and the kids with out for ">
-    <figcaption>Me and the kids with out for </figcaption>
+         alt="Me and the kids with returning from an exercise session">
+    <figcaption>Me and the kids with returning from an exercise session</figcaption>
 </figure>
 
 ## Regular goal-oriented exercise
@@ -65,7 +67,6 @@ I've been playing flatpick acoustic guitar for some time now and one of my new y
 ## Preparing measures for when things return to normal
 
 At some point lockdown will come to an end. There are a few changes I plan to make. For example, I don't plan to use mass transportation for the forseeable future (but I'll review this in 2022). 
-
 
 Because I use public transport for my commute this presents a bit of a problem. I considered walking (would take too much time at 2.5 hours a day); running (not practical because of what I'd need to carry); getting a push scooter (too uncomfortable for long journeys - I bought one to try and ended up returning it). A normal bike isn't an option either because our home is too small to store one. That left one option: a folding bike.
 
