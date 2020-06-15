@@ -46,7 +46,7 @@ A healthy diet and regular exercise have a huge impact on my mental health and w
 
 I practice guitar every day using the resources on ArtistWorks. This year I'll:
  
-* learn twelve songs and submit each of them as a VideoExchange for feedback and refinement.
+* learn <s>twelve</s> ten songs and submit each of them as a VideoExchange for feedback.
 * exceed the 115 hours of practice I did in 2019
 * record all my practice time using the Forest app
 
