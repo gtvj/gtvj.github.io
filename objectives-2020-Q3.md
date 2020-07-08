@@ -27,9 +27,12 @@ Objective: Continuously improve my technical skills every week and proactively s
 
 Results for this period: Renew React development skills by completing three React courses and reviewing a recent React textbook.
 
-### Progress
-
-* ✅ Completed 'React: The big picture' course - see notes [here](/2020/07/08/react-big-picture.html)
+<div class="progress">
+<h3>Progress</h3>
+<ul>
+    <li>Completed 'React: The big picture' course - see notes <a href="/2020/07/08/react-big-picture.html">here</a></li>
+</ul>
+</div>
 
 ## Guitar
 
@@ -40,6 +43,13 @@ Results for this period:
 * Complete the book "Guitar Fretboard: Memorize the Fretboard in Less Than 24 hours"
 * Submit three Video Exchanges to ArtistWorks
 * Record all practice using Forest App
+
+<div class="progress">
+<h3>Progress</h3>
+<ul>
+    <li>Completed the book "Guitar Theory: Straight Talking Music Theory for Guitarists". Excellent book and I think I got a lot from it. One thing is clear though - as the author says: <q>It takes time; you won't learn this stuff quickly, so just enjoy the ride</q></li>
+</ul>
+</div>
 
 ## Circle of influence, circle of concern
 
