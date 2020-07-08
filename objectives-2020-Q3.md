@@ -27,6 +27,10 @@ Objective: Continuously improve my technical skills every week and proactively s
 
 Results for this period: Renew React development skills by completing three React courses and reviewing a recent React textbook.
 
+### Progress
+
+* ✅ Completed 'React: The big picture' course - see notes [here](/2020/07/08/react-big-picture.html)
+
 ## Guitar
 
 Objective: Improve my guitar skills 
