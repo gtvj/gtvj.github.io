@@ -25,7 +25,7 @@ Results for this period:
 
 Objective: Continuously improve my technical skills every week and proactively share my knowledge
 
-Results for this period: Renew React development skills by completing three React courses and reviewing a recent React textbook.
+Results for this period: Renew development skills in the front end staack for our new platform at work. 
 
 <div class="progress">
 <h3>Progress</h3>
