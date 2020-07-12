@@ -3,5 +3,12 @@
     border-left: 4px solid $highlight-colour;
     background-color: $light-grey;
     padding: 0.2em 1.5em;
+    li {
+      list-style: none;
+      &::before {
+        content: "✅ ";
+        margin-left: -1.5em;
+      }
+    }
   }
 }
