@@ -48,6 +48,7 @@ Results for this period:
 <h3>Progress</h3>
 <ul>
     <li>Completed the book "Guitar Theory: Straight Talking Music Theory for Guitarists". Excellent book and I think I got a lot from it. One thing is clear though - as the author says: <q>It takes time; you won't learn this stuff quickly, so just enjoy the ride</q></li>
+    <li>Completed the book "Guitar Fretboard: Memorise the Fretboard in less than 24 hours". An OK book with some good tips. Provides some useful navigation/orientation tools - but over promises at bit.</li>
 </ul>
 </div>
 
@@ -60,4 +61,9 @@ Results for this period:
 * Spend no time looking at politics related material on Social Media
 * Limit news consumption to a maximum of 5 minutes a day (using iOS Screen Time limits to support this)
 
+<div class="failure">
+<h3>Not off to a great start</h3>
+<p>Reflecting on this at about 10 days in and it hasn't been going well. I've been looking at the news and social media more than I'd like. The truth is that I'm giving too much attention and energy to things I have no way to control - and doing so saps my energy and optimism.</p>
+<p>Have decided to hit a reset on this, draw a line under the last few days and start again (as of 18 July). Have also decided to delete my remaining social media accounts (WhatsApp and Instagram). Hoping that will help.</p>
+</div> 
 

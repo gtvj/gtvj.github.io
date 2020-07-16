@@ -1,14 +1,18 @@
 .objectives {
+
+  h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: 1px solid $mid-grey;
+  }
+
   .progress {
-    border-left: 4px solid $highlight-colour;
-    background-color: $light-grey;
-    padding: 0.2em 1.5em;
-    li {
-      list-style: none;
-      &::before {
-        content: "✅ ";
-        margin-left: -1.5em;
-      }
-    }
+    border-left: 4px solid $success-colour;
+    @include outcome
+  }
+
+  .failure {
+    border-left: 4px solid $warning-colour;
+    @include outcome
   }
 }
