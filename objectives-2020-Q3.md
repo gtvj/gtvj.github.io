@@ -43,6 +43,7 @@ Results for this period:
 * Complete the book "Guitar Fretboard: Memorize the Fretboard in Less Than 24 hours"
 * Submit three Video Exchanges to ArtistWorks
 * Record all practice using Forest App
+* <mark>New!</mark> 10 minutes looper practice every day (added 20/7)
 
 <div class="progress">
 <h3>Progress</h3>
