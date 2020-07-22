@@ -44,12 +44,15 @@ Results for this period:
 * Submit three Video Exchanges to ArtistWorks
 * Record all practice using Forest App
 * <mark>New!</mark> 10 minutes looper practice every day (added 20/7)
+* <mark>New!</mark> Read "Guitar Practice Guide: A Practice Guide for Guitarists and other Musicians" (added 22/7)
+
 
 <div class="progress">
 <h3>Progress</h3>
 <ul>
     <li>Completed the book "Guitar Theory: Straight Talking Music Theory for Guitarists". Excellent book and I think I got a lot from it. One thing is clear though - as the author says: <q>It takes time; you won't learn this stuff quickly, so just enjoy the ride</q></li>
     <li>Completed the book "Guitar Fretboard: Memorise the Fretboard in less than 24 hours". An OK book with some good tips. Provides some useful navigation/orientation tools - but over promises at bit.</li>
+    <li>Completed the book "Guitar Practice Guide: A Practice Guide for Guitarists and other Musicians". This is a short book (39 pages) with a lot of useful information in it. It's reminded me of things I'd forgotten and taught me a new thing or two. </li>
 </ul>
 </div>
 
