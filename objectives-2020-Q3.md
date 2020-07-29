@@ -30,7 +30,8 @@ Results for this period: Renew development skills in the front end staack for ou
 <div class="progress">
 <h3>Progress</h3>
 <ul>
-    <li>Completed 'React: The big picture' course - see notes <a href="/2020/07/08/react-big-picture.html">here</a></li>
+    <li>Completed <strong>'React: The big picture' course</strong> - see notes <a href="/2020/07/08/react-big-picture.html">here</a></li>
+    <li>Completed <strong>'React: Getting Started' course</strong> and did additional research/reading. I've written a blog post covering what I've learned <a href="/2020/07/28/getting-started-with-react.html">here</a></li>
 </ul>
 </div>
 
@@ -50,9 +51,9 @@ Results for this period:
 <div class="progress">
 <h3>Progress</h3>
 <ul>
-    <li>Completed the book "Guitar Theory: Straight Talking Music Theory for Guitarists". Excellent book and I think I got a lot from it. One thing is clear though - as the author says: <q>It takes time; you won't learn this stuff quickly, so just enjoy the ride</q></li>
-    <li>Completed the book "Guitar Fretboard: Memorise the Fretboard in less than 24 hours". An OK book with some good tips. Provides some useful navigation/orientation tools - but over promises at bit.</li>
-    <li>Completed the book "Guitar Practice Guide: A Practice Guide for Guitarists and other Musicians". This is a short book (39 pages) with a lot of useful information in it. It's reminded me of things I'd forgotten and taught me a new thing or two. </li>
+    <li>Completed the book <strong>"Guitar Theory: Straight Talking Music Theory for Guitarists"</strong>. Excellent book and I think I got a lot from it. One thing is clear though - as the author says: <q>It takes time; you won't learn this stuff quickly, so just enjoy the ride</q></li>
+    <li>Completed the book <strong>"Guitar Fretboard: Memorise the Fretboard in less than 24 hours"</strong>. An OK book with some good tips. Provides some useful navigation/orientation tools - but over promises at bit.</li>
+    <li>Completed the book <strong>"Guitar Practice Guide: A Practice Guide for Guitarists and other Musicians"</strong>. This is a short book (39 pages) with a lot of useful information in it. It's reminded me of things I'd forgotten and taught me a new thing or two. </li>
 </ul>
 </div>
 
