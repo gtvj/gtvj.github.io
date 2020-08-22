@@ -7,25 +7,24 @@ layout: objectives
 
 # Objectives this quarter
 
-This page details my personal objectives for 6 July to 4 October 2020. 
-
-This has been a strange year. At the time of writing the country is beginning to ease lockdown in response to the COVID-19 pandemic after more than 100 days. 
+This page details my personal objectives for 6 July to 4 October 2020. Plans will be updated as I progress through the period. The beginning of this period coincides with the country beginning to ease lockdown in response to the COVID-19 pandemic after more than 100 days. It's been a strange year. 
 
 ## Health and fitness
 
-Objective: get back to the fitness levels I had before my 2018 injury.
+**Objective**: start getting back to the fitness levels I had before my 2018 injury.
 
-Results for this period: 
+**Results for this period**: 
 
-* Run four times each week following a structured training plan
+* Run regularly and embark on a structured training plan
+* Sign up to participate in a race in the next quarter
 * Be especially careful to avoid injuring myself (again)
 * Eat healthily
 
 ## Professional development
 
-Objective: Continuously improve my technical skills every week and proactively share my knowledge
+**Objective**: Continuously improve my technical skills and proactively share my knowledge
 
-Results for this period: Renew development skills in the front end staack for our new platform at work. 
+**Results for this period**: Renew development skills in the front end stack for the new front end stack in my workplace. 
 
 <div class="progress">
 <h3>Progress</h3>
@@ -37,15 +36,14 @@ Results for this period: Renew development skills in the front end staack for ou
 
 ## Guitar
 
-Objective: Improve my guitar skills 
+**Objective**: Improve my guitar skills 
 
-Results for this period: 
+**Results for this period**: 
 * Complete the book "Guitar Theory: Straight Talking Music Theory for Guitarists"
 * Complete the book "Guitar Fretboard: Memorize the Fretboard in Less Than 24 hours"
 * Submit three Video Exchanges to ArtistWorks
 * Record all practice using Forest App
-* <mark>New!</mark> 10 minutes looper practice every day (added 20/7)
-* <mark>New!</mark> Read "Guitar Practice Guide: A Practice Guide for Guitarists and other Musicians" (added 22/7)
+* Get to grips with using a looper 
 
 
 <div class="progress">
@@ -59,16 +57,10 @@ Results for this period:
 
 ## Circle of influence, circle of concern
 
-Objective: Stop wasting time and energy on things I cannot influence.
+**Objective**   : Stop wasting time and energy on things I cannot influence.
 
-Results for this period: 
+**Results for this period**: 
 
-* Spend no time looking at politics related material on Social Media
+* Reach a point where I'm no longer at politics related material on Social Media
 * Limit news consumption to a maximum of 5 minutes a day (using iOS Screen Time limits to support this)
-
-<div class="failure">
-<h3>Not off to a great start</h3>
-<p>Reflecting on this at about 10 days in and it hasn't been going well. I've been looking at the news and social media more than I'd like. The truth is that I'm giving too much attention and energy to things I have no way to control - and doing so saps my energy and optimism.</p>
-<p>Have decided to hit a reset on this, draw a line under the last few days and start again (as of 18 July). Have also decided to delete my remaining social media accounts (WhatsApp and Instagram). Hoping that will help.</p>
-</div> 
 
