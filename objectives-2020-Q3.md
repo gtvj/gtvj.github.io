@@ -32,6 +32,7 @@ This page details my personal objectives for 6 July to 4 October 2020. Plans wil
     <li>Completed <strong>'React: The big picture' course</strong> - see notes <a href="/2020/07/08/react-big-picture.html">here</a></li>
     <li>Completed <strong>'React: Getting Started' course</strong> and did additional research/reading. I've written a blog post covering what I've learned <a href="/2020/07/28/getting-started-with-react.html">here</a></li>
     <li>Completed <strong>'Developing websites for accessibility: Getting Started' course</strong></li>
+    <li>Completed <strong>'Introduction to Developing Custom Components with ARIA' course</strong></li>
 </ul>
 </div>
 
