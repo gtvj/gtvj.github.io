@@ -16,5 +16,9 @@
   li {
     list-style-type: none;
     margin-bottom: $padding-unit;
+    a {
+      @extend h2;
+      display: block;
+    }
   }
 }
