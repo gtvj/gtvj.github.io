@@ -5,7 +5,7 @@ author: Gwyn
 layout: post
 ---
 
-I attended a Show and Tell earlier this week and saw a reasonably complex, JavaScript-driven interaction that had been implemented without ARIA. The scenario being demonstrated was this:
+I attended a Show and Tell earlier this week and saw a reasonably complex JavaScript-driven feature being shown. The scenario being demonstrated was this:
 
 1. User performs action which initiates two simultaneous, long-running, asynchronous processes (lasting perhaps minutes)
 2. Two independent progress bars are displayed to the user
@@ -18,18 +18,19 @@ I had a brief chat with the developer after the presentation and it seemed they 
 
 ## The repository
 
-During the evenings this week I pulled together a simple Node (Express) app with basic jQuery to double for the progress that would be provided by the end point. This code can be found on in my [progress bar experiements repository on GitHub](https://github.com/gtvj/progress-bar-experiments).
+During the evenings this week I pulled together a simple Node (Express) app with basic jQuery to simulate the progress of these asynchronous tasks. This code can be found on in my [progress bar experiements](https://github.com/gtvj/progress-bar-experiments) repository on GitHub.
 
 ## The session for developers
 
-Earlier today I took a group of developers from across the organisation through the examples contained in this repository. I've also prepared a few short videos comparing the experience via a visual web browser to that of a screen reader. In the first part of the videos I showed what it would be like to use the application as a sighted user interacting with a mouse. In the second I showed how it would be for someone using keyboard control and a screenreader. 
+Earlier today I took the developers through the examples contained in this repository. For each I showed what it would be like to use the application as a sighted user interacting with a mouse. I then showed how it would be for someone using keyboard control and a screenreader, as well as how ARIA can be used to improve the experience in this scenario. 
+
+Here is a video example of the different experience:
 
 <video controls>
-
-    <source src="/content/progress_bars_example.mp4  "
+    <source src="/content/progress_bars_example.mp4"
             type="video/mp4">
-
-    Sorry, your browser doesn't support embedded videos.
+      <p>Your browser doesn't seem to support HTML5 video. Here is
+         a <a href="/content/progress_bars_example.mp4">link to the video</a> instead.</p>
 </video>
 
      
