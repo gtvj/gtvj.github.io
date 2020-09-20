@@ -2,11 +2,10 @@
 layout: default
 ---
 
-{{ content }}
-
 <main class="home">
     {%- if site.posts.size > 0 -%}
-    <h1 >{{ page.list_title | default: "Posts" }}</h1>
+    <h1 >{{ page.list_title | default: "15 volts. The blog of gtvj" }}</h1>
+    {{ content }}
 
     <ul>
     {%- for post in site.posts -%}

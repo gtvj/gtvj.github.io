@@ -1,5 +1,5 @@
 ---
-title: Objectives this quarter
+title: Current objectives
 date: 2019-12-22
 author: Gwyn
 layout: objectives

@@ -19,12 +19,17 @@ header {
     flex: 1;
   }
 
-  nav {
+  nav ul {
     display: flex;
-    flex-direction: row-reverse;
+    justify-content: flex-end;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 
-    a {
-      margin-left: 1em;
+    li {
+      a {
+        margin-left: 1em;
+      }
     }
   }
 }
