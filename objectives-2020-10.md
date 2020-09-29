@@ -18,8 +18,8 @@ The days are getting shorter and wetter and colder. I know from experience that 
 
 **Objectives**: 
 
-* continue progress towards fitness levels I had before my 2018 injury
-* have a battle plan for the winter blues
+* Continue progress towards fitness levels I had before my 2018 injury
+* Have a battle plan for the winter blues
 
 **Results for this period**: 
 
