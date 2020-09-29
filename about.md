@@ -4,6 +4,7 @@ date: 2020-07-11
 h1: Hello
 author: Gwyn
 layout: page
+include_in_nav: true
 ---
 
 I'm a web developer from London, England. This page describes my professional purpose, interests and goals. I'm also on [LinkedIn](https://www.linkedin.com/in/gtvjones/), although I'm not at all active on that platform.
