@@ -3,7 +3,7 @@ title: Current objectives
 date: 2019-12-22
 author: Gwyn
 layout: objectives
-include_in_nav: true
+include_in_nav: false
 ---
 
 # Objectives this quarter
