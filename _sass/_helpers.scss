@@ -6,3 +6,15 @@
   height: 1px;
   overflow: hidden;
 }
+
+%notice {
+  padding: 0.2em 1.5em;
+  border-left-width: 5px;
+  border-left-style: solid;
+}
+
+.info {
+  @extend %notice;
+  border-color: $very-dark-grey;
+  background-color: $info-colour;
+}
