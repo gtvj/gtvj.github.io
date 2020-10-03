@@ -18,12 +18,13 @@ The days are getting shorter and wetter and colder. I know from experience that 
 
 **Objectives**: 
 
-* continue progress towards fitness levels I had before my 2018 injury
-* have a battle plan for the winter blues
+
+* Continue progress towards fitness levels I had before my 2018 injury
+* Have a battle plan for the winter blues
 
 **Results for this period**: 
 
-* 🏃🏽 ‍Keep to my Garmin Coach 10K plan, doing all runs in daylight wherever possible (had a bad fall this time last year)
+* 🏃🏽 ‍Keep to my Garmin Coach 10K plan, doing all runs in daylight wherever possible (I had [a bad fall](https://www.strava.com/activities/2826630981) this time last year)
 * 🏋️‍ Start and keep to the Sworkit 'Couch to Fit: 6 week plan'
 * 🤕 Be especially careful to injury (especially when running at night)
 * 🥗 Eat healthily
@@ -42,7 +43,12 @@ The days are getting shorter and wetter and colder. I know from experience that 
 **Objective**: Improve my guitar skills 
 
 **Results for this period**: 
+<<<<<<< HEAD
 * Average 30 minutes of structured practice **with a metronome** a day (total is 16.5 hours by end of period)
 * Submit a VideoExchange
 
 
+=======
+* Average 30 minutes of structured practice a day (goal total is 16.5 hours by end of period)
+* Submit a VideoExchange
+>>>>>>> cfd07bb344e9460566cad11ed9dac4feec3674b5
