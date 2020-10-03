@@ -57,7 +57,7 @@ header {
 
 blockquote {
   border: 1px solid $mid-grey;
-  background-color: $light-grey;
+  background-color: $slight-interest-colour;
   padding: 1em;
   color: $very-dark-grey;
 
@@ -84,3 +84,6 @@ strong {
   font-weight: 700;
 }
 
+dt {
+  font-weight: bold;
+}
