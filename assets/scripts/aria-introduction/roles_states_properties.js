@@ -1,13 +1,20 @@
 const w = document.getElementById('roles_states_properties').getBoundingClientRect().width,
     h = w / 2.5;
 
-const svg = d3.select('#roles_states_properties').append('svg').attr('width', w).attr('height', h);
+const svg = d3
+    .select('#roles_states_properties')
+    .append('svg')
+    .attr('width', w)
+    .attr('height', h)
+    .attr('aria-labelledby', 'graphic_title graphic_description');
 
 svg.append("title")
     .text("Roles, States and Properties")
+    .attr('id', 'graphic_title');
 
 svg.append("desc")
     .text("A diagram showing the words 'Roles', 'States' and 'Properties' within circles.")
+    .attr('id', 'graphic_description');
 
 
 svg.append("text")
