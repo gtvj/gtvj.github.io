@@ -8,7 +8,7 @@ include_in_nav: true
 
 # Objectives this month
 
-This page details my personal objectives for 29 September to 31 October 2020. Plans will be updated as I progress through the period. 
+This page details my personal objectives for 1 to 31 October 2020. Plans will be updated as I progress through the period. 
 
 The beginning of this period coincides with a sharp increase in COVID-19 cases in the country and corresponding efforts by the government to prevent unnecessary harm. At the time of writing our household has spent five of the last nine days in two separate bouts of self isolation as we've awaited test results for our children. 
 
@@ -35,20 +35,20 @@ The days are getting shorter and wetter and colder. I know from experience that 
 
 **Results for this period**:
 
-* Write an introduction to using WAI-ARIA for accessibility
 * Become a confident user of the VoiceOver screen reader on both Mac and iPhone
+
+<div class="progress">
+<h3>Progress</h3>
+<ul>
+    <li>Write a <a href="/2020/10/06/aria-introduction.html">detailed introduction to using WAI-ARIA for developers</a></li>
+</ul>
+</div>
 
 ## Guitar
 
 **Objective**: Improve my guitar skills 
 
 **Results for this period**: 
-<<<<<<< HEAD
-* Average 30 minutes of structured practice **with a metronome** a day (total is 16.5 hours by end of period)
+* Average 30 minutes of structured practice a day (goal total is 15.5)
 * Submit a VideoExchange
 
-
-=======
-* Average 30 minutes of structured practice a day (goal total is 16.5 hours by end of period)
-* Submit a VideoExchange
->>>>>>> cfd07bb344e9460566cad11ed9dac4feec3674b5
