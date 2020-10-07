@@ -1,11 +1,20 @@
 ---
-title: Getting started with React
+title: React refresher 2020
 date: 2020-07-28
 author: Gwyn
 layout: post
 ---
 
-I've been continuing my React refresher / journey this month and have just completed the Pluralsight course [React: Getting Started](https://app.pluralsight.com/player?course=react-js-getting-started). I used this course as a guide alongside additional React learning. My notes from the course and additional reading etc. are available as a [PDF mind map](/content/react_getting_started.pdf).
+I was recently asked to help a developer that had picked up some code that made pretty heavy use of [React Hooks](https://reactjs.org/docs/hooks-intro.html). While we were able to make the necessary changes to this code I thought it might be a good idea to do a refresher in React and to share what I learned. 
+
+<div class="info">
+<h2>This is a refresher post</h2>
+<p>I'm not new to React. I know and have been working with it for years.</p>
+<p>I take these kind of 'refresher' journeys from time to time, just to make sure that my knowledge and approach is current and I tend to try and share what I come across, both for my own reference and for others.</p>
+<p>For this particular refresher it was only React Hooks that were new to me, which is reassuring.</p>
+</div>
+
+I used the latest [React]([React: Getting Started](https://app.pluralsight.com/player?course=react-js-getting-started)) course on Pluralsight as my guide, supplemented with materials from O'Reilly Learning and the React documentation. My notes are available as a [PDF mind map](/content/react_getting_started.pdf).
 
 <figure>
 <a href="/content/react_getting_started.pdf">
@@ -18,80 +27,57 @@ I've been continuing my React refresher / journey this month and have just compl
  
  If any of this isn't clear let me know and I'll be happy to help.
 
-## Summary of the basics
+## Some benefits of React
 
 Here are a few reasons why you might want to choose React:
 
-* React is a small library and **more flexible than a framework**. You'll likely have to use other tools in addition to React, but you'll have greater flexibility  than if you adopt a framework.
-* React takes the declarative nature of HTML and extends this to dynamic data (rather than simply static content). It therefore enables developers to **declaratively describe their UIs and model the state of the interfaces**
-
-A few things that have made React popular include:
-
-* The **Virtual DOM is easier** than dealing with the DOM API
-* strong **corporate backing increases trust** in the library
-* It provides a **declarative language to model UI and state**
+<dl>
+    <dt>Small and flexible</dt>
+    <dd>React is a small library and more flexible than a framework. You'll likely have to use other tools in addition to React, but you'll have greater flexibility than if you adopt a framework (though it should be noted this too has its drawbacks)</dd>
+    <dt>Declarative</dt>
+    <dd>React takes the declarative nature of HTML and extends this to dynamic data (rather than simply static content). It therefore enables developers to declaratively describe their UIs and model the state of the interfaces</dd>
+    <dt>Virtual DOM</dt>
+    <dd>The Virtual DOM is easier to update and reconcile (and simply easier to work with, really) than the native DOM.</dd>
+</dl>
 
 ### Reactive updates and tree reconciliation 
-In React, you generate HTML using JavaScript, rather than having a HTML template language. 
+In React, you generate HTML using JavaScript, rather than having a HTML template language. JSX might look like a template language but it's just a syntax extension which gets compiled down to `React.createElement()` calls that result in an in-memory representation of the current DOM known as the Virtual DOM. This Virtual DOM can then be applied to the real DOM.
 
-This allows React's Virtual DOM which **uses tree reconciliation to update only what has changed**. While it may be easier to generate a DOM using the native DOM API, the React Tree Reconciliation makes it far easier to update the DOM - this is partly because React will only update those elements which need to change, rather than everything and partly because **you do this in a declarative way** when using React
+<blockquote cite="https://reactjs.org/docs/faq-internals.html">
+The virtual DOM (VDOM) is a programming concept where an ideal, or “virtual”, representation of a UI is kept in memory and synced with the “real” DOM by a library such as ReactDOM. This process is called reconciliation.
+<cite>React Documentation: Virtual DOM and Internals</cite>
+</blockquote> 
+
+This might seem redundant but remember that DOM operations are expensive. The benefit of the in-memory Virtual DOM is that tree reconciliation can be used to update only what has changed. 
+
+Remember this: while it may be easier to generate a DOM using the native DOM API, the React Tree Reconciliation makes it far easier to update the DOM - this is:
+ 
+ * because React will only update those elements which need to change, and; 
+ * because **you do this in a declarative way** when using React
 
  You can, of course, also do this with the DOM - but that requires imperative logic. React's Virtual DOM is delarative.
 
-### A resource for common beginner mistakes
-Common problems faced by React developers are described in [React: commonly faced problems](https://jscomplete.com/learn/react-beyond-basics/react-cfp)
 
-## Some modern JavaScript you'll commonly encounter in React
-Since 2015 we've had yearly releases of ECMAScript named ES[year] made by TC39. There are several new language features you'll likely encounter in React.
+<div class="info">
+<h2>Commonly faced problems</h2>
+<p>Agile Labs have provided resource to help with <a href="https://jscomplete.com/learn/react-beyond-basics/react-cfp">common beginner problems</a> when getting to grips with React</p>
+</div>
 
-### Arrow functions
-These are common because **they work better than traditional functions for closures**. Why? Because they do not implicitly bind 'this' to the caller. Instead, **Arrow function close over the value of 'this' at the time it was defined**. This makes it great for delayed execution functions like listeners because it provides easy access to the defining environment.
-
-Here's a gist that demonstrates this: 
-
-<script src="https://gist.github.com/gtvj/dc4bdb8f9094d9ddf7cb1879de7e4107.js"></script>
-
-This behaviour of arrow functions is **a great benefit when working with listeners and event handlers**
-
-### Object literal improvements
-
-A couple of improvements to object literals are often seen when working with React. These are:
-
-* [Shorthand property and method names](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer#New_notations_in_ECMAScript_2015)
-* [Computed property names](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer#Computed_property_names)
-
-### Destructuring and rest/spread
-
-I've [written about spread before](/2020/07/12/spread-operator.html) but a few things to note are shown below:
-
-**You can use destructuring in function definitions** and, when doing so, you can still set defaults
-<script src="https://gist.github.com/gtvj/30db8bfa523d35b2aaac3ea950c4e40c.js"></script>
-
-You **use the rest operator in a function definition** to create a new array or object with the 'rest' of the items
-<script src="https://gist.github.com/gtvj/db72f395a1dcaf168aead64abffcaca2.js"></script>
-
-### Promises and async/await
-The async/await syntax allows you to consume promises without having to nest `.then()` calls. One thing to remember is that, once you await on anything in a function, the function itself becomes asynchronous and it will return a promise object. 
-
-Here's an gist I've prepared which lets you compare the async/await approach with more traditional promises:
-
-<script src="https://gist.github.com/gtvj/bcc57454d8bad15c5a1009ecabcbcbec.js"></script>
-
-### Other features you'll see in React
-You'll also commonly see [template literals](/2016/10/11/simple-template-literals.html), [classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) and block scoping with `const` and `let`.
- 
-In reality, you could potentially see any other new language feature (since React itself requires transpiling), but these seem most common.
 
 ## Basic concepts of React
 
-Components are just like functions. They take input and return a UI.
+### Components
 
-The input for a component is **props** and **state**. Key differences between these are: 
+Components are just like functions. They take input and provide output. 
 
-* **Props are explicitly passed to components**, appearing similar to HTML attributes. **Props are immutable and cannot be changed by the component**. They can, however, be changed _by the component's parent_ and the component will be re-rendered
-* a component **has control over its internal state**.
+<dl>
+    <dt>Component input</dt>
+    <dd>The input for a component is <strong>props</strong> and <strong>state</strong>. Key differences between these relate to control: a component does not control its props. They are immutable and passed to a component. Props can, however, be changed by the component's parent (at which point the component will be re-rendered). On the flipside, a component has complete control over its internal state.</dd>
+    <dt>Component output</dt>
+    <dd>The output is a user interface - declared as <a href="https://reactjs.org/docs/introducing-jsx.html">JSX</a>, and shipped shipped to the browser as React API calls (which in turn render HTML). Remember that JSX is not HTML. It will be compiled to pure JavaScript that is sent to the browser (if you wanted to you could just write the raw API calls in your component).</dd>
+</dl>
 
-The output is a user interface - declared as [JSX](https://reactjs.org/docs/introducing-jsx.html), and shipped shipped to the browser as React API calls (which in turn render HTML). Remember that JSX is not HTML. It will be compiled to pure JavaScript that is sent to the browser (if you wanted to you could just write the raw API calls in your component).
+
 
 ####  The one way flow of data
  Because parent components can flow their data and behaviour down to their child components **through props** this is known as a one way flow of data. In order for a child component to change state of a parent, the parent would have to pass a function reference to the child - there are examples of this shown below.
@@ -197,3 +183,43 @@ This is an NPM package which provides many more tools that what is necessary - i
 #### A lighter quick start: Reactful
 This is an NPM package which functions similarly to create-react-app (in that you can use it to create a working environment). The difference is that the is bare bones and ejected by default (i.e. the configuration is flat and editable).
 
+## Appendix. Some modern JavaScript you'll commonly encounter in React
+Since 2015 we've had yearly releases of ECMAScript named ES[year] made by TC39. There are several new language features you'll likely encounter in React.
+
+### Arrow functions
+These are common because **they work better than traditional functions for closures**. Why? Because they do not implicitly bind 'this' to the caller. Instead, **Arrow function close over the value of 'this' at the time it was defined**. This makes it great for delayed execution functions like listeners because it provides easy access to the defining environment.
+
+Here's a gist that demonstrates this: 
+
+<script src="https://gist.github.com/gtvj/dc4bdb8f9094d9ddf7cb1879de7e4107.js"></script>
+
+This behaviour of arrow functions is **a great benefit when working with listeners and event handlers**
+
+### Object literal improvements
+
+A couple of improvements to object literals are often seen when working with React. These are:
+
+* [Shorthand property and method names](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer#New_notations_in_ECMAScript_2015)
+* [Computed property names](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer#Computed_property_names)
+
+### Destructuring and rest/spread
+
+I've [written about spread before](/2020/07/12/spread-operator.html) but a few things to note are shown below:
+
+**You can use destructuring in function definitions** and, when doing so, you can still set defaults
+<script src="https://gist.github.com/gtvj/30db8bfa523d35b2aaac3ea950c4e40c.js"></script>
+
+You **use the rest operator in a function definition** to create a new array or object with the 'rest' of the items
+<script src="https://gist.github.com/gtvj/db72f395a1dcaf168aead64abffcaca2.js"></script>
+
+### Promises and async/await
+The async/await syntax allows you to consume promises without having to nest `.then()` calls. One thing to remember is that, once you await on anything in a function, the function itself becomes asynchronous and it will return a promise object. 
+
+Here's an gist I've prepared which lets you compare the async/await approach with more traditional promises:
+
+<script src="https://gist.github.com/gtvj/bcc57454d8bad15c5a1009ecabcbcbec.js"></script>
+
+### Other features you'll see in React
+You'll also commonly see [template literals](/2016/10/11/simple-template-literals.html), [classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) and block scoping with `const` and `let`.
+ 
+In reality, you could potentially see any other new language feature (since React itself requires transpiling), but these seem most common.
