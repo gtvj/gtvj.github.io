@@ -1,5 +1,5 @@
 ---
-title: Expermients with OCR
+title: Experiments with OCR
 date: 2018-10-03
 author: Gwyn
 layout: post
