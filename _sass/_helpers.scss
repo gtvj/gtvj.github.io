@@ -7,6 +7,10 @@
   overflow: hidden;
 }
 
+.screen-reader-only {
+  @extend %visually-hidden;
+}
+
 %notice {
   padding: 0.2em 1.5em;
   border-left-width: 5px;

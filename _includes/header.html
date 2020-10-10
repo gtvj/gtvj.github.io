@@ -2,11 +2,11 @@
     <div>
         {%- assign default_paths = site.pages | map: "path" -%}
         {%- assign page_paths = site.header_pages | default: default_paths -%}
-        <a aria-label="Home page" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+        <a aria-label="Home page and listing of posts" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
     </div>
     {%- if page_paths -%}
-    <nav aria-label="pages">
+    <nav aria-label="site navigation">
         <ul>
             {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
