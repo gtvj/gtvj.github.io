@@ -5,7 +5,7 @@ author: Gwyn
 layout: post
 ---
 <figure>
-    <img src="/content/better-than-before.JPG"
+    <img src="/content/better-than-before.jpg"
          alt="Sign outside Hammertons Ferry in Twickenham">
     <figcaption>Sign outside Hammertons Ferry in Twickenham</figcaption>
 </figure>
@@ -25,7 +25,7 @@ One thing I'm grateful for is how much time I've been able to spend with my wife
 This time together has been harmonious and calm. It has been a bit tough on the children, but they've been very resilient - and strange as it may sound - I feel they have benefited in some ways from the time together. 
 
 <figure>
-    <img src="/content/me-and-the-kids-bike.JPG"
+    <img src="/content/me-and-the-kids-bike.jpg"
          alt="Me and the kids with returning from an exercise session">
     <figcaption>Me and the kids with returning from an exercise session</figcaption>
 </figure>
@@ -43,7 +43,7 @@ I've been keeping up my exercise. I initially signed up for a challenge to do 30
 Once that was finished I started a new half-marathon training plan to coincide with the new date for my postponed race. It wasn't easy finding a 26 week half-marathon plan!
 
 <figure>
-    <img src="/content/garmin-coach-training-plan.jpeg"
+    <img src="/content/garmin-coach-training-plan.jpg"
          alt="Garmin Coach training plan">
     <figcaption>Garmin Coach training plan</figcaption>
 </figure>
@@ -59,7 +59,7 @@ Links to all this material is being uploaded to this site.
 I've been playing flatpick acoustic guitar for some time now and one of my new years resolutions was to exceed the 115 hours of practice I did in 2019. This is going well, and I've done over 21 hours so far in May (I did 26 hours in April). Definitely on track.
 
 <figure>
-    <img src="/content/forest.JPG"
+    <img src="/content/forest.jpg"
          alt="Guitar practice so far in May">
     <figcaption>Guitar practice so far in May</figcaption>
 </figure>

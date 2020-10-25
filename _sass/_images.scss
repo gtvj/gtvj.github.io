@@ -16,11 +16,21 @@
       shape-outside: circle(50%);
     }
   }
+
+  figure {
+    max-width: 60%;
+    margin: auto;
+  }
+
 }
 
 figure {
   background-color: $light-grey;
   padding: 1em;
+
+  img {
+    width: 100%;
+  }
 
   figcaption {
     color: $almost-black;
