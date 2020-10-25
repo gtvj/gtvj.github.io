@@ -26,10 +26,5 @@ Earlier today I took the developers through the examples contained in this repos
 
 Here is a video example of the different experience:
 
-<video controls>
-    <source src="/content/progress-bars-example.mp4"
-            type="video/mp4">
-      <p>Your browser doesn't seem to support HTML5 video. Here is
-         a <a href="/content/progress_bars_example.mp4">link to the video</a> instead.</p>
-</video>
+<iframe title="Video example of different experiences" width="560" height="315" src="https://www.youtube.com/embed/Xblx_rGWc_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
