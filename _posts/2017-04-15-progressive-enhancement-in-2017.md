@@ -11,7 +11,7 @@ While having a coffee with friends recently we got round to talking about the 
 
 I looked down, saw our drinks and it occurred to me: **_progressive enhancement in 2017 is a bit like coffee._** This metaphor is similar but there are a few reasons why I think it better suits where we are now.
 
-### HTML is the espresso
+## HTML is the espresso
 
 Like a good coffee this metaphor begins with a shot of espresso representing - you guessed it - semantic HTML that **allows users to meet the 'core' needs without reliance upon CSS or JavaScript capabilities**.
 
@@ -19,7 +19,7 @@ Here's the first difference to the M&M metaphor: remove the peanut from a Peanut
 
 I'm going to talk about enhancements now but before I do I'd just like to say:
 
-### Enhancements are not _just_ enhancements
+## Enhancements are not _just_ enhancements
 
 Describing something as an enhancement is sometimes mistaken for trivialising it - as though it's suggesting it doesn't really matter. That's not the case. **It's the enhancements that make all the difference, but they do remain enhancements. Why? Because of the nature of the web:**
 
@@ -27,11 +27,11 @@ Describing something as an enhancement is sometimes mistaken for trivialising i
 
 This view of enhancements not being _just_ enhancements is brilliantly put by [Jeremy Keith in his Resilience talk at Render Conference](https://vimeo.com/166790296#t=1993s) (this link drops you in at 33:03 and he makes the point in just a couple of minutes - but I'd highly recommend the whole talk if you've got time for it).
  
-#### I think of it as a hierarchy
+### I think of it as a hierarchy
 
  I like to think of enhancements as being similar to everything above 'physiological needs' in Maslow's hierarchy of needs. You can survive without them but it wouldn't be much of a life by most standards; that said, **I wouldn't want my oxygen supply to be reliant upon my sense of social belonging**.
 
-### Everything else is an enhancement
+## Everything else is an enhancement
 
 The milk, syrup, burnt caramel drizzle or whipped cream are enhancements. Some people (like me) will gladly have all of them but others wont.
 
@@ -43,7 +43,7 @@ This might seem like a minor detail but it can lead to very real problems rangi
 
 The end result is the same: like putting a sign up saying _'Apologies to our lactose intolerant or vegan customers but all our coffees are made with cows milk'_.
 
-### And that's before we look below the surface
+## And that's before we look below the surface
 
 Things get a lot more complex when you look beneath the surface. It's not just a case of determining whether a user has 'CSS' or 'JavaScript' anymore - it's a question of what APIs, features and versions the browser supports. This is why feature detection, transpilation and tools like [canIuse.com](http://caniuse.com/#) are an essential part of a modern workflow. A quick check of the Modernizr source code suggests there are about 270 detects available. That's 270 capabilities that some, but not all, of your users will have. That's pretty incredible - and it's not stopping any time soon. Browsers will continue to implement features that set them apart from their competition, and occasionally - because they've been shipped so early - this can result in partial, inconsistent implementations of (sometimes dead) specifications across browsers.<figure id="attachment_1283" style="width: 1024px" class="wp-caption alignnone">
 

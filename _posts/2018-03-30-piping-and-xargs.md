@@ -17,9 +17,9 @@ In this example, everything but `file.txt` will be removed from the working dire
 
 ### How it works
 
-  1. The output from the `ls` command is piped into `grep`
-  2. `grep` is passed the `-v` argument which inverts its behaviour, returning everything **but** `file.txt`
-  3. The output of `grep` is then piped into `xargs` which in turn passes each result to `rm` (which removes each item passed to it). _Note: the `-t` argument simply shows the resulting command that is run by `xargs`_
+1. The output from the `ls` command is piped into `grep`
+2. `grep` is passed the `-v` argument which inverts its behaviour, returning everything **but** `file.txt`
+3. The output of `grep` is then piped into `xargs` which in turn passes each result to `rm` (which removes each item passed to it). _Note: the `-t` argument simply shows the resulting command that is run by `xargs`_
 
 I thought that was a nice simple way of achieving what I needed and, since it also neatly demonstrates how piping and `xargs` works, I thought I'd post it here.
 
@@ -33,7 +33,6 @@ ls | grep -e '.*py$' | xargs -I '{}' mv '{}' ../python
 
 ### How it works
 
-<li style="list-style-type: none;">
   <ul>
     <li>
       The output of <code>ls</code> is piped to <code>grep</code>
@@ -45,7 +44,7 @@ ls | grep -e '.*py$' | xargs -I '{}' mv '{}' ../python
       the output is passed to <code> xargs</code> with the <code>-I</code> argument using <code>'{}'</code> to represent the replacement.
     </li>
   </ul>
-</li>
+
 
 I should explain that I initially found this confusing because it looked to me that standard input was being placed both before and after the mv command. That isn't the case because the first instance of `'{}'` is simply providing a name for the value received from standard input. I've experimented with this and you could achieve the exact same thing with something other than `'{}'`. Here's an example where I'm copying files using `'{blah}'`:
 

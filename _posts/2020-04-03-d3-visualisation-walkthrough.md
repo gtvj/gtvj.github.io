@@ -6,19 +6,19 @@ layout: d3_visualisation_walkthrough
 ---
 I explained in a recent post that I've been [learning about D3](/2020/03/07/d3-learning-materials.html). I'm doing this post because I now think I have sufficient knowledge to produce - from scratch - the type of visualisation which really impressed me when I first the late Hans Rosling show it perhaps ten years ago. Here's a clip: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jbkSRLYSojo?start=30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="YouTube video of dynamic bubble visualisation" width="560" height="315" src="https://www.youtube.com/embed/jbkSRLYSojo?start=30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The purpose of this post is to step through the process. It's be 'warts 'n all', and it might be that I need to double-back if I get something wrong - but that's OK.
 
-### This is not production code
+## This is not production code
 
 The examples shown here use modern JavaScript. To ensure compatibility across browsers and devices, a transpilation step will be necessary. But they should work in a capable modern browser (Chrome, Firefox etc.). 
 
-### Progressive enhancement would be used in production
+## Progressive enhancement would be used in production
 
 I also want to say that D3, like all JavaScript, should be applied in a way that leverages progressive enhancement. I'm not going to illustrate it here, but in the real world the initial draw of the SVG would do this. For a visualisation like this, it might be a server-provided table or image (perhaps a static SVG) with a JavaScript generated call to action to see the JavaScript-powered version. 
 
-### Light relief
+## Light relief
 
 As I write this the world is in the grip of a pandemic. For entirely selfish reasons, therefore, I'm going to use some 'positive' data - some fake data that might be used to determine if there is any correlation between total exercise time, body weight and running speed changes over time. To keep things really simple we'll start with just two data points:
 
@@ -42,7 +42,7 @@ As I write this the world is in the grip of a pandemic. For entirely selfish rea
 
 ## The walkthrough
 
-### Step 1 - draw the SVG
+## Step 1 - draw the SVG
 
 I want the SVG to occupy the full width of its parent and be displayed in 16:9 aspect ratio. I'm also creating an object to hold configuration properties.
 
@@ -62,7 +62,7 @@ I want the SVG to occupy the full width of its parent and be displayed in 16:9 a
     </code>
 </pre>
 
-### Step 2 - prepare the data
+## Step 2 - prepare the data
 
 We're gong to fake this bit. The point here is that our JSON data is not currently in a good shape for a visualisations and needs to be 'prepared'. Let's imaging I'm fetching this data from an API, and then have run it through a function that cleans it and turns it into a JavaScript object. D3 provides a number of utilities that could help with this. 
 
@@ -106,7 +106,7 @@ A few things to notice are:
     </code>
 </pre>
 
-### Setting up the X Axis
+## Setting up the X Axis
 
 Changes in <code>miles_per_hour</code> property will be shown along the X axis. Here's our code as updated to render an X axis:
 

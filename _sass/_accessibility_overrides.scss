@@ -4,5 +4,21 @@
 }
 
 .hljs-comment {
-  color: #555555!important;
+  color: $very-dark-grey!important;
+}
+
+.hljs-regexp {
+  color: $very-dark-grey!important;
+}
+
+.hljs-variable {
+  color: $very-dark-grey!important;
+}
+
+.hljs-literal {
+  color: $very-dark-grey!important;
+}
+
+.pl-v {
+  color: $very-dark-grey!important;
 }

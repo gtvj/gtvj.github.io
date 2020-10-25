@@ -15,9 +15,10 @@ I've just finished a short exploration of the tools and techniques for testing A
   * Protractor is a very capable way of performing end-to-end (e2e) tests in Angular (it's actually a wrapper around WebDriver)
   * A solid testing environment is provided when generating projects using the Angular CLI. Use that if you can.
 
-## Overview diagram<figure id="attachment_1371">
+## Overview diagram
 
-[<img src="/content/angular_testing.png"/>](/content/angular_testing.png)
+<a href="/content/angular_testing.png"><img src="/content/angular_testing.png" alt="Mindmap overview of Angular testing"/></a>
+
 
 ## Testing architecture
 
