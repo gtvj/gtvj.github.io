@@ -16,12 +16,13 @@
       shape-outside: circle(50%);
     }
   }
+}
 
+@media screen and (min-width: $break-medium) {
   figure {
     max-width: 60%;
     margin: auto;
   }
-
 }
 
 figure {
