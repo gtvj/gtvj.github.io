@@ -18,4 +18,4 @@ Some of the sessions that _really_ stood out for me (given my career stage and t
   * _'Teaching new tricks to how to enhance the skills of experienced developers'_ by Clare Sudbery. So much useful information here.
   * _'Using agile techniques to build a more inclusive team'_ by Kevin Goldsmith
 
-I'd highly recommend watching all of these (when they're available online). You're also welcome to look at my conference notes in either [PDF](/content/lead_developer_2018.pdf) or [HTML](/content/lead_developer_2018.html) form.
+I'd highly recommend watching all of these (when they're available online). You're also welcome to look at my conference notes in either [PDF](/content/lead-developer-2018.pdf) or [HTML](/content/lead-developer-2018.html) form.

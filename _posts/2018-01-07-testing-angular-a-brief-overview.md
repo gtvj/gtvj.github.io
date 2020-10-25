@@ -17,7 +17,7 @@ I've just finished a short exploration of the tools and techniques for testing A
 
 ## Overview diagram
 
-<a href="/content/angular_testing.png"><img src="/content/angular_testing.png" alt="Mindmap overview of Angular testing"/></a>
+<a href="/content/angular-testing.png"><img src="/content/angular_testing.png" alt="Mindmap overview of Angular testing"/></a>
 
 
 ## Testing architecture

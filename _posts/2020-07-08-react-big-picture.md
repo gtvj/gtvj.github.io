@@ -9,10 +9,10 @@ This quarter I'm focussing my learning on ReactJS.
 
 While I've been working with it for a few years now, in my current role it tends to be used quite lightly (with a few components spread across some key applications). This means that my interaction with it has been pretty sporadic, and I want to ensure my skills are up to date and comprehensive so that I can be most effective with it.
 
-I've stared by doing a new Pluralsight course (published 3 months ago) which looks at the 'big picture' and I've found it to be really helpful. As always, I'm publishing my notes here in [PDF](/content/react_the_big_picture.pdf) format as well as an outline in HTML (below).
+I've stared by doing a new Pluralsight course (published 3 months ago) which looks at the 'big picture' and I've found it to be really helpful. As always, I'm publishing my notes here in [PDF](/content/react-the-big-picture.pdf) format as well as an outline in HTML (below).
 
-<a href="/content/react_the_big_picture.pdf">
-    ![React: The big picture](/content/react_the_big_picture.png "React: The big picture")
+<a href="/content/react-the-big-picture.pdf">
+    ![React: The big picture](/content/react-the-big-picture.png "React: The big picture")
 </a>
 
 

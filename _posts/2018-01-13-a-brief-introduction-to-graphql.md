@@ -5,9 +5,9 @@ author: Gwyn
 layout: post
 ---
 
-I've been researching GraphQL this week and thought it might be useful if I posted a brief overview of what I've learned and my mindmap 'notes' (in both [PDF](/content/graph_ql.pdf) and PNG format below).
+I've been researching GraphQL this week and thought it might be useful if I posted a brief overview of what I've learned and my mindmap 'notes' (in both [PDF](/content/graph-ql.pdf) and PNG format below).
 
-[<img src="/content/graph_ql.png" alt="A mindmap showing the topics I've encountered while learning about GraphQL" />](/content/graph_ql.png)
+[<img src="/content/graph-ql.png" alt="A mindmap showing the topics I've encountered while learning about GraphQL" />](/content/graph-ql.png)
 
 ## What is GraphQL
 

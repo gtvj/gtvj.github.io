@@ -9,4 +9,4 @@ I ran a workshop yesterday to give people an introduction to regular expressions
 
 The workshop is interactive with participants being able to get 'hands-on' using examples I'd prepared in [Regexr.com](https://regexr.com/). 
 
-In short, this is **a ready-made interactive workshop to introduce just about anyone to the basics of regular expressions**. Here are the materials in [PDF](/content/introduction_to_regular_expressions.pdf) and [PowerPoint](/content/introduction_to_regular_expressions.pptx) format.
+In short, this is **a ready-made interactive workshop to introduce just about anyone to the basics of regular expressions**. Here are the materials in [PDF](/content/introduction-to-regular-expressions.pdf) and [PowerPoint](/content/introduction-to-regular-expressions.pptx) format.

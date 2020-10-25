@@ -14,11 +14,11 @@ I was recently asked to help a developer that had picked up some code that made 
 <p>For this particular refresher it was only React Hooks that were new to me, which is reassuring.</p>
 </div>
 
-I used the latest [React]([React: Getting Started](https://app.pluralsight.com/player?course=react-js-getting-started)) course on Pluralsight as my guide, supplemented with materials from O'Reilly Learning and the React documentation. My notes are available as a [PDF mind map](/content/react_getting_started.pdf).
+I used the latest [React]([React: Getting Started](https://app.pluralsight.com/player?course=react-js-getting-started)) course on Pluralsight as my guide, supplemented with materials from O'Reilly Learning and the React documentation. My notes are available as a [PDF mind map](/content/react-getting-started.pdf).
 
 <figure>
-<a href="/content/react_getting_started.pdf">
-    <img src="/content/react_getting_started.png" alt="React: The big picture">
+<a href="/content/react-getting-started.pdf">
+    <img src="/content/react-getting-started.png" alt="React: The big picture">
 </a>
 <figcaption>My course notes in mind map form</figcaption>
 </figure>

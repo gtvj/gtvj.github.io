@@ -13,7 +13,7 @@ Over approximately three months - with some disruption related to COVID-19 - I p
 
 The materials I've produced are all on the web, including:
 
-* **A high-level slide deck** (available in [PDF](/content/visualisation_with_javaScript.pdf) and [PPT](/content/visualisation_with_javaScript.pptx) format) that starts with the basics before progressing through to more advanced topics
+* **A high-level slide deck** (available in [PDF](/content/visualisation-with-javaScript.pdf) and [PPT](/content/visualisation-with-javaScript.pptx) format) that starts with the basics before progressing through to more advanced topics
 * A **companion [web site](https://pure-hamlet-59256.herokuapp.com)** which goes into greater detail and contains a lot of examples (both in the page and via interactive examples on CodePen). I built this site in Python Flask and all the source code is on [GitHub](https://github.com/gtvj/data-visualisation-javascript-with-web-standards). The site is hosted on a free Heroku plan, so might take a few seconds for the first page to load. 
 
 <figure>
