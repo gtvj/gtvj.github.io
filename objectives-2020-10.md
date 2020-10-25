@@ -35,12 +35,13 @@ The days are getting shorter and wetter and colder. I know from experience that 
 
 **Results for this period**:
 
-* Become a confident user of the VoiceOver screen reader on both Mac and iPhone
+* Review and study the Web Accessibility Specialist Body of Knowledge
 
 <div class="progress">
 <h3>Progress</h3>
 <ul>
     <li>Write a <a href="/2020/10/06/aria-introduction.html">detailed introduction to using WAI-ARIA for developers</a></li>
+    <li>Learn how to use VoiceOver on macOS and iOS</li>
 </ul>
 </div>
 
@@ -50,5 +51,10 @@ The days are getting shorter and wetter and colder. I know from experience that 
 
 **Results for this period**: 
 * Average 30 minutes of structured practice a day (goal total is 15.5)
-* Submit a VideoExchange
 
+<div class="progress">
+<h3>Progress</h3>
+<ul>
+    <li>Submitted a Video Exchange outlining 1-6m-2m-5</li>
+</ul>
+</div>
