@@ -4,11 +4,6 @@
     margin-top: 0;
   }
 
-  span {
-    font-size: smaller;
-    color: $dark-grey;
-  }
-
   ul {
     padding: 0;
   }
@@ -16,9 +11,14 @@
   li {
     list-style-type: none;
     margin-bottom: $padding-unit;
+
     a {
       @extend h2;
       display: block;
+    }
+
+    span {
+      font-size: 80%;
     }
   }
 }
