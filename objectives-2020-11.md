@@ -8,8 +8,6 @@ include_in_nav: true
 
 # Plans for November
 
-## Introduction
-
 This page details my personal objectives for November 2020. It will be updated as I progress through the month. 
 
 As I write this it has just been announced that the Prime Minister is considering a new "stay at home" order for the month of November. Sounds like another lockdown, which seems very sensible to me.
