@@ -3,7 +3,7 @@ title: October objectives
 date: 2020-10-01
 author: Gwyn
 layout: objectives
-include_in_nav: true
+include_in_nav: false
 ---
 
 # Objectives this month
