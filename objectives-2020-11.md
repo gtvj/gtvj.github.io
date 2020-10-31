@@ -12,13 +12,13 @@ This page details my personal objectives for November 2020. It will be updated a
 
 As I write this it has just been announced that the Prime Minister is considering a new "stay at home" order for the month of November. Sounds like another lockdown, which seems very sensible to me.
 
-Reflecting on my progress for October it was a pretty mixed. On the positive side I:
+Reflecting on progress during October I feel it was a pretty mixed. Positives were that I:
 
 * Did a lot of online study to increase my knowledge of accessibility
 * Wrote a long, detailed blog post on WAI-ARIA and developed confidence using VoiceOver on both macOS and iOS. 
 * Exceeded my guitar practice time goal and submitted a Video Exchange
 
-On the negative I: 
+The negatives were that I: 
 
 * Worked far too many hours - including evenings, during the night and weekends
 * Didn't keep up with my health and fitness goals 
@@ -33,7 +33,7 @@ This is my priority for November. I will:
 * ⏱ Limit working time to normal hours, using a timer to stay on top of this
 * 🍁 Get out of the house during daylight hours for a minimum of 30 minutes every day
 * 🏃🏽‍♂️ Run at least three times each week and do a Sworkit workout on every day that I am not running
-* 🙅🏽‍♂️ 📰 Remain in the news bunker, emerging for a maximum of 5 minutes each day where there is a need to do so (supported by iOS / macOS screen time)
+* 🙅🏽‍♂️ 📰 Remain in the news bunker, emerging for a maximum of 5 minutes each day and only when there is a need to do so (supported by iOS / macOS screen time)
 
 ## Professional development
 
