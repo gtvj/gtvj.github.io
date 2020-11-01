@@ -8,11 +8,11 @@ include_in_nav: true
 
 # Plans for November
 
-This page details my personal objectives for November 2020. It will be updated as I progress through the month. 
+This page details my personal objectives for November 2020. It will be updated as the month progresses. 
 
-As I write this it has just been announced that the Prime Minister is considering a new "stay at home" order for the month of November. Sounds like another lockdown, which seems very sensible to me.
+As I write this the Prime Minister is expected to introduce a "stay at home" order for the month of November. Sounds like another lockdown, which seems very sensible to me.
 
-Reflecting on progress during October I feel it was a pretty mixed. Positives were that I:
+Reflecting on my progress during October I feel it was a pretty mixed period. Positives were that I:
 
 * Did a lot of online study to increase my knowledge of accessibility
 * Wrote a long, detailed blog post on WAI-ARIA and developed confidence using VoiceOver on both macOS and iOS. 
@@ -37,7 +37,7 @@ This is my priority for November. I will:
 
 ## Professional development
 
-Good news on this front. My employer have agreed to support me in studying towards gaining a Web Accessibility Specialist certification. I began study towards this last month and will continue during November.
+Good news on this front. My employer has agreed to support my study towards gaining a Web Accessibility Specialist certification. I began study towards this last month and will continue during November.
 
 My plans for the month are to: 
 
