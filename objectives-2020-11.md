@@ -32,8 +32,8 @@ This is my priority for November. I will:
 
 * ⏱ Limit working time to normal hours, using a timer to stay on top of this
 * 🍁 Get out of the house during daylight hours for a minimum of 30 minutes every day
-* 🏃🏽‍♂️ Run at least three times each week and do a Sworkit workout on every day that I am not running
-* 🙅🏽‍♂️ 📰 Remain in the news bunker, emerging for a maximum of 5 minutes each day and only when there is a need to do so (supported by iOS / macOS screen time)
+* 🏃🏽‍♂️ Run at least three times and do three Sworkit workouts each week
+* 🙅🏽‍♂️ 📰 Remain in the news bunker, emerging for a maximum of 5 minutes each day and only when there is a need to do so (supported by iOS / macOS screen time).
 
 ## Professional development
 
