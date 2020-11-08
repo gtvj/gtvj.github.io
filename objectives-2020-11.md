@@ -22,18 +22,17 @@ The negatives were that I:
 
 * Worked far too many hours - including evenings, during the night and weekends
 * Didn't keep up with my health and fitness goals 
-* Didn't keep on top of measures to tackle the winter blues. 
+* Didn't keep on top of measures to tackle the winter blues
 
 I want to do much better in November.
 
 ## Health and wellbeing
 
-This is my priority for November. I will:
+This is my priority for November. I plan to:
 
 * ⏱ Limit working time to normal hours, using a timer to stay on top of this
-* 🍁 Get out of the house during daylight hours for a minimum of 30 minutes every day
-* 🏃🏽‍♂️ Run at least three times and do three Sworkit workouts each week
-* 🙅🏽‍♂️ 📰 Remain in the news bunker, emerging for a maximum of 5 minutes each day and only when there is a need to do so (supported by iOS / macOS screen time).
+* 🍁 Do my best to get out of the house during daylight hours for a minimum of half an hour every day
+* 🏃🏽‍♂️ Run three times and do three Sworkit workouts each week
 
 ## Professional development
 
