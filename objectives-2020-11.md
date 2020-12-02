@@ -3,7 +3,7 @@ title: November objectives
 date: 2020-10-31
 author: Gwyn
 layout: objectives
-include_in_nav: true
+include_in_nav: false
 ---
 
 # Plans for November
