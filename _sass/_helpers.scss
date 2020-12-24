@@ -20,6 +20,12 @@
   }
 }
 
+@mixin core-content {
+  max-width: 42em;
+  padding: 2em 2em 0 2em;
+  margin: auto;
+}
+
 .info {
   @extend %notice;
   border-color: $very-dark-grey;

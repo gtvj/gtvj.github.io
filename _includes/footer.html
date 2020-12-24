@@ -1,3 +1,17 @@
 <footer>
   <!-- This is a footer-->
+  {%- if page_paths -%}
+  <nav>
+    <ul>
+      {%- for path in page_paths -%}
+      {%- assign my_page = site.pages | where: "path", path | first -%}
+      {%- if my_page.include_in_footer -%}
+      <li>
+        <a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+      </li>
+      {%- endif -%}
+      {%- endfor -%}
+    </ul>
+  </nav>
+  {%- endif -%}
 </footer>

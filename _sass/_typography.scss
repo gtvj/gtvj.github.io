@@ -1,8 +1,7 @@
 body {
   font-family: $body-font;
   line-height: 1.75em;
-  font-size: 1.25em;
-  margin: auto;
+  font-size: 1.3em;
 }
 
 h1, h2, h3, h4, h5 {
@@ -62,20 +61,32 @@ header {
   font-weight: 700;
 }
 
+footer {
+  font-size: 80%;
+}
+
 blockquote {
-  border: 1px solid $mid-grey;
-  background-color: $slight-interest-colour;
-  padding: 1em;
+  font-family: $quote-font;
+  font-size: larger;
   color: $very-dark-grey;
+  font-style: italic;
+  margin: 0;
+  background-color: $light-grey;
+  background-image: url(/images/open-quote.png);
+  background-repeat: no-repeat;
+  background-size: 5em;
+  border-left: 5px solid $mid-grey;
+  padding: 1em 1em 1em 3em;
 
   strong {
-    color: $very-dark-grey;
+    color: $almost-black;
   }
 
   cite {
     display: block;
     text-align: right;
-    font-size: smaller
+    font-size: smaller;
+    margin-top: 0.5em;
   }
 
   @media screen and (max-width: $break-small) {

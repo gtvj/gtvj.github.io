@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<main class="home">
+<div class="home">
     {%- if site.posts.size > 0 -%}
     <h1 >{{ page.list_title | default: "15 volts. The blog of gtvj" }}</h1>
     {{ content }}
@@ -22,7 +22,7 @@ layout: default
         </li>
         {%- endfor -%}
     </ul>
-</main>
+</div>
 
 
 {%- endif -%}
