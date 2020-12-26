@@ -22,6 +22,8 @@ I'd like to improve my running fitness and performance in 2021.
 
 **Current objectives**:
 
+Very broadly, I'd like to be a better lead developer at the end of 2021 than I am at the start. The term 'better' in this context means being more capable of delivering user value effectively and efficiently, and to comminicate the 'why' and 'how' of doing so to others.
+
 * Review and map out WCAG 2.1
 
 ## Guitar
