@@ -11,7 +11,7 @@ This is a place where I record the things I'm learning about guitar playing. It'
 
 ## Components of good practice
 
-I've been a student of Bryan Sutton since 2019. Here are the key messages he's conveyed during our video exchanges: 
+I've been a student on [Bryan Sutton's ArtistWorks school](https://artistworks.com/guitar-lessons-bryan-sutton) since 2019. Here are the key messages he's conveyed during our video exchanges: 
 
 * Every practice session should progress through three distinct phases:
     * **Remind**. This can be considered a reminder of what quality is and a warm up;
