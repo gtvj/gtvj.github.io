@@ -8,7 +8,7 @@ include_in_footer: true
 
 # Objectives for 2021
 
-At the outset of 2021 I'm not entirely clear what my big picture aims are. 
+At the outset of 2021 I'm not entirely clear what my big picture aims are. This page will be added to as the year progresses.
 
 ## Health and wellbeing
 
@@ -28,7 +28,9 @@ Very broadly, I'd like to be a better lead developer at the end of 2021 than I a
 
 ## Guitar
 
-Having exceeded 300 hours of practice in 2020 my plan for 2021 is to ensure that my practice sessions are of high-quality and incorporate the [principles of good practice](/guitar-journey#components-of-good-practice)
+Having exceeded 300 hours of practice in 2020 my plan for 2021 is to ensure that my practice sessions are of high-quality and incorporate the [principles of good practice](/guitar-journey#components-of-good-practice). 
+
+One rule I have for 2021 is that only deliberate, focussed practice is recorded as practice time. It's fine to play something I know while watching, say, YouTube, but this can't be recorded towards my daily practice time.
 
 **Current objectives**:
 

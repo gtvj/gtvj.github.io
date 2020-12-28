@@ -7,9 +7,11 @@ include_in_footer: true
 h1: Guitar journey
 ---
 
-This is a place where I record the things I'm learning about guitar playing. It's mostly as a reference to myself.
+Improving as a guitarist is an important personal goal of mine. Practice is part of my daily routine and I read books, study courses etc. in the pursuit of getting better. 
 
-## Components of good practice
+I started this page at the end of 2020 as a page is a place to record some of the more important things I've learned. It's intended to be a reference to myself.    
+
+## Components of quality practice
 
 I've been a student on [Bryan Sutton's ArtistWorks school](https://artistworks.com/guitar-lessons-bryan-sutton) since 2019. Here are the key messages he's conveyed during our video exchanges: 
 
