@@ -40,7 +40,7 @@ The most crucial ingredient for success in music is what happens in the practice
 **Current objectives**:
 
 * Learn I am a Pilgrim and submit as a Video Exchange
-* Work through Guitar Lab Fretboard Visualization Vol. 1 on Truefire
+* Learn Gentle Genius (from Essentials: Soul Rhythm Guitar)
 
 <div class="progress">
     <h3>Progress</h3>
