@@ -3,6 +3,7 @@ title: 'Linux command line - some slightly more advanced tips'
 date: 2016-11-25
 author: Gwyn
 layout: post
+topic: code
 ---
 
 In my [Mac OSX Command Line Essentials](http://15volts.com/mac-os-x-command-line-essentials/) post I describe some basics of command line use. About 90% of what's there is equally applicable in Linux. If the command line is entirely new to you I'd suggest starting there because I'll be introducing a few more advanced topics here.

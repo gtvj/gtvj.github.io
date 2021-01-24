@@ -3,6 +3,7 @@ title: Accessible progress bar experiments
 date: 2020-09-18
 author: Gwyn
 layout: post
+topic: code
 ---
 
 I attended a Show and Tell earlier this week and saw a reasonably complex JavaScript-driven feature being shown. The scenario being demonstrated was this:

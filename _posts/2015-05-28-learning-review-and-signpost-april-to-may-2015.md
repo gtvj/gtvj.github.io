@@ -3,6 +3,7 @@ title: Learning review and signpost (April to May 2015)
 date: 2015-05-28
 author: Gwyn
 layout: post
+topic: code
 ---
 ## Plans for this period
 

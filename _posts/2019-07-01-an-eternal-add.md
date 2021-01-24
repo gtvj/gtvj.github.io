@@ -3,6 +3,7 @@ title: An eternal add function
 date: 2019-07-01
 author: Gwyn
 layout: post
+topic: code
 ---
 
 Earlier today I was told about a coding challenge a colleague had tried this weekend. The challenge was to write an `add()` function

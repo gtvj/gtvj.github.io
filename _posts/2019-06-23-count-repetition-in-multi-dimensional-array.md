@@ -3,6 +3,7 @@ title: Count repetition in multi-dimensional array
 date: 2019-06-23
 author: Gwyn
 layout: post
+topic: code
 ---
 
 A couple of days ago a few of us were talking over lunch about a recent coding challenge a colleague had been posed. The task was to: 

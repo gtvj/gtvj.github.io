@@ -3,6 +3,7 @@ title: Generating hashes on Mac
 date: 2018-09-10
 author: Gwyn
 layout: post
+topic: code
 ---
 
 Every time I have to use a checksum on Mac I end up searching on line for the command to use to and every time I have this niggling feeling that I should be saving this somewhere. Since I'm not doing this _that_ often I tend to forget. Anyways, here's how you do it.

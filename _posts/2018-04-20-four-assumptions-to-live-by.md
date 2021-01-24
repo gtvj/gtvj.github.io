@@ -3,6 +3,7 @@ title: Four assumptions to live by
 date: 2018-04-20
 author: Gwyn
 layout: post
+topic: lesson
 ---
 
 I read this yesterday and thought it was an excellent and easy to remember way of guiding our actions. Everything I've learned during my life suggests these are excellent assumptions to live by. Of course, everyone falls short of these to no matter how well intentioned. As of today I'll be doing my very best to live by them.

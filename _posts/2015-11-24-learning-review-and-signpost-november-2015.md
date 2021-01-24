@@ -3,6 +3,7 @@ title: Learning review and signpost November 2015
 date: 2015-11-24
 author: Gwyn
 layout: post
+topic: code
 ---
 
 ## Plans for this period

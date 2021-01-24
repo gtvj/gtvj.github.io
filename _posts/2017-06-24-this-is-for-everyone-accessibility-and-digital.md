@@ -3,6 +3,7 @@ title: 'This is for everyone: accessibility and digital'
 date: 2017-06-24
 author: Gwyn
 layout: post
+topic: code
 ---
 
 This post was originally written for <a href="http://blog.nationalarchives.gov.uk/blog/everyone-accessibility-digital/">The National Archives' blog</a> in my capacity as Lead Front End Developer.

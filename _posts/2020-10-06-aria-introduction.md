@@ -3,6 +3,7 @@ title: Introduction to ARIA
 date: 2020-10-06
 author: Gwyn
 layout: post
+topic: code
 ---
 
 For static web pages you can normally achieve good accessibility by thinking carefully about the structure and semantics of your content and making effective use of HTML. For dynamic features you'll likely need to use the Web Accessibility Initiative Accessible Rich Internet Applications (<dfn><abbr title="Web Accessiblity Initiative - Accessible Rich Internet Applications">WAI-ARIA</abbr></dfn>, or simply ARIA) suite.

@@ -3,6 +3,7 @@ title: Continually invest in your development
 date: 2018-04-30
 author: Gwyn
 layout: post
+topic: lesson
 ---
 
 > Keep investing in your personal and professional development and in your power to produce solutions to problems, and you will always have a source of economic security. Your security does not come from your job or from the patronage of other people; it comes from your ability to meet needs and solve problems. Keep investing in those abilities, and you will have endless opportunities.<cite>Stephen R. Covey. &#8220;The 8th Habit&#8221;</cite>

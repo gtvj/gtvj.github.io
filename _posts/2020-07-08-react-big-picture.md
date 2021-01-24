@@ -3,6 +3,7 @@ title: React big picture - course notes
 date: 2020-07-08
 author: Gwyn
 layout: post
+topic: code
 ---
 
 This quarter I'm focussing my learning on ReactJS. 

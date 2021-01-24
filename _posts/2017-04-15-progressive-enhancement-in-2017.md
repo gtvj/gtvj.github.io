@@ -3,6 +3,7 @@ title: 'Progressive enhancement in 2017'
 date: 2017-04-15
 author: Gwyn
 layout: post
+topic: code
 ---
 
 The Peanut M&M has become the accepted metaphor for progressive enhancement. I've seen it used many times - perhaps first on  [A List Apart](https://alistapart.com/article/understandingprogressiveenhancement) way back in 2008. The thing is, we've seen a great deal of change in recent years and the M&M doesn't really feel like the best metaphor anymore - I just couldn't ever think of something that seemed more suitable.

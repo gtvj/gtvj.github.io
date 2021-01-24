@@ -3,6 +3,7 @@ title: Lead Developer Conference 2018
 date: 2018-06-30
 author: Gwyn
 layout: post
+topic: code
 ---
 
 This week I was fortunate enough to attend [The Lead Developer London](https://london2018.theleaddeveloper.com) conference. I hadn't been to this conference series before and found it really, _really_ good to mostly because it emphasised people and leadership skills as well as tech. It was _very_ technical in parts (thankfully without too much 'hype') but I think they got the balance about right.

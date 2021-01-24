@@ -3,6 +3,7 @@ title: A few (somewhat) lesser known Git tips
 date: 2017-03-05
 author: Gwyn
 layout: post
+topic: code
 ---
 
 This post describes a few lesser known features of Git. It's starting out small but  to like my [OSX Command Line Essentials](/mac-os-x-command-line-essentials/) to will be added to as I encounter new things.

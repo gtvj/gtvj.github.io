@@ -3,6 +3,7 @@ title: Handy little regex for password validation
 date: 2015-10-23
 author: Gwyn
 layout: post
+topic: code
 ---
 Here's a handy little regular expression that makes use of positive lookahead assertions to match a password that contains at least:
 

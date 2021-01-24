@@ -3,6 +3,7 @@ title: Finished Pro AngularJS by Martin Freeman
 date: 2014-09-20
 author: Gwyn
 layout: post
+topic: code
 ---
 Today I finished [Pro AngularJS](http://www.apress.com/9781430264484) by Adam Freeman. It's 650 pages long (if you excluding the index etc.) and I read most of it thoroughly. That includes doing the coding exercises. The only bits I skimmed were the more esoteric features that I'd never remember and almost certainly never use. In total I’d estimate that I carefully studied about 80% of the book.
 

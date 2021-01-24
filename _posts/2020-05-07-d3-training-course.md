@@ -3,6 +3,7 @@ title: I've produced a nine session D3 training course
 date: 2020-05-07
 author: Gwyn
 layout: post
+topic: code
 ---
 
 I've been using some of my free time each week to learn about [D3 Data Driven Documents](https://d3js.org) and prepare weekly sessions for the developers I work with. 

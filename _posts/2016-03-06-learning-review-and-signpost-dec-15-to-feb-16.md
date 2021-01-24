@@ -3,6 +3,7 @@ title: Learning review and signpost Dec 15 to Feb 16
 date: 2016-03-06
 author: Gwyn
 layout: post
+topic: code
 ---
 
 ## Plans for this period

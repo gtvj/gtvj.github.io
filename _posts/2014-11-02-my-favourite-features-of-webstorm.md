@@ -4,10 +4,7 @@ title: My favourite features of WebStorm
 date: 2014-11-02
 author: Gwyn
 layout: post
-
-
-categories:
-  - Tooling
+topic: code
 ---
 I recently moved from using Sublime Text as my primary code editor to WebStorm. When a colleague noticed my enthusiasm for this new editor, he asked what it was that I liked so much about it. I didn't provide the answer I would have liked to, so here's a breakdown of the features which I like so much about it to in no particular order.
 

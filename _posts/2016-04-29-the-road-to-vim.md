@@ -3,6 +3,7 @@ title: Getting to grips with Vim
 date: 2016-04-29
 author: Gwyn
 layout: post
+topic: code
 ---
 
 This post is a companion to my experience in trying to migrate to Vim as my main text editor. I'm doing this because I _really _like many of it's features but, as you'll see, making the switch isn't exactly easy.

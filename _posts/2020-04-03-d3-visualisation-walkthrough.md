@@ -3,6 +3,7 @@ title: Data visualisation walkthrough - building a dynamic bubble visualisation 
 date: 2020-04-03
 author: Gwyn
 layout: d3_visualisation_walkthrough
+topic: code
 ---
 I explained in a recent post that I've been [learning about D3](/2020/03/07/d3-learning-materials.html). I'm doing this post because I now think I have sufficient knowledge to produce - from scratch - the type of visualisation which really impressed me when I first the late Hans Rosling show it perhaps ten years ago. Here's a clip: 
 

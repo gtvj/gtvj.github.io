@@ -3,6 +3,7 @@ title: A brief introduction to GraphQL
 date: 2018-01-13
 author: Gwyn
 layout: post
+topic: code
 ---
 
 I've been researching GraphQL this week and thought it might be useful if I posted a brief overview of what I've learned and my mindmap 'notes' (in both [PDF](/content/graph-ql.pdf) and PNG format below).

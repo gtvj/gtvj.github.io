@@ -3,6 +3,7 @@ title: Intersection Observer API examples
 date: 2019-05-25
 author: Gwyn
 layout: post
+topic: code
 ---
 
 I've been experimenting with the Intersection Observer API. This is a handy little API which, as [MDN concisely explains](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API):

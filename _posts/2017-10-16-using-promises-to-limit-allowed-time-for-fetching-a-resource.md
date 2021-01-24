@@ -3,6 +3,7 @@ title: Using promises to limit the time available for an asynchronous task
 date: 2017-10-16
 author: Gwyn
 layout: post
+topic: code
 ---
 
 I've been reading Nicholas Bevacqua's brilliant [Practical Modern JavaScript](https://www.safaribooksonline.com/library/view/practical-modern-javascript/9781491943526/) recently and came across this technique for using `Promise.race()` to intervene when an asynchronous task is taking longer than is acceptable.

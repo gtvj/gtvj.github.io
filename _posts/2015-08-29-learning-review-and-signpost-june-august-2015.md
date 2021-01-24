@@ -3,6 +3,7 @@ title: 'Learning review and signpost June to August 2015'
 date: 2015-08-29
 author: Gwyn
 layout: post
+topic: code
 ---
 This has been a busy period both professionally and personally. On the professional front, we've been:
 

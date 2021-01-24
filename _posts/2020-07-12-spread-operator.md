@@ -3,6 +3,7 @@ title: Spread operator - a few things to remember
 date: 2020-07-12
 author: Gwyn
 layout: post
+topic: code
 ---
 
 For some reason, I seem unable to remember the different things you can do with the spread operator. It's just one of those things that won't sink in. I get this occasionally with the strangest of things (one of them being my partner's telephone number!)

@@ -3,6 +3,7 @@ title: What management taught me about myself
 date: 2019-10-30
 author: Gwyn
 layout: post
+topic: lesson
 ---
 
 I'm currently reading [Why Running Matters: Lessons in life, pain and exhilaration](https://www.waterstones.com/book/why-running-matters/ian-mortimer/9781786859464) by Ian Mortimer. Just a quarter through the book and already there are several points he makes that are excellent. Here's one:

@@ -3,6 +3,7 @@ title: Retrieving file content with cat, head, tail and less
 date: 2015-11-18
 author: Gwyn
 layout: post
+topic: code
 ---
 
 This short post provides a brief description of a few simple commands that deal with retrieving file contents.

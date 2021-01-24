@@ -3,6 +3,7 @@ title: Introduction to regular expressions
 date: 2019-04-27
 author: Gwyn
 layout: post
+topic: code
 ---
 
 I ran a workshop yesterday to give people an introduction to regular expressions. This was geared towards a pretty broad audience with no prior experience necessary. 

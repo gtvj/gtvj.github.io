@@ -3,6 +3,7 @@ title: The opposite action
 date: 2021-01-22
 author: Gwyn
 layout: post
+topic: lesson
 ---
 As I write this it's been more than ten months since COVID-19 was declared a pandemic. 
 
@@ -17,3 +18,5 @@ As part of my wellbeing efforts I've recently re-read (or 're-heard' as I have i
 <p><mark>We notice the impulse, know that it leads downward, and turn right rather than left.</mark></p>
 <cite>Randy, J Patterson. "How to be miserable: 40 strategies you already use"</cite>
 </blockquote>
+
+This seems really true. For me the temptation is to withdraw and avoid contact with others

@@ -3,6 +3,7 @@ title: Regular expression revision
 date: 2016-02-01
 author: Gwyn
 layout: post
+topic: code
 ---
 This post has a few regular expression challenges which are intended to help me revise. They start very easy and tend to get a bit harder as you go on.
 

@@ -3,6 +3,7 @@ title: To return better than we left
 date: 2020-05-30
 author: Gwyn
 layout: post
+topic: lesson
 ---
 <figure>
     <img src="/content/better-than-before.jpg"

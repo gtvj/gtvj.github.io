@@ -3,6 +3,7 @@ title: Learning review and signpost (January to March 2015)
 date: 2015-03-27
 author: Gwyn
 layout: post
+topic: code
 ---
 This post reviews my personal development activity from 26 January to 27 March (60 calendar days)
 

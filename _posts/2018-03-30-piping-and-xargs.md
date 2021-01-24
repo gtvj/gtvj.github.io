@@ -3,6 +3,7 @@ title: Piping and xargs (updated)
 date: 2018-03-30
 author: Gwyn
 layout: post
+topic: code
 ---
 
 Today I faced an odd problem. I needed to remove everything but a specific file from a directory via the command line. Having thought about it for a while, and done a bit of research, I came across someone posing the same question on [Stack exchange](http://unix.stackexchange.com/questions/153862/remove-all-files-directories-except-for-one-file). There are several answers provided, but I really liked this one.

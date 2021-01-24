@@ -3,6 +3,7 @@ title: Simple recursion example
 date: 2018-10-07
 author: Gwyn
 layout: post
+topic: code
 ---
 
 I was helping a developer recently with a problem. They needed to extract all properties from an object as `key:value` pairs where:

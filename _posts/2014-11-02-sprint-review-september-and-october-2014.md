@@ -3,6 +3,7 @@ title: Learning review and signpost (September and October 2014)
 date: 2014-11-02
 author: Gwyn
 layout: post
+topic: code
 ---
 As part of my personal development activities I separate the year into six 'sprints' during which I focus my development activity on a small number of identified goals. This post reviews my development activity during September and October 2014.
 

@@ -3,6 +3,7 @@ title: Goodbye Apple. Hello Linux
 date: 2016-10-29
 author: Gwyn
 layout: post
+topic: code
 ---
 
 Having watched the MacBook Pro announcement earlier this week I've decided it's the end of the road for me and Apple.

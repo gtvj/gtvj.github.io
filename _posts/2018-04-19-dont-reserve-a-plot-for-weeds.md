@@ -3,6 +3,7 @@ title: 'Do not reserve a plot for weeds'
 date: 2018-04-19
 author: Gwyn
 layout: post
+topic: lesson
 ---
 
 I read this recently and felt there was an important life lesson here:

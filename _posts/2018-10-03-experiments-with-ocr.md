@@ -3,6 +3,7 @@ title: Experiments with OCR
 date: 2018-10-03
 author: Gwyn
 layout: post
+topic: code
 ---
 
 As part of the product I'm currently working on I was recently tasked with conducting a spike on _'the potential for OCR technologies to enhance metadata, particularly for the purposes of search'_. While I'm by no means an expert in OCR it was an interesting exercise which involved: 

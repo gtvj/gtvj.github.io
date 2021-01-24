@@ -3,6 +3,7 @@ title: React refresher 2020
 date: 2020-07-28
 author: Gwyn
 layout: post
+topic: code
 ---
 
 I was recently asked to help a developer that had picked up some code that made pretty heavy use of [React Hooks](https://reactjs.org/docs/hooks-intro.html). While we were able to make the necessary changes to this code I thought it might be a good idea to do a refresher in React and to share what I learned. 

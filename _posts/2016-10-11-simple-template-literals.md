@@ -3,6 +3,7 @@ title: Simple template literals
 date: 2016-10-11
 author: Gwyn
 layout: post
+topic: code
 ---
 
 These are simply **string literals **that allow for **embedded expressions. **They _can_ to but need not necessarily to include placeholders.

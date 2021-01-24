@@ -3,6 +3,7 @@ title: Function 'call' and 'apply' - a simple example
 date: 2019-03-07
 author: Gwyn
 layout: post
+topic: code
 ---
 
 I sometimes see developers having difficulty grasping how the `.call()` and `.apply()` functions of `Function.prototype` work and where they might be used. Like many language features they can be very helpful but are seldom used and I sometimes struggle to find a good, concise example to give. 

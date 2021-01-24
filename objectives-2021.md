@@ -1,12 +1,10 @@
 ---
-title: 2021 objectives
+title: Objectives for 2021
 date: 2019-12-22
 author: Gwyn
 layout: objectives
 include_in_footer: true
 ---
-
-# Objectives for 2021
 
 At the outset of 2021 I'm not entirely clear what my big picture aims are. This page will be added to as the year progresses.
 

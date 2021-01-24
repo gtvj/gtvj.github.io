@@ -3,6 +3,7 @@ title: Feed the right one
 date: 2018-04-03
 author: Gwyn
 layout: post
+topic: lesson
 ---
 
 I came across this story while listening to the new Vassos Alexander book on a morning run today.

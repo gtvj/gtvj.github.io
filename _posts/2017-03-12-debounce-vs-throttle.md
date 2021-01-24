@@ -3,6 +3,7 @@ title: Debounce vs throttle
 date: 2017-03-12
 author: Gwyn
 layout: post
+topic: code
 ---
 
 Debounce and throttle are techniques used to prevent JavaScript code that runs in response to user actions from blocking the user interface (or otherwise running more than is desirable). They are similar but subtly different and can be confusing because they combine some of the more tricky aspects of working with JavaScript: manipulating context; passing functions around as first-class values and managing timers.

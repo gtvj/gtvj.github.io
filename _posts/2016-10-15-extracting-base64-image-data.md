@@ -3,6 +3,7 @@ title: Extracting Base64 image data
 date: 2016-10-15
 author: Gwyn
 layout: post
+topic: code
 ---
 
 Earlier today I faced an unusual problem in that the app I'm currently working on involves generating a PDF from HTML (for which we're using the [WebKit HTML to PDF](http://wkhtmltopdf.org/) library) and I needed to include the designers' PNGs without making a network request for them. The immediate answer to this is to use the [Data URI scheme](https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs). This left me with a handful of PNGs which I needed to convert to Base64. There are online tools which will do this conversion but, to be honest, I just don't trust them.

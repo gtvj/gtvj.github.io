@@ -3,6 +3,7 @@ title: Changing your mind all the time
 date: 2017-11-12
 author: Gwyn
 layout: post
+topic: lesson
 ---
 
 I've always felt that I am (and am perceived as) someone who changes his mind quite a lot, so I find this quote from Malcolm Gladwell a comfort.
