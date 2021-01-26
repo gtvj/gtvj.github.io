@@ -22,11 +22,12 @@ I'd like to improve my running fitness and performance in 2021.
 
 Very broadly, I'd like to be a better lead developer at the end of 2021 than I am at the start. The term 'better' in this context means being more capable of delivering user value effectively and efficiently, and to comminicate the 'why' and 'how' of doing so to others.
 
+* Learn Wagtail CMS (by completing a relevant course)
 * Review and map out WCAG 2.1
 
 ## Guitar
 
-Having exceeded 300 hours of practice in 2020 my plan for 2021 is to ensure that my practice sessions are of high-quality and incorporate the [principles of good practice](/guitar-journey#components-of-good-practice). 
+Having exceeded 300 hours of practice in 2020 my plan for 2021 is to ensure that my practice sessions are of high-quality and incorporate the [principles of good practice](/2021/01/01/components-of-good-practice.html). 
 
 One rule I have for 2021 is that only deliberate, focussed practice is recorded as practice time. It's fine to play something I know while watching, say, YouTube, but this can't be recorded towards my daily practice time.
 
@@ -39,10 +40,21 @@ The most crucial ingredient for success in music is what happens in the practice
 
 * Learn I am a Pilgrim and submit as a Video Exchange
 * Learn Gentle Genius (from Essentials: Soul Rhythm Guitar)
+* Firmly ingrain the CAGED system major shapes, arpeggios and double-stops
+* Learn the CAGED system _minor_ shapes and arpeggios. 
 
 <div class="progress">
     <h3>Progress</h3>
     <dl>
+        <dt><a href="https://truefire.com/theory-guitar-lessons/chord-navigator-caged-triads/c1011">Chord navigator: CAGED triads</a> on Truefire</dt>
+        <dd>
+            <p>This course was a continuation of my work to improve my fretboard knowledge. Completing this course added to my knowledge of the CAGED system by:</p>
+            <ul>
+                <li>Improving my understanding of the triad shapes within the CAGED system</li>
+                <li>Introducing me to the minor triad shapes and inversions</li>
+                <li>Introducing me to the structure of augmented and diminished triads</li>
+            </ul>
+        </dd>
         <dt><a href="https://truefire.com/techniques-guitar-lessons/caged-commander/">CAGED Commander</a> course on Truefire</dt>
         <dd>
             <p>My goal for this course was to improve my fretboard knowledge. I've learned all exercises but skipped sections where specific guitar solos are taught.</p> 
