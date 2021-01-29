@@ -42,6 +42,7 @@ The most crucial ingredient for success in music is what happens in the practice
 * Learn Gentle Genius (from Essentials: Soul Rhythm Guitar)
 * Firmly ingrain the CAGED system major shapes, arpeggios and double-stops
 * Learn the CAGED system _minor_ shapes and arpeggios. 
+* [Jeff McErlain's Essentials: Chord Tone Soloing](https://truefire.com/essentials-guitar-lessons/chord-tone-soloing/c1157) (TrueFire Course)
 
 <div class="progress">
     <h3>Progress</h3>
