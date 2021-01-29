@@ -39,7 +39,6 @@ The most crucial ingredient for success in music is what happens in the practice
 **Current objectives**:
 
 * Learn I am a Pilgrim and submit as a Video Exchange
-* Learn Gentle Genius (from Essentials: Soul Rhythm Guitar)
 * Firmly ingrain the CAGED system major shapes, arpeggios and double-stops
 * Learn the CAGED system _minor_ shapes and arpeggios. 
 * [Jeff McErlain's Essentials: Chord Tone Soloing](https://truefire.com/essentials-guitar-lessons/chord-tone-soloing/c1157) (TrueFire Course)
@@ -47,6 +46,10 @@ The most crucial ingredient for success in music is what happens in the practice
 <div class="progress">
     <h3>Progress</h3>
     <dl>
+        <dt>Learn Gentle Genius</dt>
+        <dd>
+            <p>This is a nice chord progression played in the style of Curtis Mayfield (with lots of interesting fills etc.). It is very similar sounding to People Get Ready.</p>
+        </dd>
         <dt><a href="https://truefire.com/theory-guitar-lessons/chord-navigator-caged-triads/c1011">Chord navigator: CAGED triads</a> on Truefire</dt>
         <dd>
             <p>This course was a continuation of my work to improve my fretboard knowledge. Completing this course added to my knowledge of the CAGED system by:</p>
