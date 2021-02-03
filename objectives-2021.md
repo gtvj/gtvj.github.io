@@ -40,12 +40,18 @@ The most crucial ingredient for success in music is what happens in the practice
 
 * Learn I am a Pilgrim and submit as a Video Exchange
 * Firmly ingrain the CAGED system major shapes, arpeggios and double-stops
-* Learn the CAGED system _minor_ shapes and arpeggios. 
-* [Jeff McErlain's Essentials: Chord Tone Soloing](https://truefire.com/essentials-guitar-lessons/chord-tone-soloing/c1157) (TrueFire Course)
+* Learn the CAGED system _minor_ shapes and arpeggios.
 
 <div class="progress">
     <h3>Progress</h3>
     <dl>
+        <dt><a href="https://truefire.com/essentials-guitar-lessons/chord-tone-soloing/c1157">Jeff McErlain's Essentials: Chord Tone Soloing</a> (TrueFire Course)</dt>
+        <dd>
+            <p>I chose this course because I'm interested to know how to play over chord changes. After about a third of the course I realised that composing solos just isn't something I'm interested in doing at this time. I watched the final two thirds but didn't really engage with the exercises.</p>
+                
+<p>The key lesson, for me at this stage in my playing, was to focus on 'strong notes' at the right time. These will be chord tones which might not appear in the of the overall scale that's being used to play over the progression. Getting the timing right helps emphasise the movement to the new chord.</p>
+            <p>Nothing at all wrong with this course. Just not the right time for it.</p>
+        </dd>
         <dt>Learn Gentle Genius</dt>
         <dd>
             <p>This is a nice chord progression played in the style of Curtis Mayfield (with lots of interesting fills etc.). It is very similar sounding to People Get Ready.</p>
