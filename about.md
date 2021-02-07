@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2020-07-11
+date: 2021-02-07
 h1: Hello
 author: Gwyn
 layout: page
@@ -40,9 +40,24 @@ I would like to:
 * be building my technical leadership skills through setting development standards and shaping the organisation's approach to development.
 * be doing more of the things I'm interested in [(above)](#what-im-interested-in-doing), and none of the things described in the 'What does bad look like?' section [(below)](#what-does-bad-look-like)
 
-## What does ‘bad’ look like?
+## What I'm not a good fit for
 
-So, that's all good. But I should probably mention the things I have no interest in and/or which I've identified as potentially jeopardising my professional goals.
+I believe we all need to be very cautious of what Jim Collins calls <q>the undisciplined pursuit of more</q> and should instead focus on the disciplined pursuit of <strong>less but better</strong>. The case for this approach is brilliantly explained in [Greg McKeown's Essentialism](https://www.amazon.co.uk/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0753555166/ref=sr_1_1?dchild=1&keywords=essentialism&qid=1612699482&sr=8-1):
 
-* **Being a line manager**. I absolutely do not want to return to line management. There are several reasons for this, which I've written about in [what being a manager taught me about myself](/2019/10/30/what-being-a-manager-taught-me-about-myself.html).
-* **Slipping into a ‘generalist’ or ‘managerial’ role**. I’m always happy to help with a broad range of things (like admin and other generalist tasks), but I always intend to be a technical specialist first and foremost.
+<blockquote>
+<p>
+If we search for a good career opportunity our brain will serve up scores of pages to explore and work through. Instead, why not conduct an advanced search and ask three question: 
+</p>
+<ul>
+    <li>what am I deeply passionate about;</li>
+    <li>what taps my talent, and;</li>
+    <li>what meets a significant need in the world?</li>
+</ul>
+<p>Naturally, there won't be as many pages to view <em>but that is the point of the exercise</em>. We aren't looking for a plethora of good things to do. <strong>We are looking for the one where we can our absolutely highest point of contribution</strong></p>
+<cite><a href="https://www.amazon.co.uk/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0753555166/ref=sr_1_1?dchild=1&keywords=essentialism&qid=1612699482&sr=8-1">Greg McKeown. "Essentialism"</a></cite>
+</blockquote>
+
+For me that is being a great software developer devoting their skills and effort to products that serve the public good. The things I have no interest in and/or which I've identified as directly jeopardising my highest contribution are:
+
+* **Being a line manager**. I absolutely (categorically and emphatically) do not want to return to line management. There are several reasons for this, which I've written about in [what being a manager taught me about myself](/2019/10/30/what-being-a-manager-taught-me-about-myself.html).
+* **Slipping into a ‘generalist’ or ‘jack of all trades’ role**. I’m always happy to help with a broad range of things (like supporting other speciailisms, admin and other generalist tasks), but I always intend to be a technical specialist first and foremost.
