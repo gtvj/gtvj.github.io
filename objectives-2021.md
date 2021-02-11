@@ -45,6 +45,15 @@ The most crucial ingredient for success in music is what happens in the practice
 <div class="progress">
     <h3>Progress</h3>
     <dl>
+        <dt><a href="https://truefire.com/guitar-lessons/nashville-number-system-decoded/c952">Nashville Number System Decoded</a> (TrueFire course)</dt>
+        <dd>
+            <p>This is a good course which complimented my recent study of the CAGED system. The number system is really quite straightforward. Specific takeaways were:</p>
+            <ul>
+                <li>Most of the time you can <strong>work out the key a song</strong> is in by determining whether which diatonic key shares the chords. Search the web for 'Diatonic chord chart' to help with this. For example, if the song has the chords A Maj, B min and C# min then it's in G.  </li>
+                <li>The <strong>'1-4-5 zig zag (or bolt)'</strong> will allow you to easily find the 1, 4 and 5 notes which are both above and below a given root note on the 6th or 5th string.</li>
+                <li>The <strong>relative major and minor</strong> share the same notes. For example, C Major and A minor share the same notes. This means that you might not need to think about minor keys and can instead think about everything in the major key.</li>
+            </ul>
+        </dd>
         <dt><a href="https://truefire.com/essentials-guitar-lessons/chord-tone-soloing/c1157">Jeff McErlain's Essentials: Chord Tone Soloing</a> (TrueFire Course)</dt>
         <dd>
             <p>I chose this course because I'm interested to know how to play over chord changes. After about a third of the course I realised that composing solos just isn't something I'm interested in doing at this time. I watched the final two thirds but didn't really engage with the exercises.</p>
