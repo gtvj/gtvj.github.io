@@ -39,12 +39,19 @@ The most crucial ingredient for success in music is what happens in the practice
 **Current objectives**:
 
 * Learn I am a Pilgrim and submit as a Video Exchange
-* Firmly ingrain the CAGED system major shapes, arpeggios and double-stops
-* Learn the CAGED system _minor_ shapes and arpeggios.
+* [Adam Levy's Take 5: Pocket Rhythm](https://truefire.com/rhythm-guitar-lessons/take-5-pocket/c1459) (TrueFire course)
 
 <div class="progress">
     <h3>Progress</h3>
     <dl>
+        <dt>Solid understanding of the CAGED system (both major and minor)</dt>
+        <dd>
+            <p>I've developed a good working knowledge of the CAGED system. I can play:</p>
+            <ul>
+                <li>The major shapes, arepggios, scale forms (both major and pentatonic)</li>
+                <li>The minor shapes and arpeggios</li>
+            </ul>
+        </dd>
         <dt><a href="https://truefire.com/guitar-lessons/nashville-number-system-decoded/c952">Nashville Number System Decoded</a> (TrueFire course)</dt>
         <dd>
             <p>This is a good course which complimented my recent study of the CAGED system. The number system is really quite straightforward. Specific takeaways were:</p>
