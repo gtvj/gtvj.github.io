@@ -29,7 +29,7 @@ Very broadly, I'd like to be a better lead developer at the end of 2021 than I a
 
 Having exceeded 300 hours of practice in 2020 my plan for 2021 is to ensure that my practice sessions are of high-quality and incorporate the [principles of good practice](/2021/01/01/components-of-good-practice.html). 
 
-One rule I have for 2021 is that only deliberate, focussed practice is recorded as practice time. It's fine to play something I know while watching, say, YouTube, but this can't be recorded towards my daily practice time.
+One rule I have for 2021 is that **only deliberate, focussed practice is recorded as practice time**. It's fine to play something I know while watching, say, YouTube, but this can't be recorded towards my daily practice time.
 
 <blockquote>
 The most crucial ingredient for success in music is what happens in the practice room
@@ -38,19 +38,13 @@ The most crucial ingredient for success in music is what happens in the practice
 
 **Current objectives**:
 
-Hmmm... Trying to find something which is engaging at the moment. I'm not finding any of my current learning resources that inspiring. I'll keep practicing and will update this when I've found something (last updated 25/2/2021)
+* [Adam Levy's Take 5: Pocket Rhythm](https://truefire.com/rhythm-guitar-lessons/take-5-pocket/c1459) (TrueFire course)
 
 <div class="progress">
     <h3>Progress</h3>
     <dl>
-        <dt>I am a Pilgrim (Bluegrass song)</dt>
-        <dd>I've learned this song but decided not to submit it as a Video Exchange.</dd>
-        <dt>[Adam Levy's Take 5: Pocket Rhythm](https://truefire.com/rhythm-guitar-lessons/take-5-pocket/c1459) (TrueFire course)</dt>
-        <dd>Partially completed this but abandoned it out of boredom. Was finding the songs a bit slow and depressing. It's a perfectly good course though - it's just I didn't really feel it was a good use of my development effort. 
-        <ul>
-            <li>Learned two songs (one of which is very similar to 'Knock on wood'</li>
-        </ul>
-        </dd>
+        <dt>I am a Pilgrim (Intermediate - from Bryan Sutton's ArtistWorks course)</dt>
+        <dd><p>I've learned this song but decided not to submit it as a Video Exchange.</p></dd>
         <dt>Solid understanding of the CAGED system (both major and minor)</dt>
         <dd>
             <p>I've developed a good working knowledge of the CAGED system. I can play:</p>
