@@ -23,7 +23,7 @@ So here's the plan. From today I'm going to follow this advice. Here's how:
 
 <ul>
     <li><strong>5 minutes ear training</strong> - following an ear training course</li>
-    <li><strong>5 minutes fretboard knowledge training</strong> using the Solo app and <a href="https://www.youtube.com/watch?t=537&v=iCF7RMt60aM&feature=youtu.be">limitation exercises</a></li>
+    <li><strong>5 minutes fretboard knowledge training</strong> using the Solo app in combination with: instrument led ear training and <a href="https://www.youtube.com/watch?t=537&v=iCF7RMt60aM&feature=youtu.be">limitation exercises</a></li>
 </ul>
 
 <p>Every practice session will include both:</p>
