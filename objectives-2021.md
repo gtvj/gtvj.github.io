@@ -18,12 +18,19 @@ I'd like to improve my running fitness and performance in 2021.
 
 ## Professional development
 
-**Current objectives**:
-
 Very broadly, I'd like to be a better lead developer at the end of 2021 than I am at the start. The term 'better' in this context means being more capable of delivering user value effectively and efficiently, and to comminicate the 'why' and 'how' of doing so to others.
 
-* Learn Wagtail CMS (by completing a relevant course)
-* Review and map out WCAG 2.1
+**Current objectives**:
+
+* Write a blog post outlining Wagtail CMS and signposting to relevant resources.
+
+<div class="progress">
+<h3>Achievements</h3>
+<dl>
+    <dt>Completed <a href="https://learnwagtail.com/wagtail-for-beginners/">Wagtail for Beginners</a> (Course)</dt>
+    <dd>This course is designed for developers who are new to Wagtail CMS. It's given me a reasonably solid grounding in Wagtail concepts and provided the basis for further research into specific areas.</dd>
+</dl>
+</div>
 
 ## Guitar
 
@@ -39,10 +46,14 @@ The most crucial ingredient for success in music is what happens in the practice
 **Current objectives**:
 
 * [Adam Levy's Take 5: Pocket Rhythm](https://truefire.com/rhythm-guitar-lessons/take-5-pocket/c1459) (TrueFire course)
+* [Brad Carlton's Ear Training (Volume 1)](https://truefire.com/ear-training-guitar-lessons/guitar-lab-vol-1/c1481) (TrueFire course)
+* [Chris Buono's Guitar Gym Weekly Workouts (Volume 1)](https://truefire.com/foundry-guitar-lessons/guitar-gym-weekly-workoutsguitar-gym-weekly-workouts-introduction/v39749) (TrueFire course)
 
 <div class="progress">
-    <h3>Progress</h3>
+    <h3>Achievements</h3>
     <dl>
+        <dt>Designed new practice routine!</dt>
+        <dd><p>I've designed <a href="/2021/02/28/a-new-practice-routine.html">a new practice routine.</a> This is based on advice from Rick Beato and Tom Quayle, and uses the Solo app.</p></dd>
         <dt>I am a Pilgrim (Intermediate - from Bryan Sutton's ArtistWorks course)</dt>
         <dd><p>I've learned this song but decided not to submit it as a Video Exchange.</p></dd>
         <dt>Solid understanding of the CAGED system (both major and minor)</dt>
