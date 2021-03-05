@@ -22,13 +22,25 @@ Very broadly, I'd like to be a better lead developer at the end of 2021 than I a
 
 **Current objectives**:
 
-* Write a blog post outlining Wagtail CMS and signposting to relevant resources.
+* Write a blog post introducing Wagtail CMS and its Page Models.
+* Re-read Essentialism (It really is that good).
+
 
 <div class="progress">
 <h3>Achievements</h3>
 <dl>
+    <dt>Read <a href="https://jamesclear.com/atomic-habits">Atomic Habits</a> by James Clear</dt>
+    <dd>
+        <p>Another good book with a lot of great advice. I just feel a little sorry for it because I read it straight after Essentialism (which is a tough act to follow). Nonethelesss - there are a lot of great ideas here and I'll be re-reading it for sure. Two especially impactful/resonant ideas were: the difference between being "in motion" and "taking action", and; The lesson about not being able to choose if you're an egg or a potatoe (It'll make sense if you read the book).</p>
+    </dd>
     <dt>Completed <a href="https://learnwagtail.com/wagtail-for-beginners/">Wagtail for Beginners</a> (Course)</dt>
-    <dd>This course is designed for developers who are new to Wagtail CMS. It's given me a reasonably solid grounding in Wagtail concepts and provided the basis for further research into specific areas.</dd>
+    <dd><p>This course is designed for developers who are new to Wagtail CMS. It's given me a reasonably solid grounding in Wagtail concepts and provided the basis for further research into specific areas.</p></dd>
+    <dt>Read <a href="https://gregmckeown.com/books/essentialism/">Esssentialism</a> by Greg McKeown</dt>
+    <dd>
+        <p>This is the best book about personal effectiveness I've read in the last decade. </p>
+        <p>In my opinion it's right up there with the 7 Habits of Highly Effective People by Stephen R. Covey and Getting Things Done by David Allen.It has profoundly impacted how I think about work (and life).</p>
+        <p>I can't recommend it highly enough 😍</p>
+    </dd>
 </dl>
 </div>
 
