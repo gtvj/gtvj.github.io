@@ -58,12 +58,20 @@ The most crucial ingredient for success in music is what happens in the practice
 **Current objectives**:
 
 * [Adam Levy's Take 5: Pocket Rhythm](https://truefire.com/rhythm-guitar-lessons/take-5-pocket/c1459) (TrueFire course)
-* [Brad Carlton's Ear Training (Volume 1)](https://truefire.com/ear-training-guitar-lessons/guitar-lab-vol-1/c1481) (TrueFire course)
+* [Brad Carlton's Ear Training (Volume 2)](https://truefire.com/ear-training-guitar-lessons/guitar-lab-vol-2/) (TrueFire course)
 * [Chris Buono's Guitar Gym Weekly Workouts (Volume 1)](https://truefire.com/foundry-guitar-lessons/guitar-gym-weekly-workoutsguitar-gym-weekly-workouts-introduction/v39749) (TrueFire course)
 
 <div class="progress">
     <h3>Achievements</h3>
     <dl>
+        <dt><a href="https://truefire.com/ear-training-guitar-lessons/guitar-lab-vol-1/c1481">Brad Carlton's Ear Training (Volume 1)</a> (TrueFire course)</dt>
+        <dd>
+            <p>Good introductory course. A lot of the material I was already familiar with but a couple of things were either new or I'd forgotten:</p>
+            <ul>
+                <li>You can use the chords in a progression to work out the 'theoretical' key. For example, if you've got two major chords a whole step apart, they must be th IV and V of a scale</li>
+                <li>There is the 'street' key for a song and the 'theoretical' key for a song. For example, if you're playing a song with two chords - say, C Major and A Major, you might use the 'street' key to tell other musicians what key it's in (for example, "Let's play blah in C") but you'd need to know the theoretical key to know which scale the solo should be in (which, in this case, would be whatever scales has C and A as the IV and V)</li>
+            </ul>
+        </dd>
         <dt>Designed new practice routine!</dt>
         <dd><p>I've designed <a href="/2021/02/28/a-new-practice-routine.html">a new practice routine.</a> This is based on advice from Rick Beato and Tom Quayle, and uses the Solo app.</p></dd>
         <dt>I am a Pilgrim (Intermediate - from Bryan Sutton's ArtistWorks course)</dt>
