@@ -19,14 +19,14 @@ So here's the plan. From today I'm going to follow this advice. Here's how:
 
 <div class="info">
 <h2>How I practice</h2>
-<p>I'll start each practice session with (a minimum of):</p>
+<p>Each day of practice session will include (a minimum of):</p>
 
 <ul>
     <li><strong>5 minutes ear training</strong> - following an ear training course</li>
     <li><strong>5 minutes fretboard knowledge training</strong> using the Solo app in combination with instrument led ear training and limitation exercises</li>
 </ul>
 
-<p>Every practice session will also include both:</p>
+<p>Every day will also include both:</p>
 
 <ul>
     <li><strong><em>Some</em> technique</strong> focused on a specific technique (this might be sweep picking, bends - anything really)</li>
