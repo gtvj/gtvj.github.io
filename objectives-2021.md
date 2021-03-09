@@ -22,13 +22,15 @@ Very broadly, I'd like to be a better lead developer at the end of 2021 than I a
 
 **Current objectives**:
 
-* Write a blog post introducing Wagtail CMS and its Page Models.
 * Re-read Essentialism (It really is that good).
-
 
 <div class="progress">
 <h3>Achievements</h3>
 <dl>
+    <dt>Write <a href="https://gtvj.github.io/2021/03/09/wagtail-pages.html">Wagtail page model</a> blog post</dt>
+    <dd>This is a tutorial post covering the basic steps and concepts of Wagtail page models and their relationship to Django models.</dd>
+    <dt>Write <a href="https://gtvj.github.io/2021/03/06/stack-series-first-impressions-wagtail.html">Stack series (Pt. 1) First impressions of Wagtail</a> blog post</dt>
+    <dd>This post brings together my initial thought and opinionss about Wagtail</dd>
     <dt>Read <a href="https://jamesclear.com/atomic-habits">Atomic Habits</a> by James Clear</dt>
     <dd>
         <p>Another good book with a lot of great advice. I just feel a little sorry for it because I read it straight after Essentialism (which is a tough act to follow). Nonethelesss - there are a lot of great ideas here and I'll be re-reading it for sure. Two especially impactful/resonant ideas were: the difference between being "in motion" and "taking action", and; The lesson about not being able to choose if you're an egg or a potatoe (It'll make sense if you read the book).</p>
