@@ -6,9 +6,7 @@ layout: post
 topic: code
 ---
 
-This page is intended to be a quick overview/tutorial for developers new to the working with Wagtail pages. 
-
-In Wagtail we define the different **types of page** in our site (our page 'types') as Python classes which inherit from the `Page` model class. 
+In Wagtail we define the different **types of page** in our site (our page 'types') as Python classes which inherit from the `Page` model class. This post is intended to be a quick overview/tutorial for developers new to the working with these. 
 
 ## Creating a page type: the steps
 
