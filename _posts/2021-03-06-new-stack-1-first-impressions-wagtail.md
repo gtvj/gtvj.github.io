@@ -1,5 +1,5 @@
 ---
-title: Stack series (Pt. 1) First impressions of Wagtail
+title: New stack (Pt. 1) First impressions of Wagtail
 date: 2021-03-06
 author: Gwyn
 layout: post
