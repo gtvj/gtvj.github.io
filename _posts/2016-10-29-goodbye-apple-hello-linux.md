@@ -20,16 +20,4 @@ The XPS also has the same RAM (8GB 1866MHz) and storage (256GB SSD). But to most
 
 MacBooks are really nice machines but they're not that nice.
 
-<blockquote class="twitter-tweet" data-lang="en">
-  <p dir="ltr" lang="en">
-    Needed new dev machine. Held out for MacBook Pro announcement. Watched planning to place an order today. Saw prices. Bought Dell XPS Ubuntu.
-  </p>
-  
-  <p>
-    — Gwyn Jones (@gtvjones) <a href="https://twitter.com/gtvjones/status/791754705244397569">October 27, 2016</a>
-  </p>
-</blockquote>
-
-
-
 I've created [a GitHub repository](https://github.com/gtvj/linux) to capture any useful material I come across in my transition to Linux.
