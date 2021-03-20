@@ -6,7 +6,7 @@ layout: post
 topic: code
 ---
 
-In Wagtail we define the different **types of page** in our site (our page 'types') as Python classes which inherit from the `Page` model class. This post is intended to be a quick overview/tutorial for developers new to the working with these. 
+In Wagtail we define the different **types of page** in our site (our page 'types') as Python classes which inherit from the `Page` model class. This post is intended to be a quick overview/tutorial for developers new to working with these. 
 
 ## Creating a page type: the steps
 
@@ -78,7 +78,7 @@ In addition to the Django field classes, Wagtail provides two of its own `RichTe
 To expose a field within the editorial interface you add it to the `content_panels` list. The example above does this by passing the field name to a Wagtail [panel type](https://docs.wagtail.io/en/stable/reference/pages/panels.html) called `FieldPanel()`.
 
 <blockquote cite="https://docs.wagtail.io/en/stable/reference/pages/panels.html">
-Django’s field types are automatically recognised and provided with an appropriate widget for input. Just define that field the normal Django way and pass the field name into FieldPanel when defining your panels. Wagtail will take care of the rest.
+Django’s field types are automatically recognised and provided with an appropriate widget for input. Just define that field the normal Django way and pass the field name into FieldPanel when defining your panels. <strong>Wagtail will take care of the rest</strong>.
 <cite>Wagtail documentation</cite>
 </blockquote>
 
@@ -113,5 +113,5 @@ In addition, it is possible to limit the number of times a given page type can b
 
 <dl>
    <dt id="startapp">(i) About <code>startapp</code></dt>
-   <dd><p>The <code>startapp</code> command comes from Django and serves to <a href="https://docs.djangoproject.com/en/3.1/intro/tutorial01/#creating-the-polls-app">scaffold out a new Django app</a>. When used within the context of Wagtail it will result in some files that probably wont be need. <code>views.py</code> won't be needed and you're probably unlikely to need <code>tests.py</code> either (although I suppose you might).</p></dd>
+   <dd><p>The <code>startapp</code> command comes from Django and serves to <a href="https://docs.djangoproject.com/en/3.1/intro/tutorial01/#creating-the-polls-app">scaffold out a new Django app</a>. When used within the context of Wagtail it will result in some files that probably wont be needed. <code>views.py</code> won't be needed and you're probably unlikely to need <code>tests.py</code> either (although I suppose you might).</p></dd>
 </dl>
