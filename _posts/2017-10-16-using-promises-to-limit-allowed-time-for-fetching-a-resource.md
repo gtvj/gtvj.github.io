@@ -1,7 +1,7 @@
 ---
 title: Using promises to limit the time available for an asynchronous task
 date: 2017-10-16
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

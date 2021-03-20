@@ -1,7 +1,7 @@
 ---
 title: Goodbye Apple. Hello Linux
 date: 2016-10-29
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

@@ -1,7 +1,7 @@
 ---
 title: Guitar journey
 date: 2020-10-01
-author: Gwyn
+author: gtvj
 layout: guitar_journey
 include_in_footer: true
 h1: Guitar journey

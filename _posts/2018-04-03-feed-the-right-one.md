@@ -1,7 +1,7 @@
 ---
 title: Feed the right one
 date: 2018-04-03
-author: Gwyn
+author: gtvj
 layout: post
 topic: lesson
 ---

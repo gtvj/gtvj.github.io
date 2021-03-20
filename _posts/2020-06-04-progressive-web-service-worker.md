@@ -1,7 +1,7 @@
 ---
 title: Progressive Web Apps - the Service Worker
 date: 2020-06-04
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

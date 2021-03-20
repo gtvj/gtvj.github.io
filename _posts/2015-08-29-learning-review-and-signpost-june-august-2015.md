@@ -1,7 +1,7 @@
 ---
 title: 'Learning review and signpost June to August 2015'
 date: 2015-08-29
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

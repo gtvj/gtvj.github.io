@@ -1,7 +1,7 @@
 ---
 title: Simple template literals
 date: 2016-10-11
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

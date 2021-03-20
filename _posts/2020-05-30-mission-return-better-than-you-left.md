@@ -1,7 +1,7 @@
 ---
 title: To return better than we left
 date: 2020-05-30
-author: Gwyn
+author: gtvj
 layout: post
 topic: lesson
 ---

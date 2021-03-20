@@ -1,7 +1,7 @@
 ---
 title: Build faster mobile websites (meetup write-up)
 date: 2015-05-22
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

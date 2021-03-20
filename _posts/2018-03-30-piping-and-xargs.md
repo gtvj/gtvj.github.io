@@ -1,7 +1,7 @@
 ---
 title: Piping and xargs (updated)
 date: 2018-03-30
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

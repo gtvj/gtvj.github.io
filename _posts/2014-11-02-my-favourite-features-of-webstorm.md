@@ -2,7 +2,7 @@
 
 title: My favourite features of WebStorm
 date: 2014-11-02
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

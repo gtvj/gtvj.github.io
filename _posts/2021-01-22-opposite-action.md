@@ -1,7 +1,7 @@
 ---
 title: The opposite action
 date: 2021-01-22
-author: Gwyn
+author: gtvj
 layout: post
 topic: lesson
 ---

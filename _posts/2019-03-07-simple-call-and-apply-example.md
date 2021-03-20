@@ -1,7 +1,7 @@
 ---
 title: Function 'call' and 'apply' - a simple example
 date: 2019-03-07
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

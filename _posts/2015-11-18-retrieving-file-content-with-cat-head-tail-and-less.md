@@ -1,7 +1,7 @@
 ---
 title: Retrieving file content with cat, head, tail and less
 date: 2015-11-18
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

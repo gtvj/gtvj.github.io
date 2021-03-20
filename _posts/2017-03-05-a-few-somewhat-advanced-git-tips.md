@@ -1,7 +1,7 @@
 ---
 title: A few (somewhat) lesser known Git tips
 date: 2017-03-05
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

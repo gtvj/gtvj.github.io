@@ -1,7 +1,7 @@
 ---
 title: Getting to grips with Vim
 date: 2016-04-29
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

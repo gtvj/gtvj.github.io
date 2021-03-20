@@ -1,7 +1,7 @@
 ---
 title: 'Linux command line - some slightly more advanced tips'
 date: 2016-11-25
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

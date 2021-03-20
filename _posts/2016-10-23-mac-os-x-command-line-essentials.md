@@ -1,7 +1,7 @@
 ---
 title: Mac OS X Command Line essentials
 date: 2016-10-23
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

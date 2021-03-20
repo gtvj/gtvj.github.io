@@ -1,7 +1,7 @@
 ---
 title: Objectives for 2021
 date: 2019-12-22
-author: Gwyn
+author: gtvj
 layout: objectives
 include_in_footer: true
 ---

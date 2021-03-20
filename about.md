@@ -2,7 +2,7 @@
 title: About
 date: 2021-02-07
 h1: Hello
-author: Gwyn
+author: gtvj
 layout: page
 include_in_nav: true
 ---

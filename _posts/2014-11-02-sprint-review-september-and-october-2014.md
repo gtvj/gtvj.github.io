@@ -1,7 +1,7 @@
 ---
 title: Learning review and signpost (September and October 2014)
 date: 2014-11-02
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

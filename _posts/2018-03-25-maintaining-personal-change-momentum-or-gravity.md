@@ -1,7 +1,7 @@
 ---
 title: Gravity as a metaphor for making change stick
 date: 2018-03-25
-author: Gwyn
+author: gtvj
 layout: post
 topic: lesson
 ---

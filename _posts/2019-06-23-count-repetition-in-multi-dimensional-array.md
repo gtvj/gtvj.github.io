@@ -1,7 +1,7 @@
 ---
 title: Count repetition in multi-dimensional array
 date: 2019-06-23
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

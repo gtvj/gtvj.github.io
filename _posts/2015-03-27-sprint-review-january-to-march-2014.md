@@ -1,7 +1,7 @@
 ---
 title: Learning review and signpost (January to March 2015)
 date: 2015-03-27
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

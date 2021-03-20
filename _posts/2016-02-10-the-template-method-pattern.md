@@ -1,7 +1,7 @@
 ---
 title: The Template Method pattern
 date: 2016-02-10
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

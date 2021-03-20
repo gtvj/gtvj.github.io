@@ -1,7 +1,7 @@
 ---
 title: Introduction to ARIA
 date: 2020-10-06
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---
