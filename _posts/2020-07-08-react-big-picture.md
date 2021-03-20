@@ -1,7 +1,7 @@
 ---
 title: React big picture - course notes
 date: 2020-07-08
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

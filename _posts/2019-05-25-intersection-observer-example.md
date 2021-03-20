@@ -1,7 +1,7 @@
 ---
 title: Intersection Observer API examples
 date: 2019-05-25
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

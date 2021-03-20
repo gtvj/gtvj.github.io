@@ -1,7 +1,7 @@
 ---
 title: Regular expression revision
 date: 2016-02-01
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

@@ -1,7 +1,7 @@
 ---
 title: I've produced a nine session D3 training course
 date: 2020-05-07
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

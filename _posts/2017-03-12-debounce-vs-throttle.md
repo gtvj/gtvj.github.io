@@ -1,7 +1,7 @@
 ---
 title: Debounce vs throttle
 date: 2017-03-12
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

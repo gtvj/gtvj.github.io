@@ -1,7 +1,7 @@
 ---
 title: Lead Developer Conference 2018
 date: 2018-06-30
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

@@ -1,7 +1,7 @@
 ---
 title: October objectives
 date: 2020-10-01
-author: Gwyn
+author: gtvj
 layout: objectives
 include_in_nav: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: Spread operator - a few things to remember
 date: 2020-07-12
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

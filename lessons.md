@@ -1,6 +1,6 @@
 ---
 title: Lessons
-author: Gwyn
+author: gtvj
 layout: lessons
 include_in_footer: true
 h1: Lessons

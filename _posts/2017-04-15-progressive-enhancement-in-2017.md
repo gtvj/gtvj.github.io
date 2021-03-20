@@ -1,7 +1,7 @@
 ---
 title: 'Progressive enhancement in 2017'
 date: 2017-04-15
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

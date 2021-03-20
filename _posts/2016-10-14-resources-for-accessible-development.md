@@ -1,7 +1,7 @@
 ---
 title: Resources for accessible development
 date: 2016-10-14
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

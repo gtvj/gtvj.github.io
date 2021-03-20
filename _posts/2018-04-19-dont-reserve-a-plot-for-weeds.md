@@ -1,7 +1,7 @@
 ---
 title: 'Do not reserve a plot for weeds'
 date: 2018-04-19
-author: Gwyn
+author: gtvj
 layout: post
 topic: lesson
 ---

@@ -1,7 +1,7 @@
 ---
 title: Components of good practice
 date: 2021-01-01
-author: Gwyn
+author: gtvj
 layout: post
 topic: guitar
 ---

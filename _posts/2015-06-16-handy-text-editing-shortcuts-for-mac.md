@@ -1,7 +1,7 @@
 ---
 title: Handy text editing shortcuts for Mac
 date: 2015-06-16
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

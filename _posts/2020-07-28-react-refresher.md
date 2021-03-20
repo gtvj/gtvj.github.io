@@ -1,7 +1,7 @@
 ---
 title: React refresher 2020
 date: 2020-07-28
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

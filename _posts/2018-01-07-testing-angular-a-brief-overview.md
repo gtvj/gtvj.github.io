@@ -1,7 +1,7 @@
 ---
 title: 'Testing Angular: a brief overview'
 date: 2018-01-07
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

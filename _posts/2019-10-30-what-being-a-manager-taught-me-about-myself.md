@@ -1,7 +1,7 @@
 ---
 title: What management taught me about myself
 date: 2019-10-30
-author: Gwyn
+author: gtvj
 layout: post
 topic: lesson
 ---

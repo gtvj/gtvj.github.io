@@ -1,7 +1,7 @@
 ---
 title: Changing your mind all the time
 date: 2017-11-12
-author: Gwyn
+author: gtvj
 layout: post
 topic: lesson
 ---

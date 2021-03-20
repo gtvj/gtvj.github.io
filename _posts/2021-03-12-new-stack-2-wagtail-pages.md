@@ -1,7 +1,7 @@
 ---
 title: New stack (Pt. 2) Wagtail page model
 date: 2021-03-12
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

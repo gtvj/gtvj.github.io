@@ -1,7 +1,7 @@
 ---
 title: Major scale in thirds
 date: 2021-01-20
-author: Gwyn
+author: gtvj
 layout: post
 topic: guitar
 ---

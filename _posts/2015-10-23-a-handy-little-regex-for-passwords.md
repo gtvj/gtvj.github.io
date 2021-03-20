@@ -1,7 +1,7 @@
 ---
 title: Handy little regex for password validation
 date: 2015-10-23
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

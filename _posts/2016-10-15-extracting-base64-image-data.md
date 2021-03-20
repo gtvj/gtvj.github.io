@@ -1,7 +1,7 @@
 ---
 title: Extracting Base64 image data
 date: 2016-10-15
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

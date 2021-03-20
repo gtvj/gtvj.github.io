@@ -1,7 +1,7 @@
 ---
 title: Progressive Web Apps - introduction
 date: 2020-05-14
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

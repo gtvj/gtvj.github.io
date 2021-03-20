@@ -1,7 +1,7 @@
 ---
 title: Continually invest in your development
 date: 2018-04-30
-author: Gwyn
+author: gtvj
 layout: post
 topic: lesson
 ---

@@ -1,7 +1,7 @@
 ---
 title: Four assumptions to live by
 date: 2018-04-20
-author: Gwyn
+author: gtvj
 layout: post
 topic: lesson
 ---

@@ -1,7 +1,7 @@
 ---
 title: Experiments with OCR
 date: 2018-10-03
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

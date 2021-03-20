@@ -1,7 +1,7 @@
 ---
 title: Accessible progress bar experiments
 date: 2020-09-18
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

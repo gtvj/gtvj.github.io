@@ -1,7 +1,7 @@
 ---
 title: 'Learning review and signpost September to October 2015'
 date: 2015-10-31
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---
@@ -16,7 +16,7 @@ Having spent the last few sprints looking at quite a broad range of development 
 D3 is one of those libraries I'd been holding at arms length for some time so I was really pleased to get to grips with it during this sprint. I approached this by completing Ray Villalobos' [Data Visualisation with D3.js](http://www.lynda.com/D3js-tutorials/Data-Visualization-D3js/162449-2.html) course and creating a few small experiments (like the one below) along the way. I also wrote a post describing the [basics concepts of D3](https://52.27.200.123/basic-concepts-in-d3-js/).
 
 <p class="codepen" data-height="268" data-theme-id="0" data-slug-hash="QjjVwO" data-default-tab="result" data-user="gtvj">
-  See the Pen <a href="http://codepen.io/gtvj/pen/QjjVwO/">Fun with bubbles</a> by Gwyn Jones (<a href="http://codepen.io/gtvj">@gtvj</a>) on <a href="http://codepen.io">CodePen</a>.
+  See the Pen <a href="http://codepen.io/gtvj/pen/QjjVwO/">Fun with bubbles</a> (<a href="http://codepen.io/gtvj">@gtvj</a>) on <a href="http://codepen.io">CodePen</a>.
 </p>
 
 

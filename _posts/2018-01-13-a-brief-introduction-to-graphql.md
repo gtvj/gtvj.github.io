@@ -1,7 +1,7 @@
 ---
 title: A brief introduction to GraphQL
 date: 2018-01-13
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

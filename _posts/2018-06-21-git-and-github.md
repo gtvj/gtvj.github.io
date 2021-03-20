@@ -1,7 +1,7 @@
 ---
 title: Git and GitHub
 date: 2018-06-21
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

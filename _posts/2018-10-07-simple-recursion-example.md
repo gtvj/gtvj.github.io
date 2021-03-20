@@ -1,7 +1,7 @@
 ---
 title: Simple recursion example
 date: 2018-10-07
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

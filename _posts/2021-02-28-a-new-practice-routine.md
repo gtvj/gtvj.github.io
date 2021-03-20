@@ -1,7 +1,7 @@
 ---
 title: A new practice routine
 date: 2021-02-28
-author: Gwyn
+author: gtvj
 layout: post
 topic: guitar
 ---

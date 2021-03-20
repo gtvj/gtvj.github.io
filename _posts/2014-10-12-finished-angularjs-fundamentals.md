@@ -1,7 +1,7 @@
 ---
 title: Finished AngularJS Fundamentals
 date: 2014-10-12
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

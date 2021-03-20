@@ -1,7 +1,7 @@
 ---
 title: Finished Pro AngularJS by Martin Freeman
 date: 2014-09-20
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

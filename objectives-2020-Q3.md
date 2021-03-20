@@ -1,7 +1,7 @@
 ---
 title: Current objectives
 date: 2019-12-22
-author: Gwyn
+author: gtvj
 layout: objectives
 include_in_nav: false
 ---

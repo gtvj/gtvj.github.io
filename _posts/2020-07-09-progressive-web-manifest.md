@@ -1,7 +1,7 @@
 ---
 title: Progressive Web Apps - Web App Manifest
 date: 2020-07-09
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

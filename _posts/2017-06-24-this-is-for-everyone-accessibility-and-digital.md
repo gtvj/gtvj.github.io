@@ -1,7 +1,7 @@
 ---
 title: 'This is for everyone: accessibility and digital'
 date: 2017-06-24
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

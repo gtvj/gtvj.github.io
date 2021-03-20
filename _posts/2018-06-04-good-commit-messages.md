@@ -1,7 +1,7 @@
 ---
 title: Good commit messages
 date: 2018-06-04
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

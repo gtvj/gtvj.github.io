@@ -1,7 +1,7 @@
 ---
 title: Generating hashes on Mac
 date: 2018-09-10
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

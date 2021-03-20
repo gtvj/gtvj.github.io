@@ -1,7 +1,7 @@
 ---
 title: An eternal add function
 date: 2019-07-01
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---

@@ -1,7 +1,7 @@
 ---
 title: Introduction to regular expressions
 date: 2019-04-27
-author: Gwyn
+author: gtvj
 layout: post
 topic: code
 ---
