@@ -22,7 +22,7 @@ Very broadly, I'd like to be a better lead developer at the end of 2021 than I a
 
 **Current objectives**:
 
-* Re-read Essentialism (It really is that good).
+* Finish [Python for Everybody: The Ultimate Python 3 Bootcamp](https://learning.oreilly.com/videos/python-for-everybody/9781800562196/)
 
 <div class="progress">
 <h3>Achievements</h3>
@@ -34,14 +34,15 @@ Very broadly, I'd like to be a better lead developer at the end of 2021 than I a
     <dt>Read <a href="https://jamesclear.com/atomic-habits">Atomic Habits</a> by James Clear</dt>
     <dd>
         <p>Another good book with a lot of great advice. I just feel a little sorry for it because I read it straight after Essentialism (which is a tough act to follow). Nonethelesss - there are a lot of great ideas here and I'll be re-reading it for sure. Two especially impactful/resonant ideas were: the difference between being "in motion" and "taking action", and; The lesson about not being able to choose if you're an egg or a potatoe (It'll make sense if you read the book).</p>
+        <p><strong>Update:</strong> I re-read this book shortly afterwards and don't feel I'd really done it justice with the first reading. I got a lot more from it on the second reading. It's an excellent book.</p>
     </dd>
     <dt>Completed <a href="https://learnwagtail.com/wagtail-for-beginners/">Wagtail for Beginners</a> (Course)</dt>
     <dd><p>This course is designed for developers who are new to Wagtail CMS. It's given me a reasonably solid grounding in Wagtail concepts and provided the basis for further research into specific areas.</p></dd>
     <dt>Read <a href="https://gregmckeown.com/books/essentialism/">Esssentialism</a> by Greg McKeown</dt>
     <dd>
         <p>This is the best book about personal effectiveness I've read in the last decade. </p>
-        <p>In my opinion it's right up there with the 7 Habits of Highly Effective People by Stephen R. Covey and Getting Things Done by David Allen.It has profoundly impacted how I think about work (and life).</p>
-        <p>I can't recommend it highly enough 😍</p>
+        <p>In my opinion it's right up there with the 7 Habits of Highly Effective People by Stephen R. Covey and Getting Things Done by David Allen.It has profoundly impacted how I think about work (and life). I can't recommend it highly enough 😍<</p>
+        <p><strong>Update:</strong> having now re-read Essentialism I still think it's great.</p>
     </dd>
 </dl>
 </div>
