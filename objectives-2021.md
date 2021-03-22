@@ -23,6 +23,7 @@ Very broadly, I'd like to be a better lead developer at the end of 2021 than I a
 **Current objectives**:
 
 * Finish [Python for Everybody: The Ultimate Python 3 Bootcamp](https://learning.oreilly.com/videos/python-for-everybody/9781800562196/)
+* Read [Make It Stick: The Science of Successful Learning](https://www.amazon.co.uk/Make-Stick-Science-Successful-Learning/dp/0674729013)
 
 <div class="progress">
 <h3>Achievements</h3>
