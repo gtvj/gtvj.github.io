@@ -42,7 +42,7 @@ Very broadly, I'd like to be a better lead developer at the end of 2021 than I a
     <dt>Read <a href="https://gregmckeown.com/books/essentialism/">Esssentialism</a> by Greg McKeown</dt>
     <dd>
         <p>This is the best book about personal effectiveness I've read in the last decade. </p>
-        <p>In my opinion it's right up there with the 7 Habits of Highly Effective People by Stephen R. Covey and Getting Things Done by David Allen.It has profoundly impacted how I think about work (and life). I can't recommend it highly enough 😍<</p>
+        <p>In my opinion it's right up there with the 7 Habits of Highly Effective People by Stephen R. Covey and Getting Things Done by David Allen.It has profoundly impacted how I think about work (and life). I can't recommend it highly enough 😍</p>
         <p><strong>Update:</strong> having now re-read Essentialism I still think it's great.</p>
     </dd>
 </dl>
