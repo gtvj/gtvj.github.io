@@ -65,12 +65,15 @@ The most crucial ingredient for success in music is what happens in the practice
 **Current objectives**:
 
 * [Adam Levy's Take 5: Pocket Rhythm](https://truefire.com/rhythm-guitar-lessons/take-5-pocket/c1459) (TrueFire course)
-* [Brad Carlton's Ear Training (Volume 2)](https://truefire.com/ear-training-guitar-lessons/guitar-lab-vol-2/) (TrueFire course)
 * [Chris Buono's Guitar Gym Weekly Workouts (Volume 1)](https://truefire.com/foundry-guitar-lessons/guitar-gym-weekly-workoutsguitar-gym-weekly-workouts-introduction/v39749) (TrueFire course)
 
 <div class="progress">
     <h3>Achievements</h3>
     <dl>
+        <dt><a href="https://truefire.com/ear-training-guitar-lessons/guitar-lab-vol-2/">Brad Carlton's Ear Training (Volume 2)</a> (TrueFire course)</dt>
+        <dd>
+            <p>Part 2 of this series. Pretty good. I feel more able to recognises chord progressions but still got some of the examples wrong (only a very small proportion though - less than one in ten). </p>
+        </dd>
         <dt><a href="https://truefire.com/ear-training-guitar-lessons/guitar-lab-vol-1/c1481">Brad Carlton's Ear Training (Volume 1)</a> (TrueFire course)</dt>
         <dd>
             <p>Good introductory course. A lot of the material I was already familiar with but a couple of things were either new or I'd forgotten:</p>
