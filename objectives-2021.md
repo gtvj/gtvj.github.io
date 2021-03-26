@@ -18,7 +18,10 @@ I'd like to improve my running fitness and performance in 2021.
 
 ## Professional development
 
-Very broadly, I'd like to be a better lead developer at the end of 2021 than I am at the start. The term 'better' in this context means being more capable of delivering user value effectively and efficiently, and to comminicate the 'why' and 'how' of doing so to others.
+Very broadly, I'd like to be a better lead developer at the end of 2021 than I am at the start. I'm defining 'better' in this context to mean being more capable of delivering user value effectively and efficiently, and to communicate the 'why' and 'how' of doing so to others. The two areas of focus are: 
+
+* the new stack we'll be using at work (both front end and back end)
+* broader professional and personal effectiveness skills
 
 **Current objectives**:
 
