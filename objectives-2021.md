@@ -8,13 +8,23 @@ include_in_footer: true
 
 This page lists: my big picture **goals** for the year; what I'm **currently doing** towards them, and what I've **done** so far. 
 
-## Health and wellbeing
+## Health and wellness
 
 I'd like to improve my running fitness and performance in 2021. 
 
 **Current objectives**:
 
-* Train for and run a 5K race
+* Identify next goal (and start training on 10 April)
+
+<div class="progress">
+    <dl>
+        <dt>Ran the Spring Virtual 5K</dt>
+        <dd>
+            <p>Having followed an 11 week Garmin Coach adaptive plan I completed this on 27 March. It wasn't my fastest 5K (and was actually 2:45 off my best time from 2017). That said I <strong>did come in 32 seconds under my goal time.</strong></p>
+            <p>I'm going to follow the advice now and just run easy for a couple of weeks while I identify my next goal.</p>
+        </dd>
+    </dl>
+</div>
 
 ## Professional development
 
