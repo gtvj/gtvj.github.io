@@ -14,7 +14,7 @@ The changes are:
 
 * Try to **space out my learning** so that I get a little rusty between sessions (a suggestion from Make It Stick).  This is especially relevant to the limitation exercises I'm using with Solo.
 * Do more practice with a **looper** 
-* Broader 'following an ear training course' to be more generally about activities around **learning music theory**
+* Broaden 'following an ear training course' to be more generally about activities around **learning music theory**
 
 <div class="info">
 <h2>How I practice</h2>
