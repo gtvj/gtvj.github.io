@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2021-02-07
+date: 2021-04-11
 h1: Hello
 author: gtvj
 layout: page
@@ -9,11 +9,20 @@ include_in_nav: true
 
 I'm a web developer from London, England. This page describes my professional purpose, interests and goals.
 
+<div class="info">
+<h2><abbr title="Too long; didn't read">tl;dr</abbr></h2>
+<p>
+ The web is an increasingly important part of modern life and can have a transformative impact for good - especially for those who, for any number of reasons, may not have been able to participate fully. I am very passionate about this and see the role of software developers as vital to meeting this aspiration. 
+</p>
+<p>As someone that has been blessed with an interest in and aptitude for software development <strong>I believe the highest point of contribution I can make is as a developer.</strong>
+</p>
+</div>
+
 ## Why I'm a developer?
 
-As developers we build things countless people use and rely on. Many of us can look at the analytics data for our sites and see that millions of people use  them on a regular basis.
+As developers we build things countless people use for research and leisure or rely upon for their work. Many of us can look at the usage data for our sites and see that millions of people use them on a regular basis.
 
-Such reach is great but it means we have very little knowledge of our users' circumstances or context. Fortunately, web technologies can accommodate huge differences in users' hardware, software, network, context and ability. But this is often overlooked in favour of development fashion, individual interests or convenience. 
+This ability to provide tools for such a large audience is great but it means we have very little knowledge of our users' circumstances or context. Fortunately, web technologies can accommodate huge differences in users' hardware, software, network, context and ability. But this is often overlooked in favour of development fashion, individual interests or convenience. 
 
 This has resulted in much of the web being broken and that _really_ isn't OK. 
 
@@ -46,18 +55,20 @@ I believe we all need to be very cautious of what Jim Collins calls <q>the undis
 
 <blockquote>
 <p>
-If we search for a good career opportunity our brain will serve up scores of pages to explore and work through. Instead, why not conduct an advanced search and ask three question: 
+If we search for a good career opportunity our brain will serve up scores of pages to explore and work through. Instead, why not conduct an advanced search and ask three questions: 
 </p>
 <ul>
     <li>what am I deeply passionate about;</li>
     <li>what taps my talent, and;</li>
     <li>what meets a significant need in the world?</li>
 </ul>
-<p>Naturally, there won't be as many pages to view <em>but that is the point of the exercise</em>. We aren't looking for a plethora of good things to do. <strong>We are looking for the one where we can our absolutely highest point of contribution</strong></p>
+<p>Naturally, there won't be as many pages to view <em>but that is the point of the exercise</em>. We aren't looking for a plethora of good things to do. <strong>We are looking for the one where we can make our absolutely highest point of contribution</strong></p>
 <cite><a href="https://www.amazon.co.uk/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0753555166/ref=sr_1_1?dchild=1&keywords=essentialism&qid=1612699482&sr=8-1">Greg McKeown. "Essentialism"</a></cite>
 </blockquote>
 
-For me that is being a great software developer devoting their skills and effort to products that serve the public good. The things I have no interest in and/or which I've identified as directly jeopardising my highest contribution are:
+For me that is **being a great software developer devoting their skills and effort to products that serve the public good**. The things I have no interest in and/or which I've identified as directly jeopardising my highest contribution are:
 
 * **Being a line manager**. I absolutely (categorically and emphatically) do not want to return to line management. There are several reasons for this, which I've written about in [what being a manager taught me about myself](/2019/10/30/what-being-a-manager-taught-me-about-myself.html).
 * **Slipping into a ‘generalist’ or ‘jack of all trades’ role**. I’m always happy to help with a broad range of things (like supporting other speciailisms, admin and other generalist tasks), but I always intend to be a technical specialist first and foremost.
+
+In summary, the web is an increasingly important part of modern life and can have a transformative impact for good - especially for those who, for any number of reasons, may not have been able to participate fully. I am very passionate about this and see the role of software developers as vital to meeting this aspiration (we have a familiarity with the inner workings of sites that other specialisms can't expect to). As someone that has been blessed with an interest in and aptitude for software development I believe the highest point of contribution I can make is as a developer.
