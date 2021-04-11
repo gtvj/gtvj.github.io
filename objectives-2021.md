@@ -14,7 +14,7 @@ I'd like to improve my running fitness and performance in 2021.
 
 **Current objectives**:
 
-* Identify next goal (and start training on 10 April)
+* Train for 10K race
 
 <div class="progress">
     <dl>
