@@ -15,4 +15,8 @@
     border-left: 4px solid $warning-colour;
     @include outcome
   }
+
+  .idea {
+    @include idea
+  }
 }

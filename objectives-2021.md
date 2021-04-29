@@ -41,6 +41,19 @@ Very broadly, I'd like to be a better lead developer at the end of 2021 than I a
 <div class="progress">
 <h3>Achievements</h3>
 <dl>
+    <dt>Read <a href="https://www.amazon.co.uk/Make-Stick-Science-Successful-Learning/dp/0674729013/">Make It Stick: The Science of Successful Learning</a></dt>
+    <dd>
+        <p>I read this book because I'm always trying to get better at learning. It's a very good book.</p>
+        <p>The key takeaways for me were:</p>
+        <ul class="idea">
+            <li><strong>Retrieval practice is very effective</strong>. Re-reading is not. The effort of retreiving knowledge strengthens its staying power.</li>
+            <li><strong>When learning is feels difficult it can be the most effective</strong>. When learning feels easy it is unlikely to last.</li>
+            <li><strong>Mixed practice is good</strong>. Repeating the same thing again and again is not.</li>
+            <li><strong>Interleved practice is good</strong>. Perfecting something then moving on is not.</li>
+            <li><strong>Spaced practice is good</strong>. Cramming is not.</li>
+        </ul>
+        <p>All of this is <em>hugely</em> valuable.</p>
+</dd>
     <dt>Write <a href="https://gtvj.github.io/2021/03/09/wagtail-pages.html">Wagtail page model</a> blog post</dt>
     <dd><p>This is a tutorial post covering the basic steps and concepts of Wagtail page models and their relationship to Django models.</p></dd>
     <dt>Write <a href="https://gtvj.github.io/2021/03/06/stack-series-first-impressions-wagtail.html">Stack series (Pt. 1) First impressions of Wagtail</a> blog post</dt>
