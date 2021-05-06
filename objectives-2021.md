@@ -36,12 +36,12 @@ Very broadly, I'd like to be a better lead developer at the end of 2021 than I a
 **Current objectives**:
 
 * Finish [Python for Everybody: The Ultimate Python 3 Bootcamp](https://learning.oreilly.com/videos/python-for-everybody/9781800562196/)
-* Read [Make It Stick: The Science of Successful Learning](https://www.amazon.co.uk/Make-Stick-Science-Successful-Learning/dp/0674729013)
+* Read [Indistractable: How to Control Your Attention and Choose Your Life](https://www.nirandfar.com/indistractable/)
 
 <div class="progress">
 <h3>Achievements</h3>
 <dl>
-    <dt>Read <a href="https://www.amazon.co.uk/Make-Stick-Science-Successful-Learning/dp/0674729013/">Make It Stick: The Science of Successful Learning</a></dt>
+    <dt>Read <a href="https://www.amazon.co.uk/Make-Stick-Science-Successful-Learning/dp/0674729013/">Make It Stick: The Science of Successful Learning</a> by Peter C. Brown</dt>
     <dd>
         <p>I read this book because I'm always trying to get better at learning. It's a very good book.</p>
         <p>The key takeaways for me were:</p>
@@ -87,12 +87,16 @@ The most crucial ingredient for success in music is what happens in the practice
 
 **Current objectives**:
 
-* [Adam Levy's Take 5: Pocket Rhythm](https://truefire.com/rhythm-guitar-lessons/take-5-pocket/c1459) (TrueFire course)
-* [Chris Buono's Guitar Gym Weekly Workouts (Volume 1)](https://truefire.com/foundry-guitar-lessons/guitar-gym-weekly-workoutsguitar-gym-weekly-workouts-introduction/v39749) (TrueFire course)
+* [Modal Expose by Robbie Calvo](https://truefire.com/techniques-guitar-lessons/modal-expose/) (TrueFire course)
+* Learning the fretboard with the Solo app
 
 <div class="progress">
     <h3>Achievements</h3>
     <dl>
+        <dt><a href="https://truefire.com/rhythm-guitar-lessons/take-5-pocket/c1459">Adam Levy's Take 5: Pocket Rhythm</a> (Partially completed)</dt>
+        <dd>
+            <p>Good little course. I only learned the first three songs from this five song course. Felt I got enough from those to move on to something else.</p>
+        </dd>
         <dt><a href="https://truefire.com/ear-training-guitar-lessons/guitar-lab-vol-2/">Brad Carlton's Ear Training (Volume 2)</a> (TrueFire course)</dt>
         <dd>
             <p>Part 2 of this series. Pretty good. I feel more able to recognises chord progressions but still got some of the examples wrong (only a very small proportion though - less than one in ten). </p>
