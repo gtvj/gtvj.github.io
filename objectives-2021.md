@@ -36,6 +36,7 @@ Very broadly, I'd like to be a better lead developer at the end of 2021 than I a
 **Current objectives**:
 
 * Finish [Python for Everybody: The Ultimate Python 3 Bootcamp](https://learning.oreilly.com/videos/python-for-everybody/9781800562196/) (9 hours and 20 minutes of video course)
+* Read [Effortless: Make it Easier to Do What Matters Most](https://gregmckeown.com/books/effortless/) by Greg McKeown
 
 <div class="progress">
 <h3>Achievements</h3>
