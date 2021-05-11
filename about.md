@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2021-04-11
+date: 2021-05-11
 h1: Hello
 author: gtvj
 layout: page
@@ -11,10 +11,9 @@ I'm a web developer from London, England. This page describes my professional pu
 
 <div class="info">
 <h2><abbr title="Too long; didn't read">tl;dr</abbr></h2>
-<p>
- The web is an increasingly important part of modern life and can have a transformative impact for good - especially for those who, for any number of reasons, may not have been able to participate fully. I am very passionate about this and see the role of software developers as vital to meeting this aspiration. 
-</p>
-<p>As someone that has been blessed with an interest in and aptitude for software development <strong>I believe the highest point of contribution I can make is as a developer.</strong>
+<p>The web is an increasingly important part of modern life and can have a transformative impact for good - especially for those who, for any number of reasons, may not have been able to participate fully.</p>
+<p>The decisions developers take on a day-to-day basis can have a huge impact on how users experience products and, in this regard and many other ways, the success of their organisations. I am very passionate about this and the need for software developers to recognise the vital role they play.</p>
+<p>As someone that has been blessed with an interest in and aptitude for software development I believe the highest point of contribution I can make is as a developer.
 </p>
 </div>
 
