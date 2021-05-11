@@ -36,11 +36,12 @@ Very broadly, I'd like to be a better lead developer at the end of 2021 than I a
 **Current objectives**:
 
 * Finish [Python for Everybody: The Ultimate Python 3 Bootcamp](https://learning.oreilly.com/videos/python-for-everybody/9781800562196/) (9 hours and 20 minutes of video course)
-* Read [Indistractable: How to Control Your Attention and Choose Your Life](https://www.nirandfar.com/indistractable/)
 
 <div class="progress">
 <h3>Achievements</h3>
 <dl>
+    <dt>Read <a href="https://www.nirandfar.com/indistractable/">Indistractable: How to Control Your Attention and Choose Your Life</a></dt>
+    <dd>Good book which echoes much of what I'd read in Atomic Habits. I'd already done a courses by the Author (some years ago) so had adopted some of his recommendations already, but the book provided quite a bit of additional information. I especially liked the advice relating to parenting. </dd>
     <dt>Read <a href="https://www.amazon.co.uk/Make-Stick-Science-Successful-Learning/dp/0674729013/">Make It Stick: The Science of Successful Learning</a> by Peter C. Brown</dt>
     <dd>
         <p>I read this book because I'm always trying to get better at learning. It's a very good book.</p>
