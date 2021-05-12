@@ -14,7 +14,7 @@ I'd like to improve my running fitness and performance in 2021.
 
 **Current objectives**:
 
-* Train for 10K race
+* Train for a 10K race
 
 <div class="progress">
     <dl>
@@ -28,7 +28,7 @@ I'd like to improve my running fitness and performance in 2021.
 
 ## Professional development
 
-Very broadly, I'd like to be a better lead developer at the end of 2021 than I am at the start. I'm defining 'better' in this context to mean being more capable of delivering user value effectively and efficiently, and to communicate the 'why' and 'how' of doing so to others. The two areas of focus are: 
+Very broadly, I'd like to be a better lead developer at the end of 2021 than I am at the start. I'm defining 'better' in this context to mean being more capable of delivering user value effectively and efficiently, and to communicate the 'why' and 'how' of doing so to others. My two areas of focus are: 
 
 * the new stack we'll be using at work (both front end and back end)
 * broader professional and personal effectiveness skills
@@ -41,17 +41,17 @@ Very broadly, I'd like to be a better lead developer at the end of 2021 than I a
 <div class="progress">
 <h3>Achievements</h3>
 <dl>
-    <dt>Read <a href="https://www.nirandfar.com/indistractable/">Indistractable: How to Control Your Attention and Choose Your Life</a></dt>
-    <dd>Good book which echoes much of what I'd read in Atomic Habits. I'd already done a courses by the Author (some years ago) so had adopted some of his recommendations already, but the book provided quite a bit of additional information. I especially liked the advice relating to parenting. </dd>
+    <dt>Read <a href="https://www.nirandfar.com/indistractable/">Indistractable: How to Control Your Attention and Choose Your Life</a> by Nir Eyal</dt>
+    <dd>This was good book which echoes much of what I'd read in Atomic Habits and Essentialism. I'd already done a LinkedIn Learaning course by the author (some time ago) so had adopted some of his recommendations already, but I got more from the book. I especially liked the advice relating to parenting. </dd>
     <dt>Read <a href="https://www.amazon.co.uk/Make-Stick-Science-Successful-Learning/dp/0674729013/">Make It Stick: The Science of Successful Learning</a> by Peter C. Brown</dt>
     <dd>
-        <p>I read this book because I'm always trying to get better at learning. It's a very good book.</p>
+        <p>I got this book because I'm always trying to get better at learning. It containss lots of good practical advice.</p>
         <p>The key takeaways for me were:</p>
         <ul class="idea">
-            <li><strong>Retrieval practice is very effective</strong>. Re-reading is not. The effort of retreiving knowledge strengthens its staying power.</li>
-            <li><strong>When learning is feels difficult it can be the most effective</strong>. When learning feels easy it is unlikely to last.</li>
+            <li><strong>Retrieval practice is very effective</strong>. Re-reading is not. The effort of retrieving knowledge strengthens its staying power.</li>
+            <li><strong>When learning feels difficult it can be most effective</strong>. When learning feels easy it is unlikely to last.</li>
             <li><strong>Mixed practice is good</strong>. Repeating the same thing again and again is not.</li>
-            <li><strong>Interleved practice is good</strong>. Perfecting something then moving on is not.</li>
+            <li><strong>Interleved practice is good</strong>. Perfecting something before moving on is not.</li>
             <li><strong>Spaced practice is good</strong>. Cramming is not.</li>
         </ul>
         <p>All of this is <em>hugely</em> valuable.</p>
@@ -62,15 +62,15 @@ Very broadly, I'd like to be a better lead developer at the end of 2021 than I a
     <dd><p>This post brings together my initial thoughts and opinions about Wagtail</p></dd>
     <dt>Read <a href="https://jamesclear.com/atomic-habits">Atomic Habits</a> by James Clear</dt>
     <dd>
-        <p>Another good book with a lot of great advice. I just feel a little sorry for it because I read it straight after Essentialism (which is a tough act to follow). Nonethelesss - there are a lot of great ideas here and I'll be re-reading it for sure. Two especially impactful/resonant ideas were: the difference between being "in motion" and "taking action", and; The lesson about not being able to choose if you're an egg or a potatoe (It'll make sense if you read the book).</p>
-        <p><strong>Update:</strong> I re-read this book shortly afterwards and don't feel I'd really done it justice with the first reading. I got a lot more from it on the second reading. It's an excellent book.</p>
+        <p>Another good book with a lot of great advice. I just feel a little sorry for it because I read it straight after Essentialism (which is a tough act to follow). Nonethelesss - there are a lot of great ideas here and I'll be re-reading it for sure. Two especially impactful/resonant ideas were: the difference between being "in motion" and "taking action", and; The lesson about not being able to choose if you're an egg or a potatoe (that'll make sense if you get the book).</p>
+        <p><strong>Update:</strong> I re-read this book shortly afterwards and don't feel I'd really done it justice with the first reading. I got a lot more from it on second reading. It's an excellent book.</p>
     </dd>
     <dt>Completed <a href="https://learnwagtail.com/wagtail-for-beginners/">Wagtail for Beginners</a> (Course)</dt>
     <dd><p>This course is designed for developers who are new to Wagtail CMS. It's given me a reasonably solid grounding in Wagtail concepts and provided the basis for further research into specific areas.</p></dd>
     <dt>Read <a href="https://gregmckeown.com/books/essentialism/">Esssentialism</a> by Greg McKeown</dt>
     <dd>
         <p>This is the best book about personal effectiveness I've read in the last decade. </p>
-        <p>In my opinion it's right up there with the 7 Habits of Highly Effective People by Stephen R. Covey and Getting Things Done by David Allen.It has profoundly impacted how I think about work (and life). I can't recommend it highly enough 😍</p>
+        <p>In my opinion it's right up there with the 7 Habits of Highly Effective People by Stephen R. Covey and Getting Things Done by David Allen. Essentialism has profoundly impacted how I think about work (and life). I can't recommend it highly enough 😍</p>
         <p><strong>Update:</strong> having now re-read Essentialism I still think it's great.</p>
     </dd>
 </dl>
@@ -78,9 +78,9 @@ Very broadly, I'd like to be a better lead developer at the end of 2021 than I a
 
 ## Guitar
 
-Having exceeded 300 hours of practice in 2020 my plan for 2021 is to ensure that my practice sessions are of high-quality and incorporate the [principles of good practice](/2021/01/01/components-of-good-practice.html). 
+Having exceeded 300 hours of practice in 2020 my plan for this year is to ensure that my practice sessions are of high-quality and incorporate the [principles of good practice](/2021/01/01/components-of-good-practice.html). 
 
-One rule I have for 2021 is that **only deliberate, focussed practice is recorded as practice time**. It's fine to play something I know while watching, say, YouTube, but this can't be recorded towards my daily practice time.
+One rule I have for 2021 is that **only deliberate, focussed practice is recorded as practice time**. It's fine to play something I know while watching but this can't be recorded towards my daily practice time.
 
 <blockquote>
 The most crucial ingredient for success in music is what happens in the practice room
@@ -101,14 +101,14 @@ The most crucial ingredient for success in music is what happens in the practice
         </dd>
         <dt><a href="https://truefire.com/ear-training-guitar-lessons/guitar-lab-vol-2/">Brad Carlton's Ear Training (Volume 2)</a> (TrueFire course)</dt>
         <dd>
-            <p>Part 2 of this series. Pretty good. I feel more able to recognises chord progressions but still got some of the examples wrong (only a very small proportion though - less than one in ten). </p>
+            <p>Part 2 of this series. Pretty good. I feel more able to recognise chord progressions but still got some of the examples wrong (only a very small proportion though - less than one in ten). </p>
         </dd>
         <dt><a href="https://truefire.com/ear-training-guitar-lessons/guitar-lab-vol-1/c1481">Brad Carlton's Ear Training (Volume 1)</a> (TrueFire course)</dt>
         <dd>
             <p>Good introductory course. A lot of the material I was already familiar with but a couple of things were either new or I'd forgotten:</p>
             <ul>
-                <li>You can use the chords in a progression to work out the 'theoretical' key. For example, if you've got two major chords a whole step apart, they must be th IV and V of a scale</li>
-                <li>There is the 'street' key for a song and the 'theoretical' key for a song. For example, if you're playing a song with two chords - say, C Major and A Major, you might use the 'street' key to tell other musicians what key it's in (for example, "Let's play blah in C") but you'd need to know the theoretical key to know which scale the solo should be in (which, in this case, would be whatever scales has C and A as the IV and V)</li>
+                <li>You can use the chords in a progression to work out the 'theoretical' key. For example, if you've got two major chords a whole step apart, they must be the IV and V of a scale</li>
+                <li>There is the 'street' key for a song and the 'theoretical' key for a song. For example, if you're playing a song with two chords - say, C Major and D Major, you might use the 'street' key to tell other musicians what key it's in (for example, "Let's play blah in C") but you'd need to know the theoretical key to know which scale the solo should be in (which, in this case, would be whatever scales has C and D as the IV and V)</li>
             </ul>
         </dd>
         <dt>Designed new practice routine!</dt>
@@ -119,7 +119,7 @@ The most crucial ingredient for success in music is what happens in the practice
         <dd>
             <p>I've developed a good working knowledge of the CAGED system. I can play:</p>
             <ul>
-                <li>The major shapes, arepggios, scale forms (both major and pentatonic)</li>
+                <li>The major shapes, arpeggios, scale forms (both major and pentatonic)</li>
                 <li>The minor shapes and arpeggios</li>
             </ul>
         </dd>
@@ -155,7 +155,7 @@ The most crucial ingredient for success in music is what happens in the practice
         <dt><a href="https://truefire.com/techniques-guitar-lessons/caged-commander/">CAGED Commander</a> course on Truefire</dt>
         <dd>
             <p>My goal for this course was to improve my fretboard knowledge. I've learned all exercises but skipped sections where specific guitar solos are taught.</p> 
-            <p>Completing this course significantly expanded on my knowledge of the CAGED system. New knowledge includes:
+            <p>Completing this course significantly expanded on my knowledge of the CAGED system. New knowledge includes:</p>
                 <ul>
                     <li>all five arpeggio shapes and associated framing and trill exercises</li>
                     <li>all C Major double stops</li>
@@ -164,7 +164,6 @@ The most crucial ingredient for success in music is what happens in the practice
                     <li>diatonic sixth shapes up the neck (In C Major, these are: CA, DB, EC, FD, GE, AF and BG)</li>
                     <li>connecting the shapes using the 'half-step whole' or 'whole-step half' approach</li>
                 </ul>
-            </p>
         </dd>
     </dl>
 </div>
