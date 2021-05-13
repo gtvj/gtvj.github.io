@@ -47,7 +47,9 @@ Having done a bit of research I decided to use this course to structure my learn
     </p>
     </dd>
     <dt>Read <a href="https://www.nirandfar.com/indistractable/">Indistractable: How to Control Your Attention and Choose Your Life</a> by Nir Eyal</dt>
-    <dd>This was good book which echoes much of what I'd read in Atomic Habits and Essentialism. I'd already done a LinkedIn Learaning course by the author (some time ago) so had adopted some of his recommendations already, but I got more from the book. I especially liked the advice relating to parenting. </dd>
+    <dd>
+        <p>This was good book which echoes much of what I'd read in Atomic Habits and Essentialism. I'd already done a LinkedIn Learaning course by the author (some time ago) so had adopted some of his recommendations already, but I got more from the book. I especially liked the advice relating to parenting. </p>
+    </dd>
     <dt>Read <a href="https://www.amazon.co.uk/Make-Stick-Science-Successful-Learning/dp/0674729013/">Make It Stick: The Science of Successful Learning</a> by Peter C. Brown</dt>
     <dd>
         <p>I got this book because I'm always trying to get better at learning. It containss lots of good practical advice.</p>
