@@ -1,6 +1,6 @@
 @mixin outcome {
   background-color: $light-grey;
-  padding: 0.2em 1.5em;
+  padding: 0.2em 1.5em 1em 1.5em;
   li {
     list-style: none;
     &::before {
