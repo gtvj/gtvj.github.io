@@ -101,11 +101,15 @@ The most crucial ingredient for success in music is what happens in the practice
 
 **Current objectives**:
 
-* [Modal Expose by Robbie Calvo](https://truefire.com/techniques-guitar-lessons/modal-expose/) (TrueFire course)
+* [Robbie Calvo's Creative Looping Handbook](https://truefire.com/guitar-lessons/creative-looping-handbook/) (TrueFire course)
 * Learning the fretboard with the Solo app
 
 <div class="progress">
     <h3>Achievements</h3>
+    <details>
+        <summary><strong>Course: </strong><a href="https://truefire.com/techniques-guitar-lessons/modal-expose/">Modal Expose by Robbie Calvo</a> (TrueFire course)</summary>
+        <p>Great course and I've now got a grounding in the modes. I know what the modes are, how to identify them, the relevant fingerings and arpeggios. It'll take me a lifetime to master but I'm able to now jump straight in to improvising, say, a C# phryigian progression and play over it. That's a big jump for me.</p>
+    </details>
     <details>
         <summary><strong>Course:</strong> <a href="https://truefire.com/rhythm-guitar-lessons/take-5-pocket/c1459">Adam Levy's Take 5: Pocket Rhythm</a> (Partially completed)</summary>
         <p>Good little course. I only learned the first three songs from this five song course. Felt I got enough from those to move on to something else.</p>
