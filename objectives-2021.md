@@ -36,10 +36,14 @@ why' and 'how' of doing so to others. My two areas of focus are:
 
 **Current objectives**:
 
-* Read [Effortless: Make it Easier to Do What Matters Most](https://gregmckeown.com/books/effortless/) by Greg McKeown
+* Pause and reflect 🤔
 
 <div class="progress">
     <h3>Achievements</h3>
+    <details>
+        <summary><strong>Book read:</strong> <a href="https://gregmckeown.com/books/effortless/">Effortless: Make it Easier to Do What Matters Most</a></summary>
+        <p>Good book. Lots of ideas that resonated but I expect I'll get more from it on a second pass.</p>
+    </details>
     <details>
         <summary><strong>Course completed:</strong> <a href="https://learning.oreilly.com/videos/python-for-everybody/9781800562196/">Python for Everybody: The Ultimate Python 3 Bootcamp</a></summary>
         <p>Having done a bit of research I decided to use this course to structure my learning because it has beginner, intermediate, and advanced modules. Really good course.</p>
@@ -101,11 +105,14 @@ The most crucial ingredient for success in music is what happens in the practice
 
 **Current objectives**:
 
-* [Robbie Calvo's Creative Looping Handbook](https://truefire.com/guitar-lessons/creative-looping-handbook/) (TrueFire course)
-* Learning the fretboard with the Solo app
+* Find some inspiration and motivation. Been feeling quite flat recently and practice is feeling like a chore. 
 
 <div class="progress">
     <h3>Achievements</h3>
+    <details>
+        <summary><strong>Course: </strong><a href="https://truefire.com/guitar-lessons/creative-looping-handbook/">Robbie Calvo's Creative Looping Handbook</a></summary>
+        <p>Blasted through this course. Most useful insight: think about separation between your loops (one in the high register, one in low etc. and use the guitar switching to support this, where appropriate)</p>
+    </details>
     <details>
         <summary><strong>Course: </strong><a href="https://truefire.com/techniques-guitar-lessons/modal-expose/">Modal Expose by Robbie Calvo</a> (TrueFire course)</summary>
         <p>Great course and I've now got a grounding in the modes. I know what the modes are, how to identify them, the relevant fingerings and arpeggios. It'll take me a lifetime to master but I'm able to now jump straight in to improvising, say, a C# phryigian progression and play over it. That's a big jump for me.</p>
