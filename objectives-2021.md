@@ -36,7 +36,8 @@ why' and 'how' of doing so to others. My two areas of focus are:
 
 **Current objectives**:
 
-* Pause and reflect 🤔
+* Prepare CSS signpost materials (for new developers)
+* Produce user-friendly to explain WCAG 2.1 Level AA and how to test for compliance
 
 <div class="progress">
     <h3>Achievements</h3>
