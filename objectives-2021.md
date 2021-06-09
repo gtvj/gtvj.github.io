@@ -67,11 +67,11 @@ why' and 'how' of doing so to others. My two areas of focus are:
         <p>All of this is <em>hugely</em> valuable.</p>
     </details>
     <details>
-        <summary><strong>Blog written:</strong> <a href="https://gtvj.github.io/2021/03/09/wagtail-pages.html">Wagtail page model</a> blog post</summary>
+        <summary><strong>Blog written:</strong> <a href="https://gtvj.github.io/2021/03/12/new-stack-2-wagtail-pages.html">Wagtail page model</a> blog post</summary>
         <p>This is a tutorial post covering the basic steps and concepts of Wagtail page models and their relationship to Django models.</p>
     </details>
     <details>
-        <summary><strong>Blog written:</strong> <a href="https://gtvj.github.io/2021/03/06/stack-series-first-impressions-wagtail.html">Stack series (Pt. 1) First impressions of Wagtail</a> blog post</summary>
+        <summary><strong>Blog written:</strong> <a href="https://gtvj.github.io/2021/03/06/new-stack-1-first-impressions-wagtail.html">Stack series (Pt. 1) First impressions of Wagtail</a> blog post</summary>
         <p>This post brings together my initial thoughts and opinions about Wagtail</p>
     </details>
     <details>
