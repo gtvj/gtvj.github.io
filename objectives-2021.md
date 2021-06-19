@@ -8,16 +8,24 @@ include_in_footer: true
 
 This page lists: my big picture **goals** for the year; what I'm **currently doing** towards them, and what I've **done** so far.
 
-## Health and wellness
+## Health and wellbeing 🏃🏻 
 
-I'd like to improve my running fitness and performance in 2021.
+I'd like to:
+
+* improve my running fitness and performance
+* learn skills and develop a perspective that will result in a calmer and more fulfilled life
 
 **Current objectives**:
 
 * Train for a 10K race
+* Read [Stop reading the news](https://www.kobo.com/us/en/ebook/stop-reading-the-news-1) by Rolf Dobelli
 
 <div class="progress">
     <h3>Achievements</h3>
+    <details open>
+        <summary><strong>Book read:</strong> <a href="https://www.kobo.com/us/en/ebook/humankind-5">Humankind - a hopeful history</a> by Rutger Bregman</summary>
+        <p>This wonderful book convincingly challenged many of my longest held beliefs about people. I'm more hopeful about people than I wass before reading it. I strongly recommend it.</p>
+    </details>
     <details open>
         <summary><strong>Race completed: </strong>The Spring Virtual 5K</summary>
         <p>Having followed an 11 week Garmin Coach adaptive plan I completed this on 27 March. It wasn't my fastest 5K (and was actually 2:45 off my best time from 2017). That said I <strong>did come in 32 seconds under my goal time.</strong></p>
@@ -25,7 +33,7 @@ I'd like to improve my running fitness and performance in 2021.
     </details>
 </div>
 
-## Professional development
+## Professional development 👨🏽‍💻
 
 Very broadly, I'd like to be a better lead developer at the end of 2021 than I am at the start. I'm defining 'better' in
 this context to mean being more capable of delivering user value effectively and efficiently, and to communicate the '
@@ -91,7 +99,7 @@ why' and 'how' of doing so to others. My two areas of focus are:
     </details>
 </div>
 
-## Guitar
+## Guitar 🎸
 
 Having exceeded 300 hours of practice in 2020 my plan for this year is to ensure that my practice sessions are of
 high-quality and incorporate the [principles of good practice](/2021/01/01/components-of-good-practice.html).
