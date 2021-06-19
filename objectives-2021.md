@@ -24,7 +24,7 @@ I'd like to:
     <h3>Achievements</h3>
     <details open>
         <summary><strong>Book read:</strong> <a href="https://www.kobo.com/us/en/ebook/humankind-5">Humankind - a hopeful history</a> by Rutger Bregman</summary>
-        <p>This wonderful book convincingly challenged many of my longest held beliefs about people. I'm more hopeful about people than I wass before reading it. I strongly recommend it.</p>
+        <p>This wonderful book convincingly challenged many of my longest held beliefs about people. I'm more hopeful about people than I was before reading it. I strongly recommend it.</p>
     </details>
     <details open>
         <summary><strong>Race completed: </strong>The Spring Virtual 5K</summary>
