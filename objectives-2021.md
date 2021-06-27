@@ -114,7 +114,8 @@ The most crucial ingredient for success in music is what happens in the practice
 
 **Current objectives**:
 
-* Find some inspiration and motivation. Been feeling quite flat recently and practice is feeling like a chore. 
+* Re-learn the two Guthrie Trapp solos I learned last year
+* Identify a course I'd like to do or song I'd like to learn
 
 <div class="progress">
     <h3>Achievements</h3>
