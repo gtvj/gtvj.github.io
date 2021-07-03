@@ -114,8 +114,8 @@ The most crucial ingredient for success in music is what happens in the practice
 
 **Current objectives**:
 
-* Re-learn the two Guthrie Trapp pieces I learned in 2020 (realisesd I'd forgotten how to play them from memory)
-* Identify a course I'd like to do or song I'd like to learn
+* Re-learn the two Guthrie Trapp pieces I learned in 2020 (recently realised I'd forgotten how to play them from memory)
+* **Course:** [Tom Dempsey's Fretboard Phenom](https://truefire.com/techniques-guitar-lessons/fretboard-phenom/)
 * Develop a strong understanding of magnetic echo techniques and the parameters of Strymon Volante
 
 <div class="progress">
