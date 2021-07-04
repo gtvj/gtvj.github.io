@@ -28,6 +28,19 @@ I'd like to:
         <p>This wonderful book convincingly challenged many of my longest held beliefs about people. I'm more hopeful about people than I was before reading it. I strongly recommend it.</p>
     </details>
     <details open>
+        <summary><strong>Book read:</strong> <a href="https://www.amazon.co.uk/Make-Stick-Science-Successful-Learning/dp/0674729013/">Make It Stick: The Science of Successful Learning</a> by Peter C. Brown</summary>
+        <p>I got this book because I'm always trying to get better at learning. It contains lots of good practical advice.</p>
+        <p>The key takeaways for me were:</p>
+        <ul class="idea">
+            <li><strong>Retrieval practice is very effective</strong>. Re-reading is not. The effort of retrieving knowledge strengthens its staying power.</li>
+            <li><strong>When learning feels difficult it can be most effective</strong>. When learning feels easy it is unlikely to last.</li>
+            <li><strong>Mixed practice is good</strong>. Repeating the same thing again and again is not.</li>
+            <li><strong>Interleved practice is good</strong>. Perfecting something before moving on is not.</li>
+            <li><strong>Spaced practice is good</strong>. Cramming is not.</li>
+        </ul>
+        <p>All of this is <em>hugely</em> valuable.</p>
+    </details>
+    <details open>
         <summary><strong>Race completed: </strong>The Spring Virtual 5K</summary>
         <p>Having followed an 11 week Garmin Coach adaptive plan I completed this on 27 March. It wasn't my fastest 5K (and was actually 2:45 off my best time from 2017). That said I <strong>did come in 32 seconds under my goal time.</strong></p>
         <p>I'm going to follow the advice now and just run easy for a couple of weeks while I identify my next goal.</p>
@@ -61,19 +74,6 @@ why' and 'how' of doing so to others. My two areas of focus are:
     <details open>
         <summary><strong>Book read:</strong> Read <a href="https://www.nirandfar.com/indistractable/">Indistractable: How to Control Your Attention and Choose Your Life</a> by Nir Eyal</summary>
         <p>This was good book which echoes much of what I'd read in Atomic Habits and Essentialism. I'd already done a LinkedIn Learaning course by the author (some time ago) so had adopted some of his recommendations already, but I got more from the book. I especially liked the advice relating to parenting.</p>
-    </details>
-    <details open>
-        <summary><strong>Book read:</strong> <a href="https://www.amazon.co.uk/Make-Stick-Science-Successful-Learning/dp/0674729013/">Make It Stick: The Science of Successful Learning</a> by Peter C. Brown</summary>
-        <p>I got this book because I'm always trying to get better at learning. It containss lots of good practical advice.</p>
-        <p>The key takeaways for me were:</p>
-        <ul class="idea">
-            <li><strong>Retrieval practice is very effective</strong>. Re-reading is not. The effort of retrieving knowledge strengthens its staying power.</li>
-            <li><strong>When learning feels difficult it can be most effective</strong>. When learning feels easy it is unlikely to last.</li>
-            <li><strong>Mixed practice is good</strong>. Repeating the same thing again and again is not.</li>
-            <li><strong>Interleved practice is good</strong>. Perfecting something before moving on is not.</li>
-            <li><strong>Spaced practice is good</strong>. Cramming is not.</li>
-        </ul>
-        <p>All of this is <em>hugely</em> valuable.</p>
     </details>
     <details open>
         <summary><strong>Blog written:</strong> <a href="https://gtvj.github.io/2021/03/12/new-stack-2-wagtail-pages.html">Wagtail page model</a> blog post</summary>
