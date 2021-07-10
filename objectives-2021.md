@@ -18,11 +18,14 @@ I'd like to:
 **Current objectives**:
 
 * Train for a 10K race
-* Read [Stop reading the news](https://www.kobo.com/us/en/ebook/stop-reading-the-news-1) by Rolf Dobelli
 * Read [The Brain Health Book](https://www.penguinrandomhouse.ca/books/617897/the-brain-health-book-by-john-randolph/9780393712872) by John Randolf
 
 <div class="progress">
     <h3>Achievements</h3>
+    <details open>
+        <summary><strong>Book read:</strong> <a href="https://www.kobo.com/us/en/ebook/stop-reading-the-news-1">Stop reading the news</a> by Rolf Dobelli</summary>
+        <p>At around 150 days into my current news avoiding lifestyle I didn't need much convincing of the reasons why we are diminished by consuming the news in its various forms. But this book has provided so much more evidence. I'm so glad I read it and am now firmly resolved to continue avoiding the news.</p>
+    </details>
     <details open>
         <summary><strong>Book read:</strong> <a href="https://www.kobo.com/us/en/ebook/humankind-5">Humankind - a hopeful history</a> by Rutger Bregman</summary>
         <p>This wonderful book convincingly challenged many of my longest held beliefs about people. I'm more hopeful about people than I was before reading it. I strongly recommend it.</p>
